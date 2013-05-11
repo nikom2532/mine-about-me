@@ -8,7 +8,7 @@
 						<div>Home</div>
 					</div>
 				</a>
-				<a href="#" id="education">
+				<a href="#" id="educations">
 					<div class="span7 box1 no-left">
 						Educations
 					</div>
