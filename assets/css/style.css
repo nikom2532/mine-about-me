@@ -1,0 +1,26 @@
+.container{
+	width: 100%;
+}
+
+.box1{
+	background-color: #ffffff;
+}
+.box1-1{
+	background-color: #ADD9FF;
+	height: 100px;
+}
+.box1-2{
+	background-color: #553BFF;
+}
+.box2-1{
+	background-color: #A8BFFF;
+}
+.box2-2{
+	background-color: #69BBFF;
+}
+/*.row-fluid [class*="span"]{
+	
+}*/
+.no-left{
+	margin-left: 0 !important;
+}
