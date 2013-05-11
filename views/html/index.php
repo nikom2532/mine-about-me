@@ -11,14 +11,22 @@
 					<div>Home</div>
 				</div>
 				<div class="span7 box1 no-left">
-					History<br />df
+					Educations
 				</div>
 			</div>
 	  		<div class="row-fluid" >
 				<div class="span7 box1 no-left">
-					Profiles
+					Experiences
 				</div>
 				<div class="span5 box1 no-left">
+					Projects
+				</div>
+			</div>
+	  		<div class="row-fluid" >
+				<div class="span5 box1 no-left">
+					Awards
+				</div>
+				<div class="span7 box1 no-left">
 					
 				</div>
 			</div>
