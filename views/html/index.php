@@ -31,9 +31,13 @@
 				</div>
 			</div>
 		</div>
-		
 		<div class="span8 ">
-			
+			<div class="row-fluid" >
+				<div class="span10 main-content">
+					Hi, My name is 
+					<div class="myname">Nikom Suwankamol (Arming Huang)</div>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>

@@ -1,12 +1,61 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://themes.googleusercontent.com/static/fonts/opensans/v6/DXI1ORHCpsQm3Vp6mXoaTaRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Bree Serif';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://themes.googleusercontent.com/static/fonts/breeserif/v2/LQ7WLTaITDg4OSRuOZCps73hpw3pgy2gAi-Ip7WPMi0.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url(https://themes.googleusercontent.com/static/fonts/opensans/v6/MTP_ySUJH_bn48VBG8sNSqRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://themes.googleusercontent.com/static/fonts/opensans/v6/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
+}
+/*@font-face {
+	font-family: 'BodoniEgyptianPro-ExtBold';
+	src: url('https://fnt.webink.com/wfs/?drawer=EDF5BD94-005E-4F4B-9264-488EA117B08B&font=5C319BA5-91A6-CDA5-9E58-2754425781DC');
+	font-weight: normal;
+	font-style: normal;
+}
+.BodoniEgyptianPro-ExtBold { 
+	font-family: BodoniEgyptianPro-ExtBold !important; 
+}
+@font-face {
+	font-family: 'BodoniEgyptianPro-Medium';
+	src: url('https://fnt.webink.com/wfs/?drawer=EDF5BD94-005E-4F4B-9264-488EA117B08B&font=9323A2D8-AC1C-2762-9326-31829C90BB91');
+	font-weight: normal;font-style: normal;
+}
+.BodoniEgyptianPro-Medium { 
+	font-family: BodoniEgyptianPro-Medium !important; 
+}*/
+/*@import url("//fonts.googleapis.com/css?family=Goudy+Bookletter+1911:400normal|Denk+One:400normal|Fondamento:400normal,400italic|Orienta:400normal|Special+Elite:400normal|Arbutus+Slab:400normal|Just+Me+Again+Down+Here:400normal|Karla:400normal,400italic,700normal,700italic|Sintony:400normal,700normal|Archivo+Black:400normal&subset=latin&directory&text=+%2C-.0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz&directory");*/
+/*@import url("http://fonts.googleapis.com/css?family=Orienta");*/
+/*@import url("http://fonts.googleapis.com/css?family=Quando");*/
+@import url("//fonts.googleapis.com/css?family=Roboto+Slab:100normal,300normal,400normal,700normal|Meie+Script:400normal|Noto+Serif:400normal,400italic,700normal,700italic|Noto+Sans:400normal,400italic,700normal,700italic|Days+One:400normal|Abril+Fatface:400normal|Chela+One:400normal|Alegreya+SC:400normal,400italic,700normal,700italic,900normal,900italic|Milonga:400normal|Quando:400normal&subset=latin&directory&text=+%2C-.0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz&directory");
+
+
+
+
 body{
 	background-color:#00CCFF;
 	color: #FFFFFF;
+	font-family: "Open Sans", serif;
 }
 .container{
 	width: 95%;
 	margin-top: 10px;
 }
-
 .box1{
 	background-color: #1291C7;
 	text-align: center;
@@ -20,4 +69,15 @@ body{
 .no-left{
 	margin-left: 2px !important;
 	margin-top: 2px !important;
+}
+.main-content{
+	margin-top:30px;
+	font-size: 20px;
+	font-family: "Open Sans", serif;
+	line-height: normal;
+}
+.main-content .myname{
+	font-size: 40px;
+/*	font-family: 'Quando', sans-serif;*/
+	font-family: "Bree Serif", serif;
 }
