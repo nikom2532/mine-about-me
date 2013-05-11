@@ -5,26 +5,26 @@
 <div class="container">
 	<div class="row-fluid">
 		
-		<div class="span6 ">
+		<div class="span4 ">
 	  		<div class="row-fluid" >
-				<div class="span4 box1-1 no-left">
-					Home
+				<div class="span5 box1 no-left">
+					<div>Home</div>
 				</div>
-				<div class="span8 box1-2 no-left">
-					History
+				<div class="span7 box1 no-left">
+					History<br />df
 				</div>
 			</div>
 	  		<div class="row-fluid" >
-				<div class="span8 box2-1 no-left">
+				<div class="span7 box1 no-left">
 					Profiles
 				</div>
-				<div class="span4 box2-2 no-left">
+				<div class="span5 box1 no-left">
 					
 				</div>
 			</div>
 		</div>
 		
-		<div class="span6 ">
+		<div class="span8 ">
 			
 		</div>
 	</div>

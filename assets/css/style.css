@@ -1,26 +1,23 @@
+body{
+	background-color:#00CCFF;
+	color: #FFFFFF;
+}
 .container{
-	width: 100%;
+	width: 95%;
+	margin-top: 10px;
 }
 
 .box1{
-	background-color: #ffffff;
-}
-.box1-1{
-	background-color: #ADD9FF;
+	background-color: #1291C7;
+	text-align: center;
+	vertical-align: middle;
 	height: 100px;
-}
-.box1-2{
-	background-color: #553BFF;
-}
-.box2-1{
-	background-color: #A8BFFF;
-}
-.box2-2{
-	background-color: #69BBFF;
+	padding: 40px 0;	
 }
 /*.row-fluid [class*="span"]{
 	
 }*/
 .no-left{
-	margin-left: 0 !important;
+	margin-left: 2px !important;
+	margin-top: 2px !important;
 }
