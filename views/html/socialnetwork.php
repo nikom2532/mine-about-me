@@ -1,8 +1,4 @@
-<div class="myname">sn</div>
-<br>====================
-<br>My Channels' Networking
-<br>====================
-<br>
+<div class="myname">My Channels' Networking</div>
 <br><a target="_blank" href="mailto:nikom2532@hotmail.com">Windows Live Hotmail</a> : nikom2532@hotmail.com
 <br><a target="_blank" href="https://www.ibm.com/developerworks/mydeveloperworks/profiles/user/ArmingHuang">IBM Developer works</a>
 <br><a target="_blank" href="http://twitter.com/nikom2532">twitter: @nikom2532</a>
