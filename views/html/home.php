@@ -8,4 +8,4 @@
 
 <div>Hi, My name is</div> 
 <div class="myname">Nikom Suwankamol (Arm&#237;ng H&#250;ang)</div>
-We are Web Application, and Mobile Development
+We are Web Application, and Mobile Platforms Developments.
