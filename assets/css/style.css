@@ -88,6 +88,14 @@ body{
 	height: 100px;
 	padding: 40px 0;
 }
+.box2{
+	background-color: #1291C7;
+	text-align: center;
+	vertical-align: middle;
+	height: 100px;
+	padding: 40px 0;	
+	font-size: 20px;
+}
 
 /*.row-fluid [class*="span"]{
 	

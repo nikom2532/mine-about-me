@@ -32,12 +32,23 @@
 						Awards
 					</div>
 				</a>
-<!-- 				<a href="./?c=sn"> -->
 				<a href="#" id="sn">
 					<div class="span7 box1 no-left">
 						My Channels' Networking
 					</div>
 				</a>
+			</div>
+	  		<div class="row-fluid" >
+				<a href="#" id="contact">
+					<div class="span7 box1 no-left">
+						Contact
+					</div>
+				</a>
+	  			<?php // <a href="#" id=""> ?>
+					<div class="span5 box2 no-left">
+						
+					</div>
+				<?php // </a> ?>
 			</div>
 			
 			<div class="row-fluid hit-counter" >
