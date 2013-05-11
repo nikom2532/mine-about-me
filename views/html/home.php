@@ -8,4 +8,7 @@
 
 <div>Hi, My name is</div> 
 <div class="myname">Nikom Suwankamol (Arm&#237;ng H&#250;ang)</div>
-We are Web Application, and Mobile Platforms Developments.
+<div>We are Web Application, and Mobile Platforms Developments.</div>
+<div style="margin-top: 30px;"></div>
+<div>E-mail: nikom2532@hotmail.com</div>
+<div>Telephone: +66 8 5506 5953</div>
