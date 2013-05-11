@@ -45,6 +45,23 @@
 @import url("//fonts.googleapis.com/css?family=Roboto+Slab:100normal,300normal,400normal,700normal|Meie+Script:400normal|Noto+Serif:400normal,400italic,700normal,700italic|Noto+Sans:400normal,400italic,700normal,700italic|Days+One:400normal|Abril+Fatface:400normal|Chela+One:400normal|Alegreya+SC:400normal,400italic,700normal,700italic,900normal,900italic|Milonga:400normal|Quando:400normal&subset=latin&directory&text=+%2C-.0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz&directory");
 
 
+A:link {
+	COLOR: #FFFFFF;
+	text-decoration: none;
+	text-shadow: 5px 5px 20px #0088ff;
+}
+A:visited {
+	COLOR: #FFFFFF;
+	text-decoration: none;
+	text-shadow: 5px 5px 20px #0088ff;
+}
+A:hover {
+	COLOR: #FFFFFF;
+	text-decoration: underline;
+	text-shadow: 5px 5px 20px #FF0000;
+}
+
+
 
 
 body{
@@ -63,6 +80,14 @@ body{
 	height: 100px;
 	padding: 40px 0;	
 }
+.box1:hover{
+	background-color: #0E719C;
+	text-align: center;
+	vertical-align: middle;
+	height: 100px;
+	padding: 40px 0;	
+}
+
 /*.row-fluid [class*="span"]{
 	
 }*/

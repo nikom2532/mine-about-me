@@ -8,7 +8,7 @@
 	<META NAME="Author" CONTENT="">
 	<META NAME="Keywords" CONTENT="">
 	<META NAME="Description" CONTENT="">
-	<link type="text/css" rel="stylesheet" href="./assets/css/main.css" />
+<!-- 	<link type="text/css" rel="stylesheet" href="./assets/css/main.css" /> -->
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href="./assets/css/bootstrap/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -16,5 +16,4 @@
 </HEAD>
 <body>
 	<div id="body_page">
-		<?php include("./assets/html/navigator.php"); ?>
-<!--  -->
+		<?php include("./assets/html/navigator_header.php"); ?>
