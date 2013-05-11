@@ -16,3 +16,4 @@
 <body>
 	<div id="body_page">
 		<?php include("./assets/html/navigator.php"); ?>
+<!--  -->
