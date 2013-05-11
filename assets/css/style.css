@@ -106,12 +106,14 @@ body{
 /*	font-family: 'Quando', sans-serif;*/
 	font-family: "Bree Serif", serif;
 }
-
-
+.hit-counter{
+	font-family: "Bree Serif", serif;
+	font-size: 20px;
+	line-height: normal;
+}
 #body_page .container #menu #home .box1{
 	background-color: #0E719C;
 }
-
 .main-content #home{
 	
 }

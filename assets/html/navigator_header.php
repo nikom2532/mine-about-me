@@ -39,6 +39,19 @@
 					</div>
 				</a>
 			</div>
+			
+			<div class="row-fluid hit-counter" >
+				<br/>
+				Page Viewed : 
+				<?php
+				include("./libs/Counter/index.php"); 
+				?> 
+				<br /><br />
+				Copyright <font size="4">&#169;</font> since <br />October 17th, 2011 &#64; 10:17 AM (GMT)
+				<Br>
+				by Arm&#237;ng H&#250;ang (Nikom Suwankamol). <br />Alright reserved <font size="4">&#174;</font>
+			</div>
+			
 		</div>
 		<div class="span8 ">
 			<div class="row-fluid" >
