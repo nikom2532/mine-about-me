@@ -79,13 +79,14 @@ body{
 	vertical-align: middle;
 	height: 100px;
 	padding: 40px 0;	
+	font-size: 20px;
 }
 .box1:hover{
 	background-color: #0E719C;
 	text-align: center;
 	vertical-align: middle;
 	height: 100px;
-	padding: 40px 0;	
+	padding: 40px 0;
 }
 
 /*.row-fluid [class*="span"]{
@@ -98,11 +99,27 @@ body{
 .main-content{
 	margin-top:30px;
 	font-size: 20px;
-	font-family: "Open Sans", serif;
 	line-height: normal;
 }
 .main-content .myname{
 	font-size: 40px;
 /*	font-family: 'Quando', sans-serif;*/
 	font-family: "Bree Serif", serif;
+}
+
+
+#body_page .container #menu #home .box1{
+	background-color: #0E719C;
+}
+
+.main-content #home{
+	
+}
+.main-content #education,
+.main-content #experiences,
+.main-content #projects,
+.main-content #awards,
+.main-content #sn
+{
+	display: none;
 }
