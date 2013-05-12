@@ -6,7 +6,12 @@
 		<div id="experience-345146231" class="editable-item section-item">
 			<div id="experience-345146231-view">
 				<hgroup>
-					<h4><a href="/search?search=&amp;title=Software+Developer&amp;sortCriteria=R&amp;keepFacets=true&amp;currentTitle=CP&amp;trk=prof-exp-title" name="title" title="Find others with this title">Software Developer</a><span class="edit-tools"><a href="javascript:void(0);" title="Click to edit this position" class="edit-section" data-trk="{ &quot;componentKey&quot; : &quot;profile-edit-position-form&quot;, &quot;source&quot; : &quot;prof-edit-background-edit_position-link&quot;, &quot;infoParams&quot;: { &quot;positionID&quot; : 345146231 } }">Edit</a></span></h4><h5><a href="/search?search=&amp;company=Socket+9+Co%2E%2C+Ltd%2E&amp;sortCriteria=R&amp;keepFacets=true&amp;trk=prof-exp-company-name" name="company" title="Find others who have worked at this company">Socket 9 Co., Ltd.</a></h5>
+					<h4>
+						<a href="/search?search=&amp;title=Software+Developer&amp;sortCriteria=R&amp;keepFacets=true&amp;currentTitle=CP&amp;trk=prof-exp-title" name="title" title="Find others with this title">Software Developer
+						</a>
+					</h4>
+					<h5><a href="/search?search=&amp;company=Socket+9+Co%2E%2C+Ltd%2E&amp;sortCriteria=R&amp;keepFacets=true&amp;trk=prof-exp-company-name" name="company" title="Find others who have worked at this company">Socket 9 Co., Ltd.</a>
+					</h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2012-12-01">
 						December 2012
