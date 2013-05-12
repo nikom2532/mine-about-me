@@ -176,6 +176,13 @@ body{
 	#menu .hit-counter{
 		display: none;
 	}
+	.box1,
+	.box1:hover,
+	.box2{
+		background-color: #1291C7;
+		height: 50px;
+		padding: 10px 0;
+	}
 }
 /* Landscape phones and down */
 @media (max-width: 480px) {
@@ -184,5 +191,13 @@ body{
 	}
 	#menu .hit-counter{
 		display: none;
+	}
+	.box1,
+	.box1:hover,
+	.box2{
+		background-color: #1291C7;
+		height: 50px;
+		padding: 10px 0;
+		font-size: 15px;
 	}
 }
