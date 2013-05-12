@@ -189,7 +189,7 @@ body{
 		display: none;
 	}
 	.container #menu #menu-navbar-open #navbar .box1,
-	.container #menu #menu-navbar-close #navbar .box1,{
+	.container #menu #menu-navbar-close #navbar .box1{
 		background-image: url("../../assets/images/navbar/navbar.png");
 		background-repeat:no-repeat;
 		background-position: center;
