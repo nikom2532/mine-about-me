@@ -155,13 +155,6 @@ body{
 .container #menu #menu-navbar-close{
 	display: none;
 }
-.show-inline{
-	display: inline;
-}
-.show-none{
-	display: none;
-}
-
 /* ### Responsive Size ### */
 /* Large desktop */
 @media (min-width: 1200px) {
@@ -246,4 +239,10 @@ body{
 	#menu .hit-counter{
 		display: none;
 	}
+}
+.show-inline{
+	display: inline !important;
+}
+.show-none{
+	display: none !important;
 }
