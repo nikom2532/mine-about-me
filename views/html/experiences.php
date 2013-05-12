@@ -31,8 +31,12 @@
 		<div id="experience-367593574" class="editable-item section-item">
 			<div id="experience-367593574-view">
 				<hgroup>
-					<a href="/company/2816900?trk=prof-exp-company-name"><h5 class="experience-logo"><span data-tracking="mcp_profile_sum" class="miniprofile-container /companies/2816900?miniprofile=" data-li-url="/companies/2816900?miniprofile="><strong><img src="http://m.c.lnkd.licdn.com/media/p/5/000/1cb/136/3351d16.png" alt="Monogon"></strong></span></h5></a><h4><a href="/search?search=&amp;title=Junior+MODx+Revolution+Developer+%28Outsource%29&amp;sortCriteria=R&amp;keepFacets=true&amp;currentTitle=CP&amp;trk=prof-exp-title" name="title" title="Find others with this title">Junior MODx Revolution Developer (Outsource)</a><span class="edit-tools"><a href="javascript:void(0);" title="Click to edit this position" class="edit-section" data-trk="{ &quot;componentKey&quot; : &quot;profile-edit-position-form&quot;, &quot;source&quot; : &quot;prof-edit-background-edit_position-link&quot;, &quot;infoParams&quot;: { &quot;positionID&quot; : 367593574 } }">Edit</a></span></h4><h5><span data-tracking="mcp_profile_sum" class="miniprofile-container /companies/2816900?miniprofile=" data-li-url="/companies/2816900?miniprofile="><strong><a href="/company/2816900?trk=prof-exp-company-name">Monogon</a></strong></span></h5>
-				</hgroup><span class="experience-date-locale">
+					<a href="/company/2816900?trk=prof-exp-company-name"><h5 class="experience-logo"><span data-tracking="mcp_profile_sum" class="miniprofile-container /companies/2816900?miniprofile=" data-li-url="/companies/2816900?miniprofile="><strong><img src="http://m.c.lnkd.licdn.com/media/p/5/000/1cb/136/3351d16.png" alt="Monogon"></strong></span></h5></a>
+					<h4><a href="/search?search=&amp;title=Junior+MODx+Revolution+Developer+%28Outsource%29&amp;sortCriteria=R&amp;keepFacets=true&amp;currentTitle=CP&amp;trk=prof-exp-title" name="title" title="Find others with this title">Junior MODx Revolution Developer (Outsource)</a>
+					</h4>
+					<h5><span data-tracking="mcp_profile_sum" class="miniprofile-container /companies/2816900?miniprofile=" data-li-url="/companies/2816900?miniprofile="><strong><a href="/company/2816900?trk=prof-exp-company-name">Monogon</a></strong></span></h5>
+				</hgroup>
+				<span class="experience-date-locale">
 					<time datetime="2013-01-01">
 						January 2013
 					</time>
@@ -41,7 +45,8 @@
 					</time>
 					<time>
 						(2 months)
-					</time><span class="locality">Bangkok, Thailand</span></span>
+					</time><span class="locality">Bangkok, Thailand</span>
+				</span>
 				<p class="description">
 					MODx Revolution Developer, Web Front-end Developer - Outsource from Socket 9
 				</p>

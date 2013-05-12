@@ -48,7 +48,7 @@
 A:link {
 	COLOR: #FFFFFF;
 	text-decoration: none;
-	text-shadow: 5px 5px 20px #0088ff;
+	text-shadow: 5px 5px 20px #0055cc;
 }
 A:visited {
 	COLOR: #FFFFFF;
@@ -68,6 +68,7 @@ body{
 	background-color:#00CCFF;
 	color: #FFFFFF;
 	font-family: "Open Sans", serif;
+	text-shadow: 5px 5px 20px #0055cc;
 }
 .container{
 	width: 95%;
@@ -133,10 +134,21 @@ body{
 .main-content #sn
 {
 	display: none;
+	
 }
 .tall50{
 	margin-top: 50px;
 }
 .font25{
 	font-size: 25px;
+}
+.main-content h4{
+	font-size: 30px;
+	font-family: "Bree Serif", serif;
+	line-height: normal;
+}
+.main-content h5{
+	font-size: 28px;
+	font-family: "Bree Serif", serif;
+	line-height: normal;
 }
