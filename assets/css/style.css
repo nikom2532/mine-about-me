@@ -114,6 +114,9 @@ body{
 /*	font-family: 'Quando', sans-serif;*/
 	font-family: "Bree Serif", serif;
 }
+.main-content .exp-position{
+	font-size: 30px;
+}
 .hit-counter{
 	font-family: "Bree Serif", serif;
 	font-size: 20px;
@@ -122,9 +125,7 @@ body{
 #body_page .container #menu #home .box1{
 	background-color: #0E719C;
 }
-.main-content #home{
-	
-}
+.main-content #home{}
 .main-content #educations,
 .main-content #experiences,
 .main-content #projects,
@@ -132,4 +133,10 @@ body{
 .main-content #sn
 {
 	display: none;
+}
+.tall50{
+	margin-top: 50px;
+}
+.font25{
+	font-size: 25px;
 }

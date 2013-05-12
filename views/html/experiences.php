@@ -1,14 +1,13 @@
 <div class="myname">
 	Experiences
 </div>
-<div id="background-experience" class="background-experience edit-default">
+<div id="background-experience" class="background-experience edit-default tall50">
 	<div id="experience-391737344" class="editable-item section-item">
 		<div id="experience-345146231" class="editable-item section-item">
 			<div id="experience-345146231-view">
 				<hgroup>
 					<h4>
-						<a href="/search?search=&amp;title=Software+Developer&amp;sortCriteria=R&amp;keepFacets=true&amp;currentTitle=CP&amp;trk=prof-exp-title" name="title" title="Find others with this title">Software Developer
-						</a>
+						Software Developer
 					</h4>
 					<h5><a href="/search?search=&amp;company=Socket+9+Co%2E%2C+Ltd%2E&amp;sortCriteria=R&amp;keepFacets=true&amp;trk=prof-exp-company-name" name="company" title="Find others who have worked at this company">Socket 9 Co., Ltd.</a>
 					</h5>
@@ -227,3 +226,4 @@
 			</div>
 		</div>
 	</div>
+</div>
