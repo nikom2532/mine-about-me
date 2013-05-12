@@ -126,6 +126,33 @@ $(window).resize(function(){
 		$(".container #menu #lists").addClass("show-none");
 		$("#body_page .container #menu #menu-navbar-open").removeClass("show-none");
 		$("#body_page .container #menu #menu-navbar-open").addClass("show-inline");
+		$("#body_page .container #menu #menu-navbar-close").removeClass("show-inline");
+		$("#body_page .container #menu #menu-navbar-close").addClass("show-none");
+
+		$("#body_page .container #menu #home").click(function() {
+			$(".container #menu #lists").removeClass("show-inline");
+			$(".container #menu #lists").addClass("show-none");
+		});
+		$("#body_page .container #menu #educations").click(function() {
+			$(".container #menu #lists").removeClass("show-inline");
+			$(".container #menu #lists").addClass("show-none");
+		});
+		$("#body_page .container #menu #experiences").click(function() {
+			$(".container #menu #lists").removeClass("show-inline");
+			$(".container #menu #lists").addClass("show-none");
+		});
+		$("#body_page .container #menu #projects").click(function() {
+			$(".container #menu #lists").removeClass("show-inline");
+			$(".container #menu #lists").addClass("show-none");
+		});
+		$("#body_page .container #menu #awards").click(function() {
+			$(".container #menu #lists").removeClass("show-inline");
+			$(".container #menu #lists").addClass("show-none");
+		});
+		$("#body_page .container #menu #sn").click(function() {
+			$(".container #menu #lists").removeClass("show-inline");
+			$(".container #menu #lists").addClass("show-none");
+		});
    }
 })
 .resize();//trigger the resize event on page load.
