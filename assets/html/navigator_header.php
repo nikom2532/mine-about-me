@@ -1,6 +1,5 @@
 <div class="container">
 	<div class="row-fluid">
-		
 		<div class="span4" id="menu">
 	  		<div class="row-fluid" >
 	  			<a href="#" id="home">
@@ -62,8 +61,7 @@
 				<Br>
 				by Arm&#237;ng H&#250;ang (Nikom Suwankamol). <br />Alright reserved <font size="4">&#174;</font>
 			</div>
-			
 		</div>
-		<div class="span8 ">
+		<div class="span8" id="content">
 			<div class="row-fluid" >
 				<div class="span12 main-content">
