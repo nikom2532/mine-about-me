@@ -113,11 +113,19 @@ $(window).resize(function(){
    var width = $(window).width();
    if(width >= 768){
 		$("#body_page .container #menu #menu-navbar-open").removeClass("show-inline");
+		$("#body_page .container #menu #menu-navbar-open").removeClass("show-none");
+		$("#body_page .container #menu #menu-navbar-close").removeClass("show-inline");
+		$("#body_page .container #menu #menu-navbar-close").removeClass("show-none");
+		$("#body_page .container #menu #menu-navbar-open").addClass("show-none");
+		$("#body_page .container #menu #menu-navbar-close").addClass("show-none");
+		$(".container #menu #lists").removeClass("show-none");
 		$(".container #menu #lists").addClass("show-inline");
    }
    else{
-   	$(".container #menu #lists").addClass("show-none");
-       // $("#body_page .container #menu #menu-navbar-open").removeClass("show-none");
+   		$(".container #menu #lists").removeClass("show-inline");
+		$(".container #menu #lists").addClass("show-none");
+		$("#body_page .container #menu #menu-navbar-open").removeClass("show-none");
+		$("#body_page .container #menu #menu-navbar-open").addClass("show-inline");
    }
 })
 .resize();//trigger the resize event on page load.
