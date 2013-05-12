@@ -85,7 +85,6 @@ A:hover {
 	padding: 40px 0;	
 	font-size: 20px;
 }
-
 /*.row-fluid [class*="span"]{
 	
 }*/
@@ -156,9 +155,14 @@ body{
 .container #menu #menu-navbar-close{
 	display: none;
 }
+.show-inline{
+	display: inline;
+}
+.show-none{
+	display: none;
+}
 
 /* ### Responsive Size ### */
-
 /* Large desktop */
 @media (min-width: 1200px) {
 	.main-content .hit-counter{
@@ -183,10 +187,10 @@ body{
 /* Landscape phone to portrait tablet */
 @media (max-width: 767px) {
 	.container #menu #menu-navbar-close{
-		display: inline;
+		display: none;
 	}
 	.container #menu #menu-navbar-open{
-		display: none;
+		display: inline;
 	}
 	.container #menu #menu-navbar-open #navbar .box1,
 	.container #menu #menu-navbar-close #navbar .box1{
@@ -214,10 +218,10 @@ body{
 /* Landscape phones and down */
 @media (max-width: 480px) {
 	.container #menu #menu-navbar-close{
-		display: inline;
+		display: none;
 	}
 	.container #menu #menu-navbar-open{
-		display: none;
+		display: inline;
 	}
 	.container #menu #menu-navbar-open #navbar .box1,
 	.container #menu #menu-navbar-close #navbar .box1{

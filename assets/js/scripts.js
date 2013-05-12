@@ -83,12 +83,18 @@ $("#body_page .container #menu #sn").click( function(){
 	$("#body_page .container #menu #sn .box1").css("background-color", "#0E719C");
 });
 $("#body_page .container #menu #menu-navbar-open #navbar").click( function(){
-	$(".container #menu #lists").css("display", "inline");
-	$("#body_page .container #menu #menu-navbar-open").css("display", "none");
-	$("#body_page .container #menu #menu-navbar-close").css("display", "inline");
+	$(".container #menu #lists").removeClass("show-none");
+	$(".container #menu #lists").addClass("show-inline");
+	$("#body_page .container #menu #menu-navbar-open").removeClass("show-inline");
+	$("#body_page .container #menu #menu-navbar-open").addClass("show-none");
+	$("#body_page .container #menu #menu-navbar-close").removeClass("show-none");
+	$("#body_page .container #menu #menu-navbar-close").addClass("show-inline");
 });
 $("#body_page .container #menu #menu-navbar-close #navbar").click( function(){
-	$(".container #menu #lists").css("display", "none");
-	$("#body_page .container #menu #menu-navbar-open").css("display", "inline");
-	$("#body_page .container #menu #menu-navbar-close").css("display", "none");
+	$(".container #menu #lists").removeClass("show-inline");
+	$(".container #menu #lists").addClass("show-none");
+	$("#body_page .container #menu #menu-navbar-open").removeClass("show-none");
+	$("#body_page .container #menu #menu-navbar-open").addClass("show-inline");
+	$("#body_page .container #menu #menu-navbar-close").removeClass("show-inline");
+	$("#body_page .container #menu #menu-navbar-close").addClass("show-none");
 });

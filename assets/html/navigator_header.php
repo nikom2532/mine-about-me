@@ -3,12 +3,12 @@
 		<div class="span4" id="menu">
 			<div id="menu-navbar-open" class="row-fluid">
 				<a href="#" id="navbar">
-					<div class="span12 box1 no-left">&nbsp;</div>
+					<div class="span12 box1 no-left"></div>
 				</a>
 			</div>
 			<div id="menu-navbar-close" class="row-fluid">
 				<a href="#" id="navbar">
-					<div class="span12 box1 no-left">&nbsp;</div>
+					<div class="span12 box1 no-left"></div>
 				</a>
 			</div>
 			<div id="lists">
