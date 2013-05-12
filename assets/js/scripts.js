@@ -82,3 +82,13 @@ $("#body_page .container #menu #sn").click( function(){
 	$("#body_page .container #menu #awards .box1").css("background-color", "#1291C7");
 	$("#body_page .container #menu #sn .box1").css("background-color", "#0E719C");
 });
+$("#body_page .container #menu #menu-navbar-open #navbar").click( function(){
+	$(".container #menu #lists").css("display", "inline");
+	$("#body_page .container #menu #menu-navbar-open").css("display", "none");
+	$("#body_page .container #menu #menu-navbar-close").css("display", "inline");
+});
+$("#body_page .container #menu #menu-navbar-close #navbar").click( function(){
+	$(".container #menu #lists").css("display", "none");
+	$("#body_page .container #menu #menu-navbar-open").css("display", "inline");
+	$("#body_page .container #menu #menu-navbar-close").css("display", "none");
+});

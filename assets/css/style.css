@@ -152,6 +152,10 @@ body{
 .main-content .hit-counter{
 	display: none;
 }
+.container #menu #menu-navbar-open,
+.container #menu #menu-navbar-close{
+	display: none;
+}
 
 /* ### Responsive Size ### */
 
@@ -160,21 +164,38 @@ body{
 	.main-content .hit-counter{
 		display: none;
 	}
+	.container #menu #menu-navbar-open,
+	.container #menu #menu-navbar-close{
+		display: none;
+	}
 }
 /* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 979px){
 	.main-content .hit-counter{
 		display: none;
 	}
+	.container #menu #menu-navbar-open,
+	.container #menu #menu-navbar-close{
+		display: none;
+	}
 }
 
 /* Landscape phone to portrait tablet */
 @media (max-width: 767px) {
-	.main-content .hit-counter{
-		display: block;
+	.container #menu #menu-navbar-close{
+		display: inline;
 	}
-	#menu .hit-counter{
+	.container #menu #menu-navbar-open{
 		display: none;
+	}
+	.container #menu #menu-navbar-open #navbar .box1,
+	.container #menu #menu-navbar-close #navbar .box1,{
+		background-image: url("../../assets/images/navbar/navbar.png");
+		background-repeat:no-repeat;
+		background-position: center;
+	}
+	.container #menu #lists{
+		display:none;
 	}
 	.box1,
 	.box1:hover,
@@ -183,14 +204,29 @@ body{
 		height: 50px;
 		padding: 10px 0;
 	}
-}
-/* Landscape phones and down */
-@media (max-width: 480px) {
+	#menu .hit-counter{
+		display: none;
+	}
 	.main-content .hit-counter{
 		display: block;
 	}
-	#menu .hit-counter{
+}
+/* Landscape phones and down */
+@media (max-width: 480px) {
+	.container #menu #menu-navbar-close{
+		display: inline;
+	}
+	.container #menu #menu-navbar-open{
 		display: none;
+	}
+	.container #menu #menu-navbar-open #navbar .box1,
+	.container #menu #menu-navbar-close #navbar .box1{
+		background-image: url("../../assets/images/navbar/navbar.png");
+		background-repeat:no-repeat;
+		background-position: center;
+	}
+	.container #menu #lists{
+		display:none;
 	}
 	.box1,
 	.box1:hover,
@@ -199,5 +235,11 @@ body{
 		height: 50px;
 		padding: 10px 0;
 		font-size: 15px;
+	}
+	.main-content .hit-counter{
+		display: block;
+	}
+	#menu .hit-counter{
+		display: none;
 	}
 }
