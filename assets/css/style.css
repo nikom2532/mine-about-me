@@ -152,15 +152,37 @@ body{
 .main-content .hit-counter{
 	display: none;
 }
-/* Responsive Size */
-@media (min-width: 768px) and (max-width: 979px){
-/*	#body_page .container #menu{
-		clear: both;
+
+/* ### Responsive Size ### */
+
+/* Large desktop */
+@media (min-width: 1200px) {
+	.main-content .hit-counter{
+		display: none;
 	}
-	#body_page .container #content{
-		clear: both;
-	}*/
+}
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px){
+	.main-content .hit-counter{
+		display: none;
+	}
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
 	.main-content .hit-counter{
 		display: block;
+	}
+	#menu .hit-counter{
+		display: none;
+	}
+}
+/* Landscape phones and down */
+@media (max-width: 480px) {
+	.main-content .hit-counter{
+		display: block;
+	}
+	#menu .hit-counter{
+		display: none;
 	}
 }
