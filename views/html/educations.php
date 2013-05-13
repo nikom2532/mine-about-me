@@ -1,7 +1,7 @@
 <div class="myname">
 	Education
 </div>
-<div id="background-education" class="background-education edit-default">
+<div id="background-education" class="background-education edit-default tall50">
 	<form name="sectionReorderForm" method="POST" action="/profile/section-reorder-submit">
 		<input type="hidden" name="sectionType" value="EDU">
 		<input type="hidden" name="sectionOrder" value="" id="sectionOrder-sectionReorderForm">
@@ -29,7 +29,7 @@
 				</p>
 				<dl class="education-associated">
 					<dt data-trk-code="prof-edu-project-close" data-trk-code-alt="prof-edu-project-open">
-						<span class="">(Open)</span>1 project
+						1 project
 					</dt>
 					<dd class="single">
 						<ul>
@@ -43,7 +43,7 @@
 						</ul>
 					</dd>
 					<dt data-trk-code="prof-edu-honor-close" data-trk-code-alt="prof-edu-honor-open">
-						<span class="">(Open)</span>1 honor or award
+						1 honor or award
 					</dt>
 					<dd class="single">
 						<ul>
@@ -74,7 +74,7 @@
 				</p>
 				<dl class="education-associated">
 					<dt data-trk-code="prof-edu-honor-close" data-trk-code-alt="prof-edu-honor-open">
-						<span class="">(Open)</span>3 honors and awards
+						3 honors and awards
 					</dt>
 					<dd class="">
 						<ul>

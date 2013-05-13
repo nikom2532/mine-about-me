@@ -2,8 +2,7 @@
 	Projects
 </div>
 <div id="background-projects-container" class="background-section" data-li-template="projects_section">
-	<div id="background-projects" class="background-projects">
-		<h3>Projects<span class="edit-tools"><a href="javascript:void(0);" title="Click to add a new project" class="edit-add" data-add-type="background-projects" data-trk="{&quot;componentKey&quot;: &quot;profile-edit-project-form&quot;, &quot;source&quot;: &quot;prof-edit-background-add_project-link&quot;}">Add</a><span class="edit-order edit-section-order">Re-order section</span></span></h3>
+	<div id="background-projects" class="background-projects tall50">
 		<form name="sectionReorderForm" method="POST" action="/profile/section-reorder-submit">
 			<input type="hidden" name="sectionType" value="PROJ">
 			<input type="hidden" name="sectionOrder" value="" id="sectionOrder-sectionReorderForm">
@@ -17,7 +16,7 @@
 		<div id="project-100" class="editable-item section-item">
 			<div id="project-100-view">
 				<hgroup>
-					<h4 class="summary fn org">Computer Repairing HelpDesk<span class="edit-tools"><a href="javascript:void(0);" title="Click to edit" class="edit-section" data-trk="{&quot;componentKey&quot;: &quot;profile-edit-project-form&quot;, &quot;infoParams&quot;: {&quot;source&quot;: &quot;prof-edit-background-edit_project-link&quot;, &quot;projectID&quot; :&quot;100&quot;}}">Edit</a><span class="edit-order">Re-order section</span></span></h4>
+					<h4 class="summary fn org">Computer Repairing HelpDesk</h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2013-03-01">
 						March 2013
@@ -37,7 +36,7 @@
 		<div id="project-96" class="editable-item section-item">
 			<div id="project-96-view">
 				<hgroup>
-					<h4 class="summary fn org">University project<span class="edit-tools"><a href="javascript:void(0);" title="Click to edit" class="edit-section" data-trk="{&quot;componentKey&quot;: &quot;profile-edit-project-form&quot;, &quot;infoParams&quot;: {&quot;source&quot;: &quot;prof-edit-background-edit_project-link&quot;, &quot;projectID&quot; :&quot;96&quot;}}">Edit</a><span class="edit-order">Re-order section</span></span></h4>
+					<h4 class="summary fn org">University project</h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2012-11-01">
 						November 2012
@@ -60,7 +59,7 @@
 		<div id="project-41" class="editable-item section-item">
 			<div id="project-41-view">
 				<hgroup>
-					<h4 class="summary fn org">Wordpress CMS for android training web<span class="edit-tools"><a href="javascript:void(0);" title="Click to edit" class="edit-section" data-trk="{&quot;componentKey&quot;: &quot;profile-edit-project-form&quot;, &quot;infoParams&quot;: {&quot;source&quot;: &quot;prof-edit-background-edit_project-link&quot;, &quot;projectID&quot; :&quot;41&quot;}}">Edit</a><span class="edit-order">Re-order section</span></span></h4>
+					<h4 class="summary fn org">Wordpress CMS for android training web</h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2012-06-01">
 						June 2012
@@ -83,7 +82,7 @@
 		<div id="project-36" class="editable-item section-item">
 			<div id="project-36-view">
 				<hgroup>
-					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Famaze%2Epspsolutions%2Einfo%2F&amp;urlhash=87AP&amp;trk=prof-project-name-link" target="_blank">Amaze School Web Application<span>(Link)</span></a><span class="edit-tools"><a href="javascript:void(0);" title="Click to edit" class="edit-section" data-trk="{&quot;componentKey&quot;: &quot;profile-edit-project-form&quot;, &quot;infoParams&quot;: {&quot;source&quot;: &quot;prof-edit-background-edit_project-link&quot;, &quot;projectID&quot; :&quot;36&quot;}}">Edit</a><span class="edit-order">Re-order section</span></span></h4>
+					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Famaze%2Epspsolutions%2Einfo%2F&amp;urlhash=87AP&amp;trk=prof-project-name-link" target="_blank">Amaze School Web Application</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2012-05-01">
 						May 2012
@@ -111,7 +110,7 @@
 		<div id="project-39" class="editable-item section-item">
 			<div id="project-39-view">
 				<hgroup>
-					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Fwww%2Euseeudo%2Ecom&amp;urlhash=s74i&amp;trk=prof-project-name-link" target="_blank">UseeUdo Food shop<span>(Link)</span></a><span class="edit-tools"><a href="javascript:void(0);" title="Click to edit" class="edit-section" data-trk="{&quot;componentKey&quot;: &quot;profile-edit-project-form&quot;, &quot;infoParams&quot;: {&quot;source&quot;: &quot;prof-edit-background-edit_project-link&quot;, &quot;projectID&quot; :&quot;39&quot;}}">Edit</a><span class="edit-order">Re-order section</span></span></h4>
+					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Fwww%2Euseeudo%2Ecom&amp;urlhash=s74i&amp;trk=prof-project-name-link" target="_blank">UseeUdo Food shop</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2012-02-01">
 						February 2012
@@ -138,7 +137,7 @@
 		<div id="project-47" class="editable-item section-item">
 			<div id="project-47-view">
 				<hgroup>
-					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Fhms%2Enikom2532%2Eco%2Ecc&amp;urlhash=TJsB&amp;trk=prof-project-name-link" target="_blank">Patient Information Management System<span>(Link)</span></a><span class="edit-tools"><a href="javascript:void(0);" title="Click to edit" class="edit-section" data-trk="{&quot;componentKey&quot;: &quot;profile-edit-project-form&quot;, &quot;infoParams&quot;: {&quot;source&quot;: &quot;prof-edit-background-edit_project-link&quot;, &quot;projectID&quot; :&quot;47&quot;}}">Edit</a><span class="edit-order">Re-order section</span></span></h4>
+					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Fhms%2Enikom2532%2Eco%2Ecc&amp;urlhash=TJsB&amp;trk=prof-project-name-link" target="_blank">Patient Information Management System</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2011-12-01">
 						December 2011
@@ -163,7 +162,7 @@
 		<div id="project-31" class="editable-item section-item">
 			<div id="project-31-view">
 				<hgroup>
-					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Fwww%2Ei-ming%2Ecom&amp;urlhash=IB9s&amp;trk=prof-project-name-link" target="_blank">i-Ming<span>(Link)</span></a><span class="edit-tools"><a href="javascript:void(0);" title="Click to edit" class="edit-section" data-trk="{&quot;componentKey&quot;: &quot;profile-edit-project-form&quot;, &quot;infoParams&quot;: {&quot;source&quot;: &quot;prof-edit-background-edit_project-link&quot;, &quot;projectID&quot; :&quot;31&quot;}}">Edit</a><span class="edit-order">Re-order section</span></span></h4>
+					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Fwww%2Ei-ming%2Ecom&amp;urlhash=IB9s&amp;trk=prof-project-name-link" target="_blank">i-Ming</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2011-10-01">
 						October 2011
@@ -186,7 +185,7 @@
 		<div id="project-45" class="editable-item section-item">
 			<div id="project-45-view">
 				<hgroup>
-					<h4 class="summary fn org">ITPR Workbench's Web Application<span class="edit-tools"><a href="javascript:void(0);" title="Click to edit" class="edit-section" data-trk="{&quot;componentKey&quot;: &quot;profile-edit-project-form&quot;, &quot;infoParams&quot;: {&quot;source&quot;: &quot;prof-edit-background-edit_project-link&quot;, &quot;projectID&quot; :&quot;45&quot;}}">Edit</a><span class="edit-order">Re-order section</span></span></h4>
+					<h4 class="summary fn org">ITPR Workbench's Web Application</h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2011-05-01">
 						May 2011
@@ -209,7 +208,7 @@
 		<div id="project-43" class="editable-item section-item">
 			<div id="project-43-view">
 				<hgroup>
-					<h4 class="summary fn org">ITPR Change management (Support)<span class="edit-tools"><a href="javascript:void(0);" title="Click to edit" class="edit-section" data-trk="{&quot;componentKey&quot;: &quot;profile-edit-project-form&quot;, &quot;infoParams&quot;: {&quot;source&quot;: &quot;prof-edit-background-edit_project-link&quot;, &quot;projectID&quot; :&quot;43&quot;}}">Edit</a><span class="edit-order">Re-order section</span></span></h4>
+					<h4 class="summary fn org">ITPR Change management (Support)</h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2011-03-01">
 						March 2011

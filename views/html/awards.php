@@ -1,8 +1,7 @@
 <div class="myname">
 	Awards
 </div>
-<div id="background-honors" class="background-honors">
-	<h3>Honors &amp; Awards<span class="edit-tools"><a href="javascript:void(0);" class="edit-add" data-add-type="background-honors" data-trk="{&quot;componentKey&quot;: &quot;profile-edit-honoraward-form&quot;, &quot;source&quot;: &quot;prof-edit-background-add_honoraward-link&quot;}">Add</a><span class="edit-order edit-section-order">Re-order section</span></span></h3>
+<div id="background-honors" class="background-honors tall50">
 	<form name="sectionReorderForm" method="POST" action="/profile/section-reorder-submit">
 		<input type="hidden" name="sectionType" value="HNRS">
 		<input type="hidden" name="sectionOrder" value="" id="sectionOrder-sectionReorderForm">
@@ -13,7 +12,7 @@
 	<div id="honors-106" class="editable-item section-item">
 		<div id="honors-106-view">
 			<div class="honoraward  first">
-				<h4 class="summary fn org">COCI (Croatian Open Competition in Informatics) 2008 :At 100th+<span class="edit-tools"><a href="javascript:void(0);" class="edit-section" data-trk="{&quot;componentKey&quot;:&quot;profile-edit-honoraward-form&quot;, &quot;infoParams&quot;: { &quot;source&quot;: &quot;prof-edit-background-edit_honoraward-link&quot;, &quot;honorawardID&quot;: &quot;106&quot;}}">Edit</a><span class="edit-order">Re-order</span></span></h4><h5>COCI</h5><span class="honors-date">
+				<h4 class="summary fn org">COCI (Croatian Open Competition in Informatics) 2008 :At 100th+</h4><h5>COCI</h5><span class="honors-date">
 					<time datetime="2008-10-01">
 						October 2008
 					</time></span>
@@ -35,7 +34,7 @@
 	<div id="honors-103" class="editable-item section-item">
 		<div id="honors-103-view">
 			<div class="honoraward ">
-				<h4 class="summary fn org">Secondary Class<span class="edit-tools"><a href="javascript:void(0);" class="edit-section" data-trk="{&quot;componentKey&quot;:&quot;profile-edit-honoraward-form&quot;, &quot;infoParams&quot;: { &quot;source&quot;: &quot;prof-edit-background-edit_honoraward-link&quot;, &quot;honorawardID&quot;: &quot;103&quot;}}">Edit</a><span class="edit-order">Re-order</span></span></h4><h5>KMITL (King Mongkut's Institute of Technology Ladkrabang)</h5><span class="honors-date">
+				<h4 class="summary fn org">Secondary Class</h4><h5>KMITL (King Mongkut's Institute of Technology Ladkrabang)</h5><span class="honors-date">
 					<time datetime="2012-05-01">
 						May 2012
 					</time></span>
@@ -55,7 +54,7 @@
 	<div id="honors-102" class="editable-item section-item">
 		<div id="honors-102-view">
 			<div class="honoraward ">
-				<h4 class="summary fn org">Good Studying - Grade 11<span class="edit-tools"><a href="javascript:void(0);" class="edit-section" data-trk="{&quot;componentKey&quot;:&quot;profile-edit-honoraward-form&quot;, &quot;infoParams&quot;: { &quot;source&quot;: &quot;prof-edit-background-edit_honoraward-link&quot;, &quot;honorawardID&quot;: &quot;102&quot;}}">Edit</a><span class="edit-order">Re-order</span></span></h4><h5>Brothers Kang Wongchili (กันย์ วงษ์ชีรี)</h5><span class="honors-date">
+				<h4 class="summary fn org">Good Studying - Grade 11</h4><h5>Brothers Kang Wongchili (กันย์ วงษ์ชีรี)</h5><span class="honors-date">
 					<time datetime="2007-02-01">
 						February 2007
 					</time></span>
@@ -75,7 +74,7 @@
 	<div id="honors-104" class="editable-item section-item">
 		<div id="honors-104-view">
 			<div class="honoraward ">
-				<h4 class="summary fn org">2nd Round Competition of Chulalongkorn University's Science Weekly Day<span class="edit-tools"><a href="javascript:void(0);" class="edit-section" data-trk="{&quot;componentKey&quot;:&quot;profile-edit-honoraward-form&quot;, &quot;infoParams&quot;: { &quot;source&quot;: &quot;prof-edit-background-edit_honoraward-link&quot;, &quot;honorawardID&quot;: &quot;104&quot;}}">Edit</a><span class="edit-order">Re-order</span></span></h4><h5>Chulalongkorn University</h5><span class="honors-date">
+				<h4 class="summary fn org">2nd Round Competition of Chulalongkorn University's Science Weekly Day</h4><h5>Chulalongkorn University</h5><span class="honors-date">
 					<time datetime="2006-08-01">
 						August 2006
 					</time></span>
@@ -102,7 +101,7 @@
 	<div id="honors-105" class="editable-item section-item">
 		<div id="honors-105-view">
 			<div class="honoraward ">
-				<h4 class="summary fn org">ABAC 's Science Weekly Day's Competition<span class="edit-tools"><a href="javascript:void(0);" class="edit-section" data-trk="{&quot;componentKey&quot;:&quot;profile-edit-honoraward-form&quot;, &quot;infoParams&quot;: { &quot;source&quot;: &quot;prof-edit-background-edit_honoraward-link&quot;, &quot;honorawardID&quot;: &quot;105&quot;}}">Edit</a><span class="edit-order">Re-order</span></span></h4><h5>ABAC - Faculty of Science</h5><span class="honors-date">
+				<h4 class="summary fn org">ABAC 's Science Weekly Day's Competition</h4><h5>ABAC - Faculty of Science</h5><span class="honors-date">
 					<time datetime="2005-08-01">
 						August 2005
 					</time></span>
@@ -126,7 +125,7 @@
 	<div id="honors-additional-item" class="section-item editable-item">
 		<div id="honors-additional-item-view">
 			<div class="honoraward">
-				<h4 class=" edit-default">Additional Honors &amp; Awards<span class="edit-tools"><a href="javascript:void(0);" class="edit-section" data-trk="{&quot;componentKey&quot;:&quot;nprofile-edit-additional_honorawards-form&quot;, &quot;source&quot;:&quot;prof-edit-background-edit_additional-honorawards-link&quot;}">Edit</a></span></h4>
+				<h4 class=" edit-default">Additional Honors &amp; Awards</h4>
 				<p>
 					1. Won the gold metal of Tabletennis in Grade 8 in La Salle Collage Bangkok
 					<br />
