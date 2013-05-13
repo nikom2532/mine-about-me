@@ -15,7 +15,7 @@
 	<div id="education-45113784" class="editable-item section-item">
 		<div id="education-45113784-view">
 			<div class="education  first">
-				<h4 class="summary fn org"><a href="/college/?eduSchool=17282&amp;trk=prof-edu-school-name" title="Find other members who attended Sataban Technology Prajomglao Chaokuntaharn Ladkrabang">Sataban Technology Prajomglao Chaokuntaharn Ladkrabang</a></h4><h5><span class="degree">Bachelor of Science (B.Sc.), </span><span class="major"><a href="/search?search=&amp;keywords=Computer+Science+International+Program&amp;sortCriteria=R&amp;keepFacets=true&amp;trk=prof-edu-field_of_study" title="Find users with this keyword">Computer Science International Program</a></span></h5><span class="education-date">
+				<h4 class="summary fn org">Sataban Technology Prajomglao Chaokuntaharn Ladkrabang</h4><h5><span class="degree">Bachelor of Science (B.Sc.), </span><span class="major">Computer Science International Program</span></h5><span class="education-date">
 					<time datetime="2008">
 						2008
 					</time>
@@ -37,7 +37,7 @@
 								<h6>Patient Information Management System</h6>
 								<p>
 									<span>to record the Patient Information Management System
-										with Human Computer Interaction Easily.</span><a data-li-trk-code="prof-edu-project-more" href="#background-projects">View</a>
+										with Human Computer Interaction Easily.</span>
 								</p>
 							</li>
 						</ul>
@@ -50,7 +50,7 @@
 							<li class="row-first">
 								<h6>Secondary Class</h6>
 								<p>
-									<span>GPA: 3.43</span><a data-li-trk-code="prof-edu-honor-more" href="#background-honors">View</a>
+									<span>GPA: 3.43</span>
 								</p>
 							</li>
 						</ul>
@@ -62,7 +62,7 @@
 	<div id="education-45143993" class="editable-item section-item">
 		<div id="education-45143993-view">
 			<div class="education ">
-				<h4 class="summary fn org"><a href="/college/?eduSchool=La+Salle+Collage+Bangkok&amp;trk=prof-edu-school-name" title="Find other members who attended La Salle Collage Bangkok">La Salle Collage Bangkok</a></h4><h5><span class="degree">Student, </span><span class="major"><a href="/search?search=&amp;keywords=Mathematics+Science&amp;sortCriteria=R&amp;keepFacets=true&amp;trk=prof-edu-field_of_study" title="Find users with this keyword">Mathematics Science</a></span></h5><span class="education-date">
+				<h4 class="summary fn org">La Salle Collage Bangkok</h4><h5><span class="degree">Student, </span><span class="major">Mathematics Science</span></h5><span class="education-date">
 					<time datetime="1994">
 						1994
 					</time>
@@ -81,7 +81,7 @@
 							<li class="row-first">
 								<h6>Good Studying - Grade 11</h6>
 								<p>
-									<span>GPA: 3.5+</span><a data-li-trk-code="prof-edu-honor-more" href="#background-honors">View</a>
+									<span>GPA: 3.5+</span>
 								</p>
 							</li>
 							<li>
@@ -91,7 +91,7 @@
 										-- Subject: Computer
 
 										PS. There are 5 subjests:
-										1....</span><a data-li-trk-code="prof-edu-honor-more" href="#background-honors">View</a>
+										1....</span>
 								</p>
 							</li>
 							<li class="row-first">
@@ -99,7 +99,7 @@
 								<p>
 									<span>ABAC 's Science Weekly Day's Competition
 										1st Round: 2th.
-										3rd Round: 27th.</span><a data-li-trk-code="prof-edu-honor-more" href="#background-honors">View</a>
+										3rd Round: 27th.</span>
 								</p>
 							</li>
 						</ul>
@@ -111,7 +111,7 @@
 	<div id="education-141156382" class="editable-item section-item">
 		<div id="education-141156382-view">
 			<div class="education ">
-				<h4 class="summary fn org"><a href="/college/?eduSchool=CAT+%28Computer+Association+Thailand%29+%40Central+City+Bangna+%28Thailand%29&amp;trk=prof-edu-school-name" title="Find other members who attended CAT (Computer Association Thailand) @Central City Bangna (Thailand)">CAT (Computer Association Thailand) @Central City Bangna (Thailand)</a></h4><h5><span class="major"><a href="/search?search=&amp;keywords=C+Proramming&amp;sortCriteria=R&amp;keepFacets=true&amp;trk=prof-edu-field_of_study" title="Find users with this keyword">C Proramming</a></span></h5><span class="education-date">
+				<h4 class="summary fn org">CAT (Computer Association Thailand) @Central City Bangna (Thailand)</h4><h5><span class="major">C Proramming</span></h5><span class="education-date">
 					<time datetime="2002">
 						2002
 					</time>
@@ -127,7 +127,7 @@
 	<div id="education-141156067" class="editable-item section-item">
 		<div id="education-141156067-view">
 			<div class="education ">
-				<h4 class="summary fn org"><a href="/college/?eduSchool=Patana+Technic+School+%40Central+City+Bangna+%28Thailand%29&amp;trk=prof-edu-school-name" title="Find other members who attended Patana Technic School @Central City Bangna (Thailand)">Patana Technic School @Central City Bangna (Thailand)</a></h4><h5><span class="degree">System Engineering, </span><span class="major"><a href="/search?search=&amp;keywords=PC+Hardware+%26+Software+repairing+and+Complementary&amp;sortCriteria=R&amp;keepFacets=true&amp;trk=prof-edu-field_of_study" title="Find users with this keyword">PC Hardware &amp; Software repairing and Complementary</a>, </span><span>-</span></h5><span class="education-date">
+				<h4 class="summary fn org">Patana Technic School @Central City Bangna (Thailand)</h4><h5><span class="degree">System Engineering, </span><span class="major">PC Hardware &amp; Software repairing and Complementary, </span><span>-</span></h5><span class="education-date">
 					<time datetime="2001">
 						2001
 					</time>

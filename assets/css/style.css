@@ -48,17 +48,17 @@
 A:link {
 	COLOR: #FFFFFF;
 	text-decoration: none;
-	text-shadow: 5px 5px 20px #0055cc;
+	text-shadow: 5px 5px 20px #000088;
 }
 A:visited {
 	COLOR: #FFFFFF;
 	text-decoration: none;
-	text-shadow: 5px 5px 20px #0088ff;
+	text-shadow: 5px 5px 20px #000088;
 }
 A:hover {
 	COLOR: #FFFFFF;
-	text-decoration: underline;
-	text-shadow: 5px 5px 20px #FF0000;
+	text-decoration: none;
+	text-shadow: 5px 5px 10px #000088;
 }
 
 
@@ -100,6 +100,9 @@ A:hover {
 .tall50{
 	margin-top: 50px;
 }
+.tall30{
+	margin-top: 30px;
+}
 .font25{
 	font-size: 25px;
 }
@@ -119,9 +122,10 @@ body{
 	line-height: normal;
 }
 .main-content .myname{
-	font-size: 40px;
+	font-size: 50px;
 /*	font-family: 'Quando', sans-serif;*/
 	font-family: "Bree Serif", serif;
+	text-shadow: 5px 5px 20px #0000FF;
 }
 .main-content .exp-position{
 	font-size: 30px;
@@ -142,11 +146,13 @@ body{
 	font-size: 30px;
 	font-family: "Bree Serif", serif;
 	line-height: normal;
+	text-shadow: 5px 5px 20px #0000FF;
 }
 .main-content h5{
 	font-size: 28px;
 	font-family: "Bree Serif", serif;
 	line-height: normal;
+	text-shadow: 5px 5px 20px #00FF;
 }
 .main-content .hit-counter{
 	display: none;
@@ -155,6 +161,63 @@ body{
 .container #menu #menu-navbar-close{
 	display: none;
 }
+.main-content #background-experience #experience-345146231 #experience-345146231-view hgroup a#image{
+	background-image: url("../images/experiences/socket9-logo-white.png");
+	background-size: auto auto;
+	display: block;
+	width: 209px;
+	height: 41px;
+}
+.main-content #background-experience #experience-367593574 #experience-367593574-view hgroup a#image{
+	background-image: url("../images/experiences/monogon-logo.png");
+	background-size: 100px auto;
+	display: block;
+	width: 100px;
+	height: 110px;
+}
+.main-content #background-experience #experience-317864273 #experience-317864273-view hgroup a#image{
+	background-image: url("../images/experiences/HyroLogo-small.jpg");
+	background-size: auto auto;
+	display: block;
+	width: 150px;
+	height: 105px;
+}
+.main-content #background-experience #experience-317866530 #experience-317866530-view hgroup a#image{
+	background-image: url("../images/experiences/ZiYouRenWangBa-logo.jpg");
+	background-size: 600px auto;
+	display: block;
+	width: 600px;
+	height: 450px;
+}
+.main-content #background-experience #experience-328703201 #experience-328703201-view hgroup a#image{
+	background-image: url("../images/experiences/PSP_Solutions_Logo_v1_-_White.jpg");
+	background-size: auto auto;
+	display: block;
+	width: 647px;
+	height: 163px;
+}
+.main-content #background-experience #experience-254251547 #experience-254251547-view hgroup a#image{
+	background-image: url("../images/experiences/SCB-logo.jpg");
+	background-size: auto auto;
+	display: block;
+	width: 471px;
+	height: 320px;
+}
+.main-content #background-experience #experience-254257886 #experience-254257886-view hgroup a#image{
+	background-image: url("../images/experiences/ThaiFly-logo.jpg");
+	background-size: auto auto;
+	display: block;
+	width: 224px;
+	height: 206px;
+}
+.main-content #background-experience #experience-352955959 #experience-352955959-view hgroup a#image{
+	background-image: url("../images/experiences/Thaitelephone-logo.gif");
+	background-size: auto auto;
+	display: block;
+	width: 500px;
+	height: 128px;
+}
+
 /* ### Responsive Size ### */
 /* Large desktop */
 @media (min-width: 1200px) {
@@ -201,6 +264,13 @@ body{
 		height: 50px;
 		padding: 10px 0;
 	}
+	
+	.main-content #background-experience #experience-391737344 hgroup a#image{
+		width:100% !important;
+		background-repeat:no-repeat;
+		background-position:center;
+	}
+	
 	#menu .hit-counter{
 		display: none;
 	}

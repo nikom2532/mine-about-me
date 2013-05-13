@@ -9,7 +9,11 @@
 					<h4>
 						Software Developer
 					</h4>
-					<h5><a href="/search?search=&amp;company=Socket+9+Co%2E%2C+Ltd%2E&amp;sortCriteria=R&amp;keepFacets=true&amp;trk=prof-exp-company-name" name="company" title="Find others who have worked at this company">Socket 9 Co., Ltd.</a>
+					<p class="tall30">
+						<a id="image" href="http://www.socket9.com/" target="_blank" alt="Socket9"></a>
+					</p>
+					<h5 class="tall30">
+						<a href="http://www.socket9.com" target="_blank">@ Socket 9 Co., Ltd.</a>
 					</h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2012-12-01">
@@ -28,13 +32,16 @@
 				</p>
 			</div>
 		</div>
-		<div id="experience-367593574" class="editable-item section-item">
+		<div id="experience-367593574" class="editable-item section-item tall50">
 			<div id="experience-367593574-view">
 				<hgroup>
-					<a href="/company/2816900?trk=prof-exp-company-name"><h5 class="experience-logo"><span data-tracking="mcp_profile_sum" class="miniprofile-container /companies/2816900?miniprofile=" data-li-url="/companies/2816900?miniprofile="><strong><img src="http://m.c.lnkd.licdn.com/media/p/5/000/1cb/136/3351d16.png" alt="Monogon"></strong></span></h5></a>
-					<h4><a href="/search?search=&amp;title=Junior+MODx+Revolution+Developer+%28Outsource%29&amp;sortCriteria=R&amp;keepFacets=true&amp;currentTitle=CP&amp;trk=prof-exp-title" name="title" title="Find others with this title">Junior MODx Revolution Developer (Outsource)</a>
-					</h4>
-					<h5><span data-tracking="mcp_profile_sum" class="miniprofile-container /companies/2816900?miniprofile=" data-li-url="/companies/2816900?miniprofile="><strong><a href="/company/2816900?trk=prof-exp-company-name">Monogon</a></strong></span></h5>
+					<h4>Junior MODx Revolution Developer (Outsource)</h4>
+					<p class="tall30">
+						<a id="image" href="http://www.monogon.co/" target="_blank" alt="Monogon"></a>
+					</p>
+					<h5 class="">
+						<span data-tracking="mcp_profile_sum" class="miniprofile-container /companies/2816900?miniprofile=" data-li-url="/companies/2816900?miniprofile="><strong><a href="http://www.monogon.co/" target="_blank">@ Monogon</a></strong></span>
+					</h5>
 				</hgroup>
 				<span class="experience-date-locale">
 					<time datetime="2013-01-01">
@@ -52,10 +59,14 @@
 				</p>
 			</div>
 		</div>
-		<div id="experience-317864273" class="editable-item section-item">
+		<div id="experience-317864273" class="editable-item section-item tall50">
 			<div id="experience-317864273-view">
 				<hgroup>
-					<a href="/company/730175?trk=prof-exp-company-name"><h5 class="experience-logo"><span data-tracking="mcp_profile_sum" class="miniprofile-container /companies/730175?miniprofile=" data-li-url="/companies/730175?miniprofile="><strong><img src="http://m.c.lnkd.licdn.com/media/p/1/000/043/290/141c24c.png" alt="Hyro Asia Limited"></strong></span></h5></a><h4><a href="/search?search=&amp;title=PHP+Developer&amp;sortCriteria=R&amp;keepFacets=true&amp;currentTitle=CP&amp;trk=prof-exp-title" name="title" title="Find others with this title">PHP Developer</a></h4><h5><span data-tracking="mcp_profile_sum" class="miniprofile-container /companies/730175?miniprofile=" data-li-url="/companies/730175?miniprofile="><strong><a href="/company/730175?trk=prof-exp-company-name">Hyro Asia Limited</a></strong></span></h5>
+					<h4>PHP Developer</h4>
+					<p class="tall30">
+						<a id="image" href="http://www.hyroasia.com/" target="_blank" alt="Monogon"></a>
+					</p>
+					<h5><a href="http://www.hyroasia.com">@ Hyro Asia Limited</a></h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2012-06-01">
 						June 2012
@@ -83,10 +94,16 @@
 				</dl>
 			</div>
 		</div>
-		<div id="experience-317866530" class="editable-item section-item">
+		<div id="experience-317866530" class="editable-item section-item tall50">
 			<div id="experience-317866530-view">
 				<hgroup>
-					<h4><a href="/search?search=&amp;title=Staff&amp;sortCriteria=R&amp;keepFacets=true&amp;currentTitle=CP&amp;trk=prof-exp-title" name="title" title="Find others with this title">Staff</a></h4><h5><a href="/search?search=&amp;company=%E8%87%AA%E7%94%B1%E4%BA%BA%E7%BD%91%E5%B7%B4&amp;sortCriteria=R&amp;keepFacets=true&amp;trk=prof-exp-company-name" name="company" title="Find others who have worked at this company">自由人网巴</a></h5>
+					<h4>Staff</h4>
+					<p class="tall30">
+						<a id="image" href="https://www.facebook.com/ZiYouRenWangBa/" target="_blank" alt="自由人网巴"></a>
+					</p>
+					<h5>
+						<a href="https://www.facebook.com/ZiYouRenWangBa/" alt="自由人网巴">@ 自由人网巴</a>
+					</h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2012-05-01">
 						May 2012
@@ -113,10 +130,18 @@
 				</p>
 			</div>
 		</div>
-		<div id="experience-328703201" class="editable-item section-item">
+		<div id="experience-328703201" class="editable-item section-item tall50" >
 			<div id="experience-328703201-view">
 				<hgroup>
-					<h4><a href="/search?search=&amp;title=Wordpress+Theme+Customization%E2%80%8F%27s+Web+Developer&amp;sortCriteria=R&amp;keepFacets=true&amp;currentTitle=CP&amp;trk=prof-exp-title" name="title" title="Find others with this title">Wordpress Theme Customization‏'s Web Developer</a></h4><h5><a href="/search?search=&amp;company=P%2ES%2EP%2E+Solutions+Co%2E%2C+Ltd%2E&amp;sortCriteria=R&amp;keepFacets=true&amp;trk=prof-exp-company-name" name="company" title="Find others who have worked at this company">P.S.P. Solutions Co., Ltd.</a></h5>
+					<h4>
+						Wordpress Theme Customization‏'s Web Developer
+					</h4>
+					<p class="tall30">
+						<a id="image" href="http://pspsolutions.net/" target="_blank" alt="自由人网巴"></a>
+					</p>
+					<h5>
+						<a href="http://pspsolutions.net/">P.S.P. Solutions Co., Ltd.</a>
+					</h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2012-05-01">
 						May 2012
@@ -152,10 +177,14 @@
 				</dl>
 			</div>
 		</div>
-		<div id="experience-254251547" class="editable-item section-item">
+		<div id="experience-254251547" class="editable-item section-item tall50">
 			<div id="experience-254251547-view">
 				<hgroup>
-					<a href="/company/795599?trk=prof-exp-company-name"><h5 class="experience-logo"><span data-tracking="mcp_profile_sum" class="miniprofile-container /companies/795599?miniprofile=" data-li-url="/companies/795599?miniprofile="><strong><img src="http://m.c.lnkd.licdn.com/media/p/6/000/219/288/37b395a.png" alt="Siam Commercial Bank PCL"></strong></span></h5></a><h4><a href="/search?search=&amp;title=IT+Process+and+Risk+management+%28Trainee%29&amp;sortCriteria=R&amp;keepFacets=true&amp;currentTitle=CP&amp;trk=prof-exp-title" name="title" title="Find others with this title">IT Process and Risk management (Trainee)</a></h4><h5><span data-tracking="mcp_profile_sum" class="miniprofile-container /companies/795599?miniprofile=" data-li-url="/companies/795599?miniprofile="><strong><a href="/company/795599?trk=prof-exp-company-name">Siam Commercial Bank PCL</a></strong></span></h5>
+					<h4>IT Process and Risk management (Trainee)</h4>
+					<p class="tall30">
+						<a id="image" href="http://www.scb.co.th/" target="_blank" alt="SCB (Siam Commercial Bank)"></a>
+					</p>
+					<h5><a href="http://www.scb.co.th/">Siam Commercial Bank PCL</a></h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2011-03-01">
 						March 2011
@@ -192,10 +221,14 @@
 				</dl>
 			</div>
 		</div>
-		<div id="experience-254257886" class="editable-item section-item">
+		<div id="experience-254257886" class="editable-item section-item tall50">
 			<div id="experience-254257886-view">
 				<hgroup>
-					<h4><a href="/search?search=&amp;title=Web+Developer+%28Trainee%29&amp;sortCriteria=R&amp;keepFacets=true&amp;currentTitle=CP&amp;trk=prof-exp-title" name="title" title="Find others with this title">Web Developer (Trainee)</a></h4><h5><a href="/search?search=&amp;company=ThaiFly%2Ecom&amp;sortCriteria=R&amp;keepFacets=true&amp;trk=prof-exp-company-name" name="company" title="Find others who have worked at this company">ThaiFly.com</a></h5>
+					<h4>Web Developer (Trainee)</h4>
+					<p class="tall30">
+						<a id="image" href="http://www.thaifly.com/" target="_blank" alt="SCB (Siam Commercial Bank)"></a>
+					</p>
+					<h5><a href="http://www.thaifly.com" target="_blank">ThaiFly.com</a></h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2010-03-01">
 						March 2010
@@ -211,10 +244,14 @@
 				</p>
 			</div>
 		</div>
-		<div id="experience-352955959" class="editable-item section-item">
+		<div id="experience-352955959" class="editable-item section-item tall50">
 			<div id="experience-352955959-view">
 				<hgroup>
-					<h4><a href="/search?search=&amp;title=Web+Developer+%28Trainee%29&amp;sortCriteria=R&amp;keepFacets=true&amp;currentTitle=CP&amp;trk=prof-exp-title" name="title" title="Find others with this title">Web Developer (Trainee)</a></h4><h5><a href="/search?search=&amp;company=ThaiTelephone%2Ecom&amp;sortCriteria=R&amp;keepFacets=true&amp;trk=prof-exp-company-name" name="company" title="Find others who have worked at this company">ThaiTelephone.com</a></h5>
+					<h4>Web Developer (Trainee)</h4>
+					<p class="tall50">
+						<a id="image" href="http://www.thaitelephone.com/" target="_blank" alt="SCB (Siam Commercial Bank)"></a>
+					</p>
+					<h5><a href="http://www.thaitelephone.com/">ThaiTelephone.com</a></h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2010-03-01">
 						March 2010
