@@ -23,7 +23,7 @@ $IP_Language = $items->item(20)->nodeValue;
 $IP_Currency = $items->item(22)->nodeValue;
 $IDD_Code = $items->item(23)->nodeValue;
 $sql = "
-	INSERT INTO  `Mine_aboutme`.`Mine_aboutme_ver4_traceip` (
+	INSERT INTO  `Mine_aboutme_ver4_traceip` (
 	`IPAddress`
 	`Hostname` ,
 	`IP_Blacklist_Check` ,
