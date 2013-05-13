@@ -45,6 +45,6 @@ $sql = "
 	VALUES (
 	'$ip' ,  '$Hostname',  '$IP_Blacklist_Check',  '$Continent',  '$Country',  '$Capital',  '$State',  '$City',  '$ISP',  '$Organization',  '$Time_zone',  '$Continent_Lat_Lon',  '$Country_Lat_Lon',  '$City_Lat_Lon',  '$IP_Language',  '$IP_Currency',  '$IDD_Code'
 	);
-
 ";
+$db->query($sql);
 ?>
