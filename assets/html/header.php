@@ -1,3 +1,13 @@
+<?php
+session_start();
+require_once("./libs/func_date.php");
+require_once("./libs/DB.php");
+require_once("./configs/conn.inc.php");
+if (!$db->open()){
+	die($db->error());
+}
+require_once("./libs/htmldom/simple_html_dom.php");
+?>
 <?php // <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> ?>
 <!DOCTYPE HTML>
 <HTML>
