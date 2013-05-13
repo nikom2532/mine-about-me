@@ -13,14 +13,24 @@ $ip = $_SERVER['REMOTE_ADDR'];
 
 // Create DOM from URL or file
 // $html = file_get_html('http://www.example.com/');
-$html = file_get_html("http://whatismyipaddress.com/ip/$ip");
+// $html = file_get_html("http://whatismyipaddress.com/ip/$ip");
 // $html = file_get_html("http://www.ip-tracker.org/locator/ip-lookup.php?ip=$ip");
+// file_get_html("http://www.ip-tracker.org/locator/ip-lookup.php?ip=$ip")->plaintext;
 // Find all images 
-foreach($html->find('img') as $element) 
-       echo $element->src . '<br>';
-// Find all links 
-foreach($html->find('a') as $element) 
-       echo $element->href . '<br>';
+// foreach($html->find('div') as $element) 
+       // echo $element->src . '-<br/>';
+$html = file_get_contents("http://www.ip-tracker.org/locator/ip-lookup.php?ip=$ip");
+$DOM = new DOMDocument;
+   $DOM->loadHTML($html);
+
+   //get all H1
+   $items = $DOM->getElementsByTagName('td');
+
+   //display all H1 text
+   for ($i = 0; $i < $items->length; $i++)
+        echo $items->item($i)->nodeValue . "<br/>--<br/>";
+// echo $html;
+	// echo $items->item(10)->nodeValue;
 
 // // Create DOM from string
 // $html = str_get_html('<div id="hello">Hello</div><div id="world">World</div>');
