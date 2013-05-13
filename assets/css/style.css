@@ -217,6 +217,15 @@ body{
 	width: 500px;
 	height: 128px;
 }
+/* position for the menu */
+.container #menu{
+	position: fixed;
+	top: 2%;
+	left: 2%;
+}
+.container #content{
+	margin-left: 34.914893617021278%;
+}
 
 /* ### Responsive Size ### */
 /* Large desktop */
@@ -227,6 +236,15 @@ body{
 	.container #menu #menu-navbar-open,
 	.container #menu #menu-navbar-close{
 		display: none;
+	}
+	/* position for the menu */
+	.container #menu{
+		position: fixed;
+		top: 2%;
+		left: 2%;
+	}
+	.container #content{
+		margin-left: 34.914893617021278%;
 	}
 }
 /* Portrait tablet to landscape and desktop */
@@ -264,13 +282,19 @@ body{
 		height: 50px;
 		padding: 10px 0;
 	}
+	/* position for the menu */
+	.container #menu{
+		position: relative;
+	}
+	.container #content{
+		margin-left: 0;
+	}
 	
 	.main-content #background-experience #experience-391737344 hgroup a#image{
 		width:100% !important;
 		background-repeat:no-repeat;
 		background-position:center;
 	}
-	
 	#menu .hit-counter{
 		display: none;
 	}
@@ -302,6 +326,13 @@ body{
 		height: 50px;
 		padding: 10px 0;
 		font-size: 15px;
+	}
+	/* position for the menu */
+	.container #menu{
+		position: relative;
+	}
+	.container #content{
+		margin-left: 0;
 	}
 	.main-content .hit-counter{
 		display: block;
