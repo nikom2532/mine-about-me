@@ -1,29 +1,28 @@
 <div class="myname">
 	Education
 </div>
-<div id="background-education" class="background-education edit-default tall50">
-	<form name="sectionReorderForm" method="POST" action="/profile/section-reorder-submit">
-		<input type="hidden" name="sectionType" value="EDU">
-		<input type="hidden" name="sectionOrder" value="" id="sectionOrder-sectionReorderForm">
-		<input type="hidden" name="timestamp" value="1368200410380" id="timestamp-sectionReorderForm">
-		<input type="hidden" name="csrfToken" value="ajax:2813931629992919616" id="csrfToken-sectionReorderForm">
-		<input type="hidden" name="sourceAlias" value="0_fvzmxERg2KDWVPMXj45hKnq3clxRTWA8ZwknG4OOUxF" id="sourceAlias-sectionReorderForm">
-	</form>
+<div id="background-education" class="background-education edit-default">
 	<div id="education-blank-form" class="profile-blank-form">
 		<!---->
 	</div><div id="education-blank" class="profile-blank"></div>
-	<div id="education-45113784" class="editable-item section-item">
+	<div id="education-45113784" class="editable-item section-item tall50">
 		<div id="education-45113784-view">
 			<div class="education  first">
-				<h4 class="summary fn org">Sataban Technology Prajomglao Chaokuntaharn Ladkrabang</h4><h5><span class="degree">Bachelor of Science (B.Sc.), </span><span class="major">Computer Science International Program</span></h5><span class="education-date">
+				<h5>Bachelor of Science (B.Sc.)<br />Computer Science (International Program)</h5>
+				<span class="education-date">
+					<p class="tall30">
+						<a id="image" href="http://www.kmitl.ac.th/" target="_blank" alt="Socket9"></a>
+					</p>
+					<h4 class="summary fn org"><a href="http://www.kmitl.ac.th/" target="_blank">King Mongkut's Institute of Technology Ladkrabang (KMIT'L)</a></h4>
 					<time datetime="2008">
 						2008
 					</time>
 					<time datetime="2012">
 						– 2012
-					</time></span>
+					</time>
+				</span>
 				<p class="notes">
-					be a student at KMITL
+					be a student at KMITL (Sataban Technology Prajomglao Chaokuntaharn Ladkrabang)
 					<br>
 					in Computer Science International Programme
 				</p>
@@ -59,18 +58,24 @@
 			</div>
 		</div>
 	</div>
-	<div id="education-45143993" class="editable-item section-item">
+	<div id="education-45143993" class="editable-item section-item tall50">
 		<div id="education-45143993-view">
 			<div class="education ">
-				<h4 class="summary fn org">La Salle Collage Bangkok</h4><h5><span class="degree">Student, </span><span class="major">Mathematics Science</span></h5><span class="education-date">
+				<h5><span class="degree">Student, </span><span class="major">Mathematics Science</span></h5>
+				<p class="tall30">
+					<a id="image" href="http://www.lasalleschool.ac.th/" target="_blank" alt="La Salle School Bangkok"></a>
+				</p>
+				<span class="education-date">
+					<h4 class="summary fn org"><a href="http://www.lasalleschool.ac.th/" target="_blank" alt="La Salle School Bangkok">La Salle School Bangkok</a></h4>
 					<time datetime="1994">
 						1994
 					</time>
 					<time datetime="2007">
 						– 2007
-					</time></span>
+					</time>
+				</span>
 				<p class="notes">
-					was a student at La Salle Collage Bangkok (School)
+					was a student at La Salle School Bangkok (School)
 				</p>
 				<dl class="education-associated">
 					<dt data-trk-code="prof-edu-honor-close" data-trk-code-alt="prof-edu-honor-open">
@@ -108,10 +113,11 @@
 			</div>
 		</div>
 	</div>
-	<div id="education-141156382" class="editable-item section-item">
+	<div id="education-141156382" class="editable-item section-item tall50">
 		<div id="education-141156382-view">
 			<div class="education ">
-				<h4 class="summary fn org">CAT (Computer Association Thailand) @Central City Bangna (Thailand)</h4><h5><span class="major">C Proramming</span></h5><span class="education-date">
+				<h5><span class="major">C Proramming</span></h5><span class="education-date">
+				<h4 class="summary fn org">CAT (Computer Association Thailand) @Central City Bangna (Thailand)</h4>
 					<time datetime="2002">
 						2002
 					</time>
@@ -124,10 +130,11 @@
 			</div>
 		</div>
 	</div>
-	<div id="education-141156067" class="editable-item section-item">
+	<div id="education-141156067" class="editable-item section-item tall50">
 		<div id="education-141156067-view">
 			<div class="education ">
-				<h4 class="summary fn org">Patana Technic School @Central City Bangna (Thailand)</h4><h5><span class="degree">System Engineering, </span><span class="major">PC Hardware &amp; Software repairing and Complementary, </span><span>-</span></h5><span class="education-date">
+				<h5><span class="degree">System Engineering, </span><span class="major">PC Hardware &amp; Software repairing and Complementary, </span><span>-</span></h5><span class="education-date">
+				<h4 class="summary fn org">Patana Technic School @Central City Bangna (Thailand)</h4>
 					<time datetime="2001">
 						2001
 					</time>

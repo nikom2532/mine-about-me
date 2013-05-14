@@ -152,7 +152,7 @@ body{
 	font-size: 28px;
 	font-family: "Bree Serif", serif;
 	line-height: normal;
-	text-shadow: 5px 5px 20px #00FF;
+	text-shadow: 5px 5px 20px #0000FF;
 }
 .main-content .hit-counter{
 	display: none;
@@ -170,10 +170,10 @@ body{
 }
 .main-content #background-experience #experience-367593574 #experience-367593574-view hgroup a#image{
 	background-image: url("../images/experiences/monogon-logo.png");
-	background-size: 100px auto;
+	background-size: auto auto;
 	display: block;
-	width: 100px;
-	height: 110px;
+	width: 260px;
+	height: 286px;
 }
 .main-content #background-experience #experience-317864273 #experience-317864273-view hgroup a#image{
 	background-image: url("../images/experiences/HyroLogo-small.jpg");
@@ -184,17 +184,17 @@ body{
 }
 .main-content #background-experience #experience-317866530 #experience-317866530-view hgroup a#image{
 	background-image: url("../images/experiences/ZiYouRenWangBa-logo.jpg");
-	background-size: 600px auto;
+	background-size: 484px auto;
 	display: block;
-	width: 600px;
-	height: 450px;
+	width: 484px;
+	height: 363px;
 }
 .main-content #background-experience #experience-328703201 #experience-328703201-view hgroup a#image{
 	background-image: url("../images/experiences/PSP_Solutions_Logo_v1_-_White.jpg");
-	background-size: auto auto;
+	background-size: 484px auto;
 	display: block;
-	width: 647px;
-	height: 163px;
+	width: 484px;
+	height: 121px;
 }
 .main-content #background-experience #experience-254251547 #experience-254251547-view hgroup a#image{
 	background-image: url("../images/experiences/SCB-logo.jpg");
@@ -217,6 +217,23 @@ body{
 	width: 500px;
 	height: 128px;
 }
+.main-content #background-education #education-45113784 #education-45113784-view a#image{
+	background-image: url("http://research.kmitl.ac.th/images/KMITL1.gif");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 153px;
+}
+.main-content #background-education #education-45143993 #education-45143993-view a#image{
+	background-image: url("../images/educations/LasalleCollegeBangkok.jpg");
+	background-size: auto auto;
+	display: block;
+	width: 301px;
+	height: 300px;
+}
+
+/*LasalleCollegeBangkok.jpg*/
+
 /* position for the menu */
 .container #menu{
 	position: fixed;

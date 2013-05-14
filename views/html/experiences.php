@@ -140,7 +140,7 @@
 						<a id="image" href="http://pspsolutions.net/" target="_blank" alt="自由人网巴"></a>
 					</p>
 					<h5>
-						<a href="http://pspsolutions.net/">P.S.P. Solutions Co., Ltd.</a>
+						<a href="http://pspsolutions.net/">@ P.S.P. Solutions Co., Ltd.</a>
 					</h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2012-05-01">
@@ -184,7 +184,7 @@
 					<p class="tall30">
 						<a id="image" href="http://www.scb.co.th/" target="_blank" alt="SCB (Siam Commercial Bank)"></a>
 					</p>
-					<h5><a href="http://www.scb.co.th/">Siam Commercial Bank PCL</a></h5>
+					<h5><a href="http://www.scb.co.th/">@ Siam Commercial Bank PCL</a></h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2011-03-01">
 						March 2011
@@ -228,7 +228,7 @@
 					<p class="tall30">
 						<a id="image" href="http://www.thaifly.com/" target="_blank" alt="SCB (Siam Commercial Bank)"></a>
 					</p>
-					<h5><a href="http://www.thaifly.com" target="_blank">ThaiFly.com</a></h5>
+					<h5><a href="http://www.thaifly.com" target="_blank">@ ThaiFly.com</a></h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2010-03-01">
 						March 2010
@@ -251,7 +251,7 @@
 					<p class="tall50">
 						<a id="image" href="http://www.thaitelephone.com/" target="_blank" alt="SCB (Siam Commercial Bank)"></a>
 					</p>
-					<h5><a href="http://www.thaitelephone.com/">ThaiTelephone.com</a></h5>
+					<h5><a href="http://www.thaitelephone.com/">@ ThaiTelephone.com</a></h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2010-03-01">
 						March 2010
