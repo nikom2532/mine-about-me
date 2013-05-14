@@ -6,6 +6,7 @@ require_once("./configs/conn.inc.php");
 if (!$db->open()){
 	die($db->error());
 }
+mysql_query("SET NAMES 'utf8'");
 require_once("./assets/html/header_traceip.php");
 ?>
 <?php // <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"> ?>
