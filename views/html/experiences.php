@@ -79,7 +79,7 @@
 					</time><span class="locality">Bangkok, Thailand</span></span>
 				<dl class="education-associated">
 					<dt data-trk-code="prof-exp-project-open" data-trk-code-alt="prof-exp-project-close">
-						<span class="closed">(Open)</span>1 project
+						1 project
 					</dt>
 					<dd class="closed single">
 						<ul>
@@ -159,7 +159,7 @@
 				</p>
 				<dl class="education-associated">
 					<dt data-trk-code="prof-exp-project-open" data-trk-code-alt="prof-exp-project-close">
-						<span class="closed">(Open)</span>1 project
+						1 project
 					</dt>
 					<dd class="closed single">
 						<ul>
@@ -200,7 +200,7 @@
 				</p>
 				<dl class="education-associated">
 					<dt data-trk-code="prof-exp-project-open" data-trk-code-alt="prof-exp-project-close">
-						<span class="closed">(Open)</span>2 projects
+						2 projects
 					</dt>
 					<dd class="closed ">
 						<ul>

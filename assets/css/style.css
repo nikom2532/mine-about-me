@@ -138,7 +138,8 @@ body{
 .main-content #experiences,
 .main-content #projects,
 .main-content #awards,
-.main-content #sn
+.main-content #sn,
+.main-content #certifications
 {
 	display: none;
 }

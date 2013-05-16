@@ -48,20 +48,20 @@
 						</div>
 					</a>
 				</div>
-				<?php /* ?>
-			  		<div class="row-fluid" >
-						<a href="#" id="contact">
-							<div class="span7 box1 no-left">
-								Contact
-							</div>
-						</a>
-			  			<?php // <a href="#" id=""> ?>
-							<div class="span5 box2 no-left">
-								
-							</div>
-						<?php // </a> ?>
-					</div>
-				<?php */ ?>
+				<?php  ?>
+		  		<div class="row-fluid" >
+					<a href="#" id="certifications">
+						<div class="span7 box1 no-left">
+							certifications
+						</div>
+					</a>
+					<a href="#" id="contact">
+						<div class="span5 box1 no-left">
+							Contact
+						</div>
+					</a>
+				</div>
+				<?php  ?>
 			</div>
 			<div class="row-fluid hit-counter" >
 				<br/>

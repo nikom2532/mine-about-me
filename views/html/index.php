@@ -20,6 +20,9 @@
 <div id="sn">
 	<?php include("./views/html/socialnetwork.php"); ?>
 </div>
+<div id="certifications">
+	<?php include("./views/html/Certifications.php"); ?>
+</div>
 
 <?php
 	include("assets/html/footer.php");
