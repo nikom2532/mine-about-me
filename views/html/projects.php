@@ -13,7 +13,7 @@
 		<div id="project-blank-form" class="profile-blank-form">
 			<!--  -->
 		</div><div id="project-blank" class="profile-blank"></div>
-		<div id="project-100" class="editable-item section-item">
+		<div id="project-100" class="editable-item section-item tall50">
 			<div id="project-100-view">
 				<hgroup>
 					<h4 class="summary fn org">Computer Repairing HelpDesk</h4>
@@ -33,7 +33,7 @@
 				</script>
 			</div>
 		</div>
-		<div id="project-96" class="editable-item section-item">
+		<div id="project-96" class="editable-item section-item tall50">
 			<div id="project-96-view">
 				<hgroup>
 					<h4 class="summary fn org">University project</h4>
@@ -56,7 +56,7 @@
 				</script>
 			</div>
 		</div>
-		<div id="project-41" class="editable-item section-item">
+		<div id="project-41" class="editable-item section-item tall50">
 			<div id="project-41-view">
 				<hgroup>
 					<h4 class="summary fn org">Wordpress CMS for android training web</h4>
@@ -79,7 +79,7 @@
 				</script>
 			</div>
 		</div>
-		<div id="project-36" class="editable-item section-item">
+		<div id="project-36" class="editable-item section-item tall50">
 			<div id="project-36-view">
 				<hgroup>
 					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Famaze%2Epspsolutions%2Einfo%2F&amp;urlhash=87AP&amp;trk=prof-project-name-link" target="_blank">Amaze School Web Application</a></h4>
@@ -107,7 +107,7 @@
 				</script>
 			</div>
 		</div>
-		<div id="project-39" class="editable-item section-item">
+		<div id="project-39" class="editable-item section-item tall50">
 			<div id="project-39-view">
 				<hgroup>
 					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Fwww%2Euseeudo%2Ecom&amp;urlhash=s74i&amp;trk=prof-project-name-link" target="_blank">UseeUdo Food shop</a></h4>
@@ -134,7 +134,7 @@
 				</script>
 			</div>
 		</div>
-		<div id="project-47" class="editable-item section-item">
+		<div id="project-47" class="editable-item section-item tall50">
 			<div id="project-47-view">
 				<hgroup>
 					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Fhms%2Enikom2532%2Eco%2Ecc&amp;urlhash=TJsB&amp;trk=prof-project-name-link" target="_blank">Patient Information Management System</a></h4>
@@ -159,7 +159,7 @@
 				</script>
 			</div>
 		</div>
-		<div id="project-31" class="editable-item section-item">
+		<div id="project-31" class="editable-item section-item tall50">
 			<div id="project-31-view">
 				<hgroup>
 					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Fwww%2Ei-ming%2Ecom&amp;urlhash=IB9s&amp;trk=prof-project-name-link" target="_blank">i-Ming</a></h4>
@@ -182,7 +182,7 @@
 				</script>
 			</div>
 		</div>
-		<div id="project-45" class="editable-item section-item">
+		<div id="project-45" class="editable-item section-item tall50">
 			<div id="project-45-view">
 				<hgroup>
 					<h4 class="summary fn org">ITPR Workbench's Web Application</h4>
@@ -205,7 +205,7 @@
 				</script>
 			</div>
 		</div>
-		<div id="project-43" class="editable-item section-item">
+		<div id="project-43" class="editable-item section-item tall50">
 			<div id="project-43-view">
 				<hgroup>
 					<h4 class="summary fn org">ITPR Change management (Support)</h4>
