@@ -51,10 +51,11 @@ $sql = "
 	`City_Lat_Lon` ,
 	`IP_Language` ,
 	`IP_Currency` ,
-	`IDD_Code`
+	`IDD_Code`, 
+	`Access_Time`
 	)
 	VALUES (
-	'$ip' ,  '$Hostname',  '$IP_Blacklist_Check',  '$Continent',  '$Country',  '$Capital',  '$State',  '$City',  '$ISP',  '$Organization',  '$Time_zone',  '$Continent_Lat_Lon',  '$Country_Lat_Lon', '$City_Lat_Lon', '$IP_Language', '$IP_Currency',  '$IDD_Code' );
+	'$ip' ,  '$Hostname',  '$IP_Blacklist_Check',  '$Continent',  '$Country',  '$Capital',  '$State',  '$City',  '$ISP',  '$Organization',  '$Time_zone',  '$Continent_Lat_Lon',  '$Country_Lat_Lon', '$City_Lat_Lon', '$IP_Language', '$IP_Currency', '$IDD_Code', now() );
 ";
 $db->query($sql);
 ?>
