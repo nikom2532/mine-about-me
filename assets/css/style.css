@@ -232,8 +232,113 @@ body{
 	width: 301px;
 	height: 300px;
 }
+.main-content #background-certifications #certifications-200310 #view #image{
+	background-image: url("../images/certifications/1.PattanaTechnicSchool.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 351px;
+}
+.main-content #background-certifications #certifications-2007080 #view #image{
+	background-image: url("../images/certifications/2.AC.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 365px;
+}
+.main-content #background-certifications #certifications-2007081 #view #image{
+	background-image: url("../images/certifications/3.Chula.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 350px;
+}
+.main-content #background-certifications #certifications-2007082 #view #image{
+	background-image: url("../images/certifications/4.TagName.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 350px;
+}
+.main-content #background-certifications #certifications-2007021 #view #image{
+	background-image: url("../images/certifications/5.Lasalle.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 350px;
+}
+.main-content #background-certifications #certifications-2007022 #view #image{
+	background-image: url("../images/certifications/6.LasallePhoto.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 350px;
+}
+.main-content #background-certifications #certifications-2008021 #view #image{
+	background-image: url("../images/certifications/7.Lasalle.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 350px;
+}
+.main-content #background-certifications #certifications-2005101 #view #image{
+	background-image: url("../images/certifications/8.AUA1.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 365px;
+}
+.main-content #background-certifications #certifications-2007041 #view #image{
+	background-image: url("../images/certifications/8.AUA2.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 368px;
+}
+.main-content #background-certifications #certifications-2007061 #view #image{
+	background-image: url("../images/certifications/8.AUA3.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 370px;
+}
+.main-content #background-certifications #certifications-2007081 #view #image{
+	background-image: url("../images/certifications/8.AUA4.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 368px;
+}
+.main-content #background-certifications #certifications-2010051 #view #image{
+	background-image: url("../images/certifications/9.IBN.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 350px;
+}
+.main-content #background-certifications #certifications-2011051 #view #image{
+	background-image: url("../images/certifications/10.SCB.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 665px;
+}
+.main-content #background-honors #honors-056 #honors-056-view #image{
+	background-image: url("../images/awards/1.RSU.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 893px;
+}
+.main-content #background-honors #honors-063 #honors-063-view #image{
+	background-image: url("../images/awards/2.ABAC1.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 362px;
+}
 
-/*LasalleCollegeBangkok.jpg*/
+
 
 /* position for the menu */
 .container #menu{

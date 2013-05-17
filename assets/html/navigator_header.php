@@ -48,11 +48,10 @@
 						</div>
 					</a>
 				</div>
-				<?php  ?>
 		  		<div class="row-fluid" >
 					<a href="#" id="certifications">
 						<div class="span7 box1 no-left">
-							certifications
+							Certifications
 						</div>
 					</a>
 					<a href="#" id="contact">
@@ -61,7 +60,6 @@
 						</div>
 					</a>
 				</div>
-				<?php  ?>
 			</div>
 			<div class="row-fluid hit-counter" >
 				<br/>
