@@ -137,21 +137,11 @@ $("#body_page .container #menu #menu-navbar-close #navbar").click(function() {
 // 
 	// }).resize();
 // });
-$(window).resize(function(){
-   console.log('resize called');
-   var width = $(window).width();
-   if(width >= 768){
-		$("#body_page .container #menu #menu-navbar-open").removeClass("show-inline");
-		$("#body_page .container #menu #menu-navbar-open").removeClass("show-none");
-		$("#body_page .container #menu #menu-navbar-close").removeClass("show-inline");
-		$("#body_page .container #menu #menu-navbar-close").removeClass("show-none");
-		$("#body_page .container #menu #menu-navbar-open").addClass("show-none");
-		$("#body_page .container #menu #menu-navbar-close").addClass("show-none");
-		$(".container #menu #lists").removeClass("show-none");
-		$(".container #menu #lists").addClass("show-inline");
-   }
-   else{
-   		$(".container #menu #lists").removeClass("show-inline");
+$(window).resize(function() {
+	console.log('resize called');
+	var width = $(window).width();
+	if (width < 768 && width > 400) {
+		$(".container #menu #lists").removeClass("show-inline");
 		$(".container #menu #lists").addClass("show-none");
 		$("#body_page .container #menu #menu-navbar-open").removeClass("show-none");
 		$("#body_page .container #menu #menu-navbar-open").addClass("show-inline");
@@ -159,12 +149,18 @@ $(window).resize(function(){
 		$("#body_page .container #menu #menu-navbar-close").addClass("show-none");
 
 		$("#body_page .container #menu #home").click(function() {
-			$(".container #menu #lists").removeClass("show-inline");
-			$(".container #menu #lists").addClass("show-none");
+			alert($(window).width());
+			// if (width < 768 && width > 400){
+				$(".container #menu #lists").removeClass("show-inline");
+				$(".container #menu #lists").addClass("show-none");
+			// }
 		});
 		$("#body_page .container #menu #educations").click(function() {
-			$(".container #menu #lists").removeClass("show-inline");
-			$(".container #menu #lists").addClass("show-none");
+			alert($(window).width());
+			// if (width < 768 && width > 400){
+				$(".container #menu #lists").removeClass("show-inline");
+				$(".container #menu #lists").addClass("show-none");
+			// }
 		});
 		$("#body_page .container #menu #experiences").click(function() {
 			$(".container #menu #lists").removeClass("show-inline");
@@ -182,6 +178,30 @@ $(window).resize(function(){
 			$(".container #menu #lists").removeClass("show-inline");
 			$(".container #menu #lists").addClass("show-none");
 		});
-   }
-})
-.resize();//trigger the resize event on page load.
+		$("#body_page .container #menu #certifications").click(function() {
+			$(".container #menu #lists").removeClass("show-inline");
+			$(".container #menu #lists").addClass("show-none");
+		});
+	}
+	else if (width >= 768 || width == null) {
+		$("#body_page .container #menu #menu-navbar-open").removeClass("show-inline");
+		$("#body_page .container #menu #menu-navbar-open").removeClass("show-none");
+		$("#body_page .container #menu #menu-navbar-close").removeClass("show-inline");
+		$("#body_page .container #menu #menu-navbar-close").removeClass("show-none");
+		$("#body_page .container #menu #menu-navbar-open").addClass("show-none");
+		$("#body_page .container #menu #menu-navbar-close").addClass("show-none");
+		$(".container #menu #lists").removeClass("show-none");
+		$(".container #menu #lists").addClass("show-inline");
+	}
+	else{
+		$("#body_page .container #menu #menu-navbar-open").removeClass("show-inline");
+		$("#body_page .container #menu #menu-navbar-open").removeClass("show-none");
+		$("#body_page .container #menu #menu-navbar-close").removeClass("show-inline");
+		$("#body_page .container #menu #menu-navbar-close").removeClass("show-none");
+		$("#body_page .container #menu #menu-navbar-open").addClass("show-none");
+		$("#body_page .container #menu #menu-navbar-close").addClass("show-none");
+		$(".container #menu #lists").removeClass("show-none");
+		$(".container #menu #lists").addClass("show-inline");
+	}
+}).resize();
+//trigger the resize event on page load.
