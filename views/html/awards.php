@@ -13,7 +13,7 @@
 	<div id="honors-056" class="editable-item section-item tall50">
 		<div id="honors-056-view">
 			<div class="honoraward  first">
-				<h4 class="summary fn org"></h4><h5>RSU Homepage Competition 2005</h5><span class="honors-date">
+				<h4 class="summary fn org"></h4><h5><a href="http://www.i-ming.com/nikom2532/_other/RSU/WebDesign/Index.htm" target="_blank">Homepage Competition 2005</a></h5><span class="honors-date">
 					<time datetime="2005-10-01">
 						October 2005
 					</time></span>
@@ -22,7 +22,7 @@
 					- RSU(Rangsit University) Celebrate 20-year anniversary. (with a shirt+clock)
 				</p>
 				<p>
-					<a id="image" href="./assets/images/awards/1.RSU.jpg" target="_blank" alt="Socket9"></a>
+					<a id="image" href="./assets/images/awards/1.RSU.jpg" target="_blank" alt="RSU"></a>
 				</p>
 			</div>
 		</div>

@@ -456,7 +456,27 @@ body{
 	width: 484px;
 	height: 301px;
 }
-
+.main-content #background-projects #project-41 #project-41-view #image{
+	background-image: url("../images/projects/7.HyroAndroidTrainingSchool2.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 678px;
+}
+.main-content #background-projects #project-100 #project-100-view #image{
+	background-image: url("../images/projects/8.HelpDeskApp.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 230px;
+}
+.main-content #background-projects #project-96 #project-96-view #image{
+	background-image: url("../images/projects/9.universityProject.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 479px;
+}
 
 /* position for the menu */
 .container #menu{

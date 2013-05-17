@@ -24,19 +24,15 @@
 				<p class="description" id="yui-gen16">
 					Help any HelpDesks to manage the list of repairing Computer
 				</p>
-				<script id="controlinit-dust-client14" type="text/javascript+initialized" class="li-control">
-					LI.Controls.addControl('control-dust-client14', 'ShowMore', {
-						charCount : 400,
-						showMoreText : "more",
-						showLessText : "less"
-					})
-				</script>
+				<p>	
+					<a id="image" href="./assets/images/projects/8.HelpDeskApp.png" target="_blank" alt=""></a>
+				</p>
 			</div>
 		</div>
 		<div id="project-96" class="editable-item section-item tall50">
 			<div id="project-96-view">
 				<hgroup>
-					<h4 class="summary fn org">University project</h4>
+					<h4 class="summary fn org">[Code name: University project]</h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2012-11-01">
 						November 2012
@@ -47,13 +43,9 @@
 				<p class="description" id="yui-gen17">
 					Frontend development with "Ruby on Rails" on Mongoid DB
 				</p>
-				<script id="controlinit-dust-client15" type="text/javascript+initialized" class="li-control">
-					LI.Controls.addControl('control-dust-client15', 'ShowMore', {
-						charCount : 400,
-						showMoreText : "more",
-						showLessText : "less"
-					})
-				</script>
+				<p>	
+					<a id="image" href="./assets/images/projects/9.universityProject.jpg" target="_blank" alt=""></a>
+				</p>
 			</div>
 		</div>
 		<div id="project-41" class="editable-item section-item tall50">
@@ -70,19 +62,15 @@
 				<p class="description" id="yui-gen18">
 					Customize the web theme
 				</p>
-				<script id="controlinit-dust-client16" type="text/javascript+initialized" class="li-control">
-					LI.Controls.addControl('control-dust-client16', 'ShowMore', {
-						charCount : 400,
-						showMoreText : "more",
-						showLessText : "less"
-					})
-				</script>
+				<p>	
+					<a id="image" href="./assets/images/projects/7.HyroAndroidTrainingSchool2.png" target="_blank" alt=""></a>
+				</p>
 			</div>
 		</div>
 		<div id="project-36" class="editable-item section-item tall50">
 			<div id="project-36-view">
 				<hgroup>
-					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Famaze%2Epspsolutions%2Einfo%2F&amp;urlhash=87AP&amp;trk=prof-project-name-link" target="_blank">Amaze School Web Application</a></h4>
+					<h4 class="summary fn org"><a href="http://amaze.pspsolutions.info/" target="_blank">Amaze School Web Application</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2012-05-01">
 						May 2012
