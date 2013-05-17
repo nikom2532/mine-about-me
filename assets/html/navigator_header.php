@@ -54,12 +54,21 @@
 							My Channels' Networking
 						</div>
 					</a>
+					<div class="span5 box2 no-left">
+					</div>
+				</div>
+		  		<!-- <div class="row-fluid" >
+					<a href="#" id="sn">
+						<div class="span7 box1 no-left">
+							My Channels' Networking
+						</div>
+					</a>
 					<a href="#" id="contact">
 						<div class="span5 box1 no-left">
 							Contact
 						</div>
 					</a>
-				</div>
+				</div> -->
 			</div>
 			<div class="row-fluid hit-counter" >
 				<br/>

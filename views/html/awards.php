@@ -42,7 +42,7 @@
 				<p class="description tall30">
 					CONTEST #1<br />
 					18.10.2008. 13:00 GMT/UTC<br />
-					http://www.hsin.hr/coci/archive/2008_2009/results.php?contest=1<br />
+					<a href="//www.hsin.hr/coci/archive/2008_2009/results.php?contest=1">http://www.hsin.hr/coci/archive/2008_2009/results.php?contest=1</a><br />
 					Got the 187th Nikom Suwankamol Thailand : 30 points
 				</p>
 				<p id="COCI2008-1">
@@ -51,7 +51,7 @@
 				<p class="description tall30">
 					CONTEST #2<br />
 					15.11.2008. 14:00 GMT/UTC <br />
-					http://www.hsin.hr/coci/archive/2008_2009/results.php?contest=2<br />
+					<a href="//www.hsin.hr/coci/archive/2008_2009/results.php?contest=2">http://www.hsin.hr/coci/archive/2008_2009/results.php?contest=2</a><br />
 					Got the 225 Nikom Suwankamol Thailand : 30 points
 				</p>
 				<p id="COCI2008-2">
@@ -60,7 +60,7 @@
 				<p class="description tall30">
 					CONTEST #3<br />
 					13.12.2008. 14:00 GMT/UTC <br />
-					http://www.hsin.hr/coci/archive/2008_2009/results.php?contest=3<br />
+					<a href="//www.hsin.hr/coci/archive/2008_2009/results.php?contest=3">http://www.hsin.hr/coci/archive/2008_2009/results.php?contest=3</a><br />
 					Got the 215 Nikom Suwankamol Thailand : 32 points
 				</p>
 				<p id="COCI2008-3">

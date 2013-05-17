@@ -407,6 +407,56 @@ body{
 	width: 484px;
 	height: 650px;
 }
+.main-content #background-projects #project-45 #project-45-view #image{
+	background-image: url("../images/projects/1.SCB-ITPR.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 387px;
+}
+.main-content #background-projects #project-31 #project-31-view #image1 #image{
+	background-image: url("../images/projects/2.i-ming1.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 348px;
+}
+.main-content #background-projects #project-31 #project-31-view #image2 #image{
+	background-image: url("../images/projects/2.i-ming2.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 314px;
+}
+.main-content #background-projects #project-46 #project-46-view #image{
+	background-image: url("../images/projects/3.Gamecore-VirusStoneOfiMingDragon.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 363px;
+}
+.main-content #background-projects #project-47 #project-47-view #image{
+	background-image: url("../images/projects/4.PatientInformationManagementSystem.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 293px;
+}
+.main-content #background-projects #project-39 #project-39-view #image{
+	background-image: url("../images/projects/5.UseeUdo1.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 348px;
+}
+.main-content #background-projects #project-36 #project-36-view #image{
+	background-image: url("../images/projects/6.AmazeSchool.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 301px;
+}
+
 
 /* position for the menu */
 .container #menu{

@@ -98,19 +98,15 @@
 					<br>
 					Wordpress Theme Customization‏'s Project
 				</p>
-				<script id="controlinit-dust-client17" type="text/javascript+initialized" class="li-control">
-					LI.Controls.addControl('control-dust-client17', 'ShowMore', {
-						charCount : 400,
-						showMoreText : "more",
-						showLessText : "less"
-					})
-				</script>
+				<p>	
+					<a id="image" href="./assets/images/projects/6.AmazeSchool.png" target="_blank" alt=""></a>
+				</p>
 			</div>
 		</div>
 		<div id="project-39" class="editable-item section-item tall50">
 			<div id="project-39-view">
 				<hgroup>
-					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Fwww%2Euseeudo%2Ecom&amp;urlhash=s74i&amp;trk=prof-project-name-link" target="_blank">UseeUdo Food shop</a></h4>
+					<h4 class="summary fn org"><a href="http://www.useeudo.com" target="_blank">UseeUdo Food shop (Version 1.0)</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2012-02-01">
 						February 2012
@@ -125,13 +121,11 @@
 					<br>
 					- Co-organize: Backend Web developer
 				</p>
-				<script id="controlinit-dust-client18" type="text/javascript+initialized" class="li-control">
-					LI.Controls.addControl('control-dust-client18', 'ShowMore', {
-						charCount : 400,
-						showMoreText : "more",
-						showLessText : "less"
-					})
-				</script>
+				<p>	
+					<a id="image" href="./assets/images/projects/5.UseeUdo1.png" target="_blank" alt=""></a>
+				</p>
+				
+				
 			</div>
 		</div>
 		<div id="project-47" class="editable-item section-item tall50">
@@ -150,19 +144,34 @@
 					<br>
 					with Human Computer Interaction Easily.
 				</p>
-				<script id="controlinit-dust-client19" type="text/javascript+initialized" class="li-control">
-					LI.Controls.addControl('control-dust-client19', 'ShowMore', {
-						charCount : 400,
-						showMoreText : "more",
-						showLessText : "less"
-					})
-				</script>
+				<p>	
+					<a id="image" href="./assets/images/projects/4.PatientInformationManagementSystem.png" target="_blank" alt="Socket9"></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-46" class="editable-item section-item tall50">
+			<div id="project-46-view">
+				<hgroup>
+					<h4 class="">The Virus Store of iMing Dragon</h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2011-12-01">
+						November 2011
+					</time>
+					<time datetime="2012-04-01">
+						– March 2012
+					</time></span>
+				<p class="description" id="yui-gen21">
+					Video Game based on Microsoft Windows Portable playing. Made with GameCore (a cross-platform 3d game engine, development toolset and social gaming platform)
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/3.Gamecore-VirusStoneOfiMingDragon.jpg" target="_blank" alt="Socket9"></a>
+				</p>
 			</div>
 		</div>
 		<div id="project-31" class="editable-item section-item tall50">
 			<div id="project-31-view">
 				<hgroup>
-					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Fwww%2Ei-ming%2Ecom&amp;urlhash=IB9s&amp;trk=prof-project-name-link" target="_blank">i-Ming</a></h4>
+					<h4 class="summary fn org"><a href="http://www.i-ming.com" target="_blank">i-Ming</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2011-10-01">
 						October 2011
@@ -173,13 +182,14 @@
 				<p class="description" id="yui-gen22">
 					i-Ming is the social networking that can search any problem by your search engine keyword. you also can connect to your key with any web around the world.
 				</p>
-				<script id="controlinit-dust-client20" type="text/javascript+initialized" class="li-control">
-					LI.Controls.addControl('control-dust-client20', 'ShowMore', {
-						charCount : 400,
-						showMoreText : "more",
-						showLessText : "less"
-					})
-				</script>
+				Prototype version
+				<p id="image1">	
+					<a id="image" href="./assets/images/projects/2.i-ming1.jpg" target="_blank" alt="Socket9"></a>
+				</p>
+				Version 1
+				<p id="image2">	
+					<a id="image" href="./assets/images/projects/2.i-ming2.jpg" target="_blank" alt="Socket9"></a>
+				</p>
 			</div>
 		</div>
 		<div id="project-45" class="editable-item section-item tall50">
@@ -188,7 +198,7 @@
 					<h4 class="summary fn org">ITPR Workbench's Web Application</h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2011-05-01">
-						May 2011
+						April 2011
 					</time>
 					<time datetime="2011-05-01">
 						– May 2011
@@ -196,13 +206,9 @@
 				<p class="description" id="yui-gen23">
 					An web application for keying by auditor
 				</p>
-				<script id="controlinit-dust-client21" type="text/javascript+initialized" class="li-control">
-					LI.Controls.addControl('control-dust-client21', 'ShowMore', {
-						charCount : 400,
-						showMoreText : "more",
-						showLessText : "less"
-					})
-				</script>
+				<p>	
+					<a id="image" href="./assets/images/projects/1.SCB-ITPR.jpg" target="_blank" alt="Socket9"></a>
+				</p>
 			</div>
 		</div>
 		<div id="project-43" class="editable-item section-item tall50">
@@ -229,20 +235,4 @@
 			</div>
 		</div>
 	</div>
-	<script id="controlinit-dust-client23" type="text/javascript+initialized" class="li-control">
-		LI.Controls.addControl('control-dust-client23', 'Sortable.Region', {
-			constants : 'LI.Profile.Constants',
-			onCreatePostData : LI.Profile.SortableSection.onCreatePostData,
-			helpText : 'Drag to rearrange profile sections',
-			group : 'projects',
-			useForm : 'form',
-			createPostDataConfig : {
-				orderInputId : 'sectionOrder-intraSubsectionReorderForm'
-			},
-			onSuccess : function(o) {
-				var newTimestamp = o.responseText.timestamp;
-				$.fn.ProfileEdit.setUpdatedTimestamp(newTimestamp);
-			}
-		})
-	</script>
 </div>
