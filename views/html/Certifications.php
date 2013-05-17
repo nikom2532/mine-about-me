@@ -4,7 +4,10 @@
 <div id="background-certifications" class="background-certifications tall50">
 	<div id="certifications-280" class="editable-item section-item">
 		<div id="certifications-280-view">
-			s
+			<h4 class="">
+				Patana Technic School Certification
+			</h4>
+			
 		</div>
 	</div>
 </div>
