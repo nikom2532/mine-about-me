@@ -551,10 +551,19 @@ body{
 		margin-left: 0;
 	}
 	
-	.main-content #background-experience #experience-391737344 hgroup a#image{
+	.main-content #background-experience #experience-391737344 hgroup a#image,
+	.main-content #background-education .education p a#image,
+	.main-content #background-projects p a#image,
+	.main-content #background-honors a#image,
+	.main-content #background-certifications p a#image
+	{
 		width:100% !important;
 		background-repeat:no-repeat;
 		background-position:center;
+		background-size: contain !important;
+		-webkit-background-size: contain !important;
+	    -moz-background-size: contain !important;
+	    -o-background-size: contain !important;
 	}
 	#menu .hit-counter{
 		display: none;
