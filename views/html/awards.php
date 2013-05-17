@@ -1,7 +1,7 @@
 <div class="myname">
 	Awards
 </div>
-<div id="background-honors" class="background-honors tall50">
+<div id="background-honors" class="background-honors">
 	<form name="sectionReorderForm" method="POST" action="/profile/section-reorder-submit">
 		<input type="hidden" name="sectionType" value="HNRS">
 		<input type="hidden" name="sectionOrder" value="" id="sectionOrder-sectionReorderForm">
@@ -10,12 +10,7 @@
 		<input type="hidden" name="sourceAlias" value="0_fvzmxERg2KDWVPMXj45hKnq3clxRTWA8ZwknG4OOUxF" id="sourceAlias-sectionReorderForm">
 	</form>
 	
-	
-	
-
-
-	
-	<div id="honors-056" class="editable-item section-item">
+	<div id="honors-056" class="editable-item section-item tall50">
 		<div id="honors-056-view">
 			<div class="honoraward  first">
 				<h4 class="summary fn org"></h4><h5>RSU Homepage Competition 2005</h5><span class="honors-date">
@@ -32,25 +27,6 @@
 			</div>
 		</div>
 	</div>
-	<div id="honors-063" class="editable-item section-item">
-		<div id="honors-063-view">
-			<div class="honoraward  first">
-				<h5>ABAC IT Science Day Competition 2005</h5>
-				<span class="honors-date">
-					<time datetime="2005-10-01">
-						October 2005
-					</time>
-				</span>
-				<p class="description" id="yui-gen1">
-					- (Grade 11) Got 27th by team Answer the quertion ABAC from 60 Teams
-				</p>
-				<p>
-					<a id="image" href="./assets/images/awards/2.ABAC1.jpg" target="_blank" alt="Socket9"></a>
-				</p>
-			</div>
-		</div>
-	</div>
-	
 	<div id="honors-106" class="editable-item section-item tall50">
 		<div id="honors-106-view">
 			<div class="honoraward  first">
@@ -62,6 +38,41 @@
 					At 100th+
 					<br />
 					Online Computer Olympic in Croatia
+				</p>
+				<p class="description tall30">
+					CONTEST #1<br />
+					18.10.2008. 13:00 GMT/UTC<br />
+					http://www.hsin.hr/coci/archive/2008_2009/results.php?contest=1<br />
+					Got the 187th Nikom Suwankamol Thailand : 30 points
+				</p>
+				<p id="COCI2008-1">
+					<a id="image" href="./assets/images/awards/5.COCI2008-1.jpg" target="_blank" alt="Socket9"></a>
+				</p>
+				<p class="description tall30">
+					CONTEST #2<br />
+					15.11.2008. 14:00 GMT/UTC <br />
+					http://www.hsin.hr/coci/archive/2008_2009/results.php?contest=2<br />
+					Got the 225 Nikom Suwankamol Thailand : 30 points
+				</p>
+				<p id="COCI2008-2">
+					<a id="image" href="./assets/images/awards/5.COCI2008-2.jpg" target="_blank" alt="Socket9"></a>
+				</p>
+				<p class="description tall30">
+					CONTEST #3<br />
+					13.12.2008. 14:00 GMT/UTC <br />
+					http://www.hsin.hr/coci/archive/2008_2009/results.php?contest=3<br />
+					Got the 215 Nikom Suwankamol Thailand : 32 points
+				</p>
+				<p id="COCI2008-3">
+					<a id="image" href="./assets/images/awards/5.COCI2008-3.jpg" target="_blank" alt="Socket9"></a>
+				</p>
+				<p class="description tall30">
+					CONTEST #4<br />
+					17.01.2009. 14:00 GMT/UTC <br />
+					Got the 220 Nikom Suwankamol Thailand : 8+36+0 = 44 points
+				</p>
+				<p id="COCI2008-4">
+					<a id="image" href="./assets/images/awards/5.COCI2008-4.jpg" target="_blank" alt="Socket9"></a>
 				</p>
 			</div>
 		</div>
@@ -76,18 +87,27 @@
 				<p class="description" id="yui-gen12">
 					GPA: 3.43
 				</p>
+				<p>
+					<a id="image" href="./assets/images/awards/7.KMITLtranscript.png" target="_blank" alt="Socket9"></a>
+				</p>
 			</div>
+			
 		</div>
 	</div>
 	<div id="honors-102" class="editable-item section-item tall50">
 		<div id="honors-102-view">
 			<div class="honoraward ">
-				<h4 class="summary fn org">Good Studying - Grade 11</h4><h5>Brothers Kang Wongchili (กันย์ วงษ์ชีรี)</h5><span class="honors-date">
+				<h4 class="summary fn org">La Salle Distinction - distinguished in Studying Certification 2006</h4>
+				<span class="honors-date">
 					<time datetime="2007-02-01">
 						February 2007
-					</time></span>
+					</time>
+				</span>
 				<p class="description" id="yui-gen13">
 					GPA: 3.5+
+				</p>
+				<p>
+					<a id="image" href="./assets/images/awards/6.LasallePhoto.jpg" target="_blank" alt="Socket9"></a>
 				</p>
 			</div>
 		</div>
@@ -96,8 +116,8 @@
 		<div id="honors-104-view">
 			<div class="honoraward ">
 				<h4 class="summary fn org">2nd Round Competition of Chulalongkorn University's Science Weekly Day</h4><h5>Chulalongkorn University</h5><span class="honors-date">
-					<time datetime="2006-08-01">
-						August 2006
+					<time datetime="2007-02-01">
+						February 2007
 					</time></span>
 				<p class="description" id="yui-gen14">
 					2nd Round Competition of Chulalongkorn University's Science Weekly Day
@@ -109,6 +129,9 @@
 					<br />
 					1. Maths 2. Physics 3. Chemistry 4. Biology 5. Computer
 				</p>
+				<p>
+					<a id="image" href="./assets/images/awards/3.Chula.jpg" target="_blank" alt="Socket9"></a>
+				</p>
 			</div>
 		</div>
 	</div>
@@ -116,8 +139,8 @@
 		<div id="honors-105-view">
 			<div class="honoraward ">
 				<h4 class="summary fn org">ABAC 's Science Weekly Day's Competition</h4><h5>ABAC - Faculty of Science</h5><span class="honors-date">
-					<time datetime="2005-08-01">
-						August 2005
+					<time datetime="2006-08-01">
+						August 2006
 					</time></span>
 				<p class="description" id="yui-gen15">
 					ABAC 's Science Weekly Day's Competition
@@ -127,8 +150,46 @@
 					3rd Round: 27th.
 				</p>
 			</div>
+			<p>
+				<a id="image" href="./assets/images/awards/2.ABAC1.jpg" target="_blank" alt="Socket9"></a>
+			</p>
 		</div>
 	</div>
+	<div id="honors-064" class="editable-item section-item">
+		<div id="honors-064-view">
+			<div class="honoraward  first">
+				<p>
+					<a id="image" href="./assets/images/awards/2.ABAC2.jpg" target="_blank" alt="Socket9"></a>
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="honors-108" class="editable-item section-item tall50">
+		<div id="honors-108-view">
+			<div class="honoraward ">
+				<h4 class="summary fn org">USACO 2008</h4>
+					<time datetime="2005-08-01">
+						August 2008
+					</time></span>
+				<p class="description" id="yui-gen15">
+					- compete Programming from USACO
+					Elite round, 2008 November Competition contest, Got a Copper coin (USACO send Email Telling effect)
+				</p>
+			</div>
+			<p>
+				<a id="image" href="./assets/images/awards/4.USACO2008.jpg" target="_blank" alt="Socket9"></a>
+			</p>
+		</div>
+		<div id="honors-108-2-view">
+			<p>
+				<a id="image" href="./assets/images/awards/4.USACO2008-2.jpg" target="_blank" alt="Socket9"></a>
+		</div>
+		<div id="honors-108-3-view">
+			<p>
+				<a id="image" href="./assets/images/awards/4.USACO2008-3.jpg" target="_blank" alt="Socket9"></a>
+		</div>
+	</div>
+	
 	<div id="honors-additional-item" class="section-item editable-item tall50">
 		<div id="honors-additional-item-view">
 			<div class="honoraward">

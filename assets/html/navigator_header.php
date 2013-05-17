@@ -42,16 +42,16 @@
 							Awards
 						</div>
 					</a>
-					<a href="#" id="sn">
+					<a href="#" id="certifications">
 						<div class="span7 box1 no-left">
-							My Channels' Networking
+							Certifications
 						</div>
 					</a>
 				</div>
 		  		<div class="row-fluid" >
-					<a href="#" id="certifications">
+					<a href="#" id="sn">
 						<div class="span7 box1 no-left">
-							Certifications
+							My Channels' Networking
 						</div>
 					</a>
 					<a href="#" id="contact">

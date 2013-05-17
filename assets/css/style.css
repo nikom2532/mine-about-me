@@ -267,13 +267,6 @@ body{
 	width: 484px;
 	height: 350px;
 }
-.main-content #background-certifications #certifications-2007022 #view #image{
-	background-image: url("../images/certifications/6.LasallePhoto.jpg");
-	background-size: 484px auto;
-	display: block;
-	width: 484px;
-	height: 350px;
-}
 .main-content #background-certifications #certifications-2008021 #view #image{
 	background-image: url("../images/certifications/7.Lasalle.jpg");
 	background-size: 484px auto;
@@ -330,15 +323,90 @@ body{
 	width: 484px;
 	height: 893px;
 }
-.main-content #background-honors #honors-063 #honors-063-view #image{
+.main-content #background-honors #honors-104 #honors-104-view #image{
+	background-image: url("../images/awards/3.Chula.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 362px;
+}
+.main-content #background-honors #honors-105 #honors-105-view #image{
 	background-image: url("../images/awards/2.ABAC1.jpg");
 	background-size: 484px auto;
 	display: block;
 	width: 484px;
 	height: 362px;
 }
-
-
+.main-content #background-honors #honors-064 #honors-064-view #image{
+	background-image: url("../images/awards/2.ABAC2.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 362px;
+}
+.main-content #background-honors #honors-102 #honors-102-view #image{
+	background-image: url("../images/awards/6.LasallePhoto.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 378px;
+}
+.main-content #background-honors #honors-108 #honors-108-view #image{
+	background-image: url("../images/awards/4.USACO2008.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 500px;
+}
+.main-content #background-honors #honors-108 #honors-108-2-view #image{
+	background-image: url("../images/awards/4.USACO2008-2.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 460px;
+}
+.main-content #background-honors #honors-108 #honors-108-3-view #image{
+	background-image: url("../images/awards/4.USACO2008-3.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 320px;
+}
+.main-content #background-honors #honors-106 #honors-106-view #COCI2008-1 #image{
+	background-image: url("../images/awards/5.COCI2008-1.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 20px;
+}
+.main-content #background-honors #honors-106 #honors-106-view #COCI2008-2 #image{
+	background-image: url("../images/awards/5.COCI2008-2.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 20px;
+}
+.main-content #background-honors #honors-106 #honors-106-view #COCI2008-3 #image{
+	background-image: url("../images/awards/5.COCI2008-3.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 20px;
+}
+.main-content #background-honors #honors-106 #honors-106-view #COCI2008-4 #image{
+	background-image: url("../images/awards/5.COCI2008-4.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 20px;
+}
+.main-content #background-honors #honors-103 #honors-103-view #image{
+	background-image: url("../images/awards/7.KMITLtranscript.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 650px;
+}
 
 /* position for the menu */
 .container #menu{

@@ -5,10 +5,10 @@
 	<div id="certifications-200310" class="tall50">
 		<div id="view">
 			<h4 class="">
-				Patana Technic School 2003 Certification
+				<a href="http://www.phatthana-it.com/" target="_blank">Technic School 2003 Certification</a>
 			</h4>
 			<p>
-				<a id="image" href="./assets/images/certifications/1.PattanaTechnicSchool.jpg" target="_blank" alt="Socket9"></a>
+				<a id="image" href="./assets/images/certifications/1.PattanaTechnicSchool.jpg" target="_blank" alt=""></a>
 			</p>
 		</div>
 	</div>
@@ -46,13 +46,6 @@
 			</h4>
 			<p>
 				<a id="image" href="./assets/images/certifications/5.Lasalle.jpg" target="_blank" alt="Socket9"></a>
-			</p>
-		</div>
-	</div>
-	<div id="certifications-2007022" class="tall30">
-		<div id="view">
-			<p>
-				<a id="image" href="./assets/images/certifications/6.LasallePhoto.jpg" target="_blank" alt="Socket9"></a>
 			</p>
 		</div>
 	</div>
