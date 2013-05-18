@@ -407,75 +407,145 @@ body{
 	width: 484px;
 	height: 650px;
 }
-.main-content #background-projects #project-45 #project-45-view #image{
+.main-content #background-projects #project-45 #project-45-view a#image{
 	background-image: url("../images/projects/1.SCB-ITPR.jpg");
 	background-size: 484px auto;
 	display: block;
 	width: 484px;
 	height: 387px;
 }
-.main-content #background-projects #project-31 #project-31-view #image1 #image{
+.main-content #background-projects #project-31 #project-31-view #image1 a#image{
 	background-image: url("../images/projects/2.i-ming1.jpg");
 	background-size: 484px auto;
 	display: block;
 	width: 484px;
 	height: 348px;
 }
-.main-content #background-projects #project-31 #project-31-view #image2 #image{
+.main-content #background-projects #project-31 #project-31-view #image2 a#image{
 	background-image: url("../images/projects/2.i-ming2.png");
 	background-size: 484px auto;
 	display: block;
 	width: 484px;
 	height: 314px;
 }
-.main-content #background-projects #project-46 #project-46-view #image{
+.main-content #background-projects #project-46 #project-46-view a#image{
 	background-image: url("../images/projects/3.Gamecore-VirusStoneOfiMingDragon.jpg");
 	background-size: 484px auto;
 	display: block;
 	width: 484px;
 	height: 363px;
 }
-.main-content #background-projects #project-47 #project-47-view #image{
+.main-content #background-projects #project-47 #project-47-view a#image{
 	background-image: url("../images/projects/4.PatientInformationManagementSystem.png");
 	background-size: 484px auto;
 	display: block;
 	width: 484px;
 	height: 293px;
 }
-.main-content #background-projects #project-39 #project-39-view #image{
+.main-content #background-projects #project-39 #project-39-view a#image{
 	background-image: url("../images/projects/5.UseeUdo1.png");
 	background-size: 484px auto;
 	display: block;
 	width: 484px;
 	height: 348px;
 }
-.main-content #background-projects #project-36 #project-36-view #image{
+.main-content #background-projects #project-36 #project-36-view a#image{
 	background-image: url("../images/projects/6.AmazeSchool.png");
 	background-size: 484px auto;
 	display: block;
 	width: 484px;
 	height: 301px;
 }
-.main-content #background-projects #project-41 #project-41-view #image{
+.main-content #background-projects #project-41 #project-41-view a#image{
 	background-image: url("../images/projects/7.HyroAndroidTrainingSchool2.png");
 	background-size: 484px auto;
 	display: block;
 	width: 484px;
 	height: 678px;
 }
-.main-content #background-projects #project-100 #project-100-view #image{
+.main-content #background-projects #project-100 #project-100-view a#image{
 	background-image: url("../images/projects/8.HelpDeskApp.png");
 	background-size: 484px auto;
 	display: block;
 	width: 484px;
 	height: 230px;
 }
-.main-content #background-projects #project-96 #project-96-view #image{
+.main-content #background-projects #project-96 #project-96-view a#image{
 	background-image: url("../images/projects/9.universityProject.jpg");
 	background-size: 484px auto;
 	display: block;
 	width: 484px;
 	height: 479px;
+}
+.main-content #background-projects #project-21 #project-21-view a#image{
+	background-image: url("../images/projects/10.nikom2532-2003.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 292px;
+}
+.main-content #background-projects #project-22 #project-22-view a#image{
+	background-image: url("../images/projects/10.nikom2532-2005.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 713px;
+}
+.main-content #background-projects #project-23 #project-23-view a#image{
+	background-image: url("../images/awards/1.RSU.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 893px;
+}
+.main-content #background-projects #project-43 #project-43-view a#image{
+	background-image: url("../images/projects/11.OTRS.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 221px;
+}
+.main-content #background-projects #project-51 #project-51-view a#image{
+	background-image: url("../images/projects/12.MembersAllianceEducationFoundation.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 1191px;
+}
+.main-content #background-projects #project-52 #project-52-view a#image{
+	background-image: url("../images/projects/13.punpunbikeshare.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 288px;
+}
+.main-content #background-projects #project-53 #project-53-view p#image1 a#image{
+	background-image: url("../images/projects/14.CloudStax1.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 774px;
+}
+.main-content #background-projects #project-53 #project-53-view a#image{
+	background-image: url("../images/projects/14.CloudStax2.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 774px;
+}
+.main-content #background-projects #project-54 #project-54-view a#image{
+	background-image: url("../images/projects/16.Mymart3Android.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 349px;
+}
+.main-content #background-projects #project-55 #project-55-view a#image{
+	background-image: url("../images/projects/15.OTOPPLUS.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 806px;
 }
 
 /* position for the menu */

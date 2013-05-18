@@ -48,6 +48,109 @@
 				</p>
 			</div>
 		</div>
+		<div id="project-55" class="editable-item section-item tall50">
+			<div id="project-55-view">
+				<hgroup>
+					<h4 class="summary fn org">OTOP Plus</h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2013-01-01">
+						January 2013
+					</time>
+					<time datetime="2013-04-30">
+						– April 2013
+					</time></span>
+				<p class="description" id="yui-gen17">
+					Project when I was a support-backend developer part of <a href="http://www.socket9.com" target="_blank">SOCKET 9</a>. For generate images with scripts for banners. And, for manages thousand rows data from Spreadsheet calculations only.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/15.OTOPPLUS.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-54" class="editable-item section-item tall50">
+			<div id="project-54-view">
+				<hgroup>
+					<h4 class="summary fn org">Mymart3 for Android</h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2013-01-01">
+						January 2013
+					</time>
+					<time datetime="2013-04-30">
+						– April 2013
+					</time></span>
+				<p class="description" id="yui-gen17">
+					Project when I was a co-backend developer part of <a href="http://www.socket9.com" target="_blank">SOCKET 9</a> for Phase I.<br />
+					I did for changing the code to be Object-oriented programming(OOP) + WebService, creating some of the UI, And creating some of the Unit Tests.
+					<br />
+					Mymart3 for Android is The application is an extension to our Existing product myMART which is a web application for online school reporting. The system allows a Teacher to login to their class and mark and comment on student’s achievements over the semester. The system then collaborates all the marks and comments into the final semester report which gets sent home to the parents.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/16.Mymart3Android.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-53" class="editable-item section-item tall50">
+			<div id="project-53-view">
+				<hgroup>
+					<h4 class="summary fn org">6Sheet</h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2013-01-01">
+						January 2013
+					</time>
+					<time datetime="2013-04-30">
+						– April 2013
+					</time></span>
+				<p class="description" id="yui-gen17">
+					Project when I was a co-backend developer part of  <a href="http://www.socket9.com" target="_blank">SOCKET 9</a>. 6sheet - instant cloud poster.<br />we encourage your events with our live time poster, to make your event more powerful
+attractive to audience, with our instagram, facebook, cloud service based and present it on Screen in customizing poster style. make it Cloud and Display
+match with any - Exhibition/gallery - Events - Marketing tools - retail store, restaurant - wedding event.
+				</p>
+				<p id="image1">	
+					<a id="image" href="./assets/images/projects/14.CloudStax1.jpg" target="_blank" alt=""></a>
+				</p>
+				<p id="image2">	
+					<a id="image" href="./assets/images/projects/14.CloudStax2.jpg" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-52" class="editable-item section-item tall50">
+			<div id="project-52-view">
+				<hgroup>
+					<h4 class="summary fn org">PunPun BikeShare</h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2013-01-01">
+						January 2013
+					</time>
+					<time datetime="2013-04-30">
+						– April 2013
+					</time></span>
+				<p class="description" id="yui-gen17">
+					Project when I was a backend developer part of  <a href="http://www.socket9.com" target="_blank">SOCKET 9</a>. It is a website that government campaigned to encourage peple to use bike in last mile of transportation in Bangkok, Thailand.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/13.punpunbikeshare.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-51" class="editable-item section-item tall50">
+			<div id="project-51-view">
+				<hgroup>
+					<h4 class="summary fn org">Members Alliance Education Foundation</h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2013-01-01">
+						January 2013
+					</time>
+					<time datetime="2013-04-30">
+						– April 2013
+					</time></span>
+				<p class="description" id="yui-gen17">
+					Project when I was a backend developer, and CSS part of <a href="http://www.socket9.com" target="_blank">SOCKET 9</a>. It enhances teaching &#38; learning by giving schools the opportunity to use our quality suite of online learning programs
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/12.MembersAllianceEducationFoundation.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
 		<div id="project-41" class="editable-item section-item tall50">
 			<div id="project-41-view">
 				<hgroup>
@@ -75,9 +178,6 @@
 					<time datetime="2012-05-01">
 						May 2012
 					</time>
-					<time datetime="2012-05-01">
-						– May 2012
-					</time></span>
 				<p class="description" id="yui-gen19">
 					Wordpress Theme Customization‏
 					<br>
@@ -211,15 +311,63 @@
 						– April 2011
 					</time></span>
 				<p class="description" id="yui-gen24">
-					Consult and make a user manual the OTRS CMS to customer.
+					Consult and make a user manual the OTRS CMS (Perl) to customer.
 				</p>
-				<script id="controlinit-dust-client22" type="text/javascript+initialized" class="li-control">
-					LI.Controls.addControl('control-dust-client22', 'ShowMore', {
-						charCount : 400,
-						showMoreText : "more",
-						showLessText : "less"
-					})
-				</script>
+				<p>	
+					<a id="image" href="./assets/images/projects/11.OTRS.png" target="_blank" alt="Socket9"></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-23" class="editable-item section-item tall50">
+			<div id="project-23-view">
+				<hgroup>
+					<h4 class="summary fn org"><a href="http://www.i-ming.com/nikom2532/_other/RSU/WebDesign/Index.htm" target="_blank">RSU Homepage Competition 2005</a></h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2005-06-01">
+						October 2005
+					</time></span>
+				<p class="description" id="yui-gen24">
+					- (Grade 10) Got a Consolation prize from writing a Homepage from RSU(Rangsit University) <br />
+					- RSU(Rangsit University) Celebrate 20-year anniversary. (with a shirt+clock)
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/awards/1.RSU.jpg" target="_blank" alt="Socket9"></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-22" class="editable-item section-item tall50">
+			<div id="project-22-view">
+				<hgroup>
+					<h4 class="summary fn org"><a href="http://www.i-ming.com/nikom2532/_other/v2005/Index.htm" target="_blank">SE-ED.NET/nikom2532 (Version 2005)</a></h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2005-03-01">
+						2005
+					</time>
+				<p class="description" id="yui-gen24">
+					Homepage of SE-ED.net/nikom2532, version 2005, with Macromedia Flash 5, Calendar. The imformation way can tauch, make with HTML. This version is hosted on http://www.SE-ED.net, after that, I hosted with http://geocities.yahoo.com . Both of servers are shutdowned.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/10.nikom2532-2005.png" target="_blank" alt="Socket9"></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-21" class="editable-item section-item tall50">
+			<div id="project-21-view">
+				<hgroup>
+					<h4 class="summary fn org"><h4 class="summary fn org"><a href="http://www.i-ming.com/nikom2532/_other/v2005/Index.htm" target="_blank">SE-ED.NET/nikom2532</a></h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2003-03-01">
+						2003
+					</time>
+					<time datetime="2004-04-01">
+						– 2004
+					</time></span>
+				<p class="description" id="yui-gen24">
+					Homepage of SE-ED.NET/nikom2532, The imformation way can tauch, make with HTML.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/10.nikom2532-2003.png" target="_blank" alt="Socket9"></a>
+				</p>
 			</div>
 		</div>
 	</div>
