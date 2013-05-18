@@ -116,8 +116,8 @@
 		<div id="honors-104-view">
 			<div class="honoraward ">
 				<h4 class="summary fn org">2nd Round Competition of Chulalongkorn University's Science Weekly Day</h4><h5>Chulalongkorn University</h5><span class="honors-date">
-					<time datetime="2007-02-01">
-						February 2007
+					<time datetime="2007-08-25">
+						August 2007
 					</time></span>
 				<p class="description" id="yui-gen14">
 					2nd Round Competition of Chulalongkorn University's Science Weekly Day
