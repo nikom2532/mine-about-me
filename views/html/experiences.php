@@ -41,7 +41,7 @@
 				</p>
 			</div>
 		</div>
-		<div id="experience-345146231" class="editable-item section-item">
+		<div id="experience-345146231" class="editable-item section-item tall50">
 			<div id="experience-345146231-view">
 				<hgroup>
 					<h4>
@@ -124,7 +124,7 @@
 							<li class="row-first">
 								<h6>Wordpress CMS for android training web</h6>
 								<p>
-									<span>Customize the web theme</span><a data-li-trk-code="prof-exp-project-more" href="#background-projects">View</a>
+									<span>Customize the web theme</span>
 								</p>
 							</li>
 						</ul>
