@@ -463,6 +463,34 @@ body{
 	width: 484px;
 	height: 678px;
 }
+.main-content #background-projects #project-101 #project-101-view p#image1 a#image{
+	background-image: url("../images/projects/17.Click2Feed-1.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 723px;
+}
+.main-content #background-projects #project-101 #project-101-view p#image2 a#image{
+	background-image: url("../images/projects/17.Click2Feed-2.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 723px;
+}
+.main-content #background-projects #project-101 #project-101-view p#image3 a#image{
+	background-image: url("../images/projects/17.Click2Feed-3.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 680px;
+}
+.main-content #background-projects #project-101 #project-101-view p#image4 a#image{
+	background-image: url("../images/projects/17.Click2Feed-4.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 476px;
+}
 .main-content #background-projects #project-100 #project-100-view a#image{
 	background-image: url("../images/projects/8.HelpDeskApp.png");
 	background-size: 484px auto;
@@ -526,7 +554,7 @@ body{
 	width: 484px;
 	height: 774px;
 }
-.main-content #background-projects #project-53 #project-53-view a#image{
+.main-content #background-projects #project-53 #project-53-view p#image2 a#image{
 	background-image: url("../images/projects/14.CloudStax2.jpg");
 	background-size: 484px auto;
 	display: block;
