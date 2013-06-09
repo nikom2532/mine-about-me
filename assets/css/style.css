@@ -162,6 +162,13 @@ body{
 .container #menu #menu-navbar-close{
 	display: none;
 }
+.main-content #background-experience #experience-345146232 #experience-345146232-view hgroup a#image{
+	background-image: url("../images/experiences/Buildthedot.png");
+	background-size: auto auto;
+	display: block;
+	width: 128px;
+	height: 194px;
+}
 .main-content #background-experience #experience-345146231 #experience-345146231-view hgroup a#image{
 	background-image: url("../images/experiences/socket9-logo-white.png");
 	background-size: auto auto;

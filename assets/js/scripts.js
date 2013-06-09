@@ -1,7 +1,6 @@
 $("#body_page .container #menu #home").click(function() {
 	$(".main-content #home").css("display", "block");
 	$(".main-content #educations").css("display", "none");
-	$(".main-content #experiences").css("display", "none");
 	$(".main-content #projects").css("display", "none");
 	$(".main-content #awards").css("display", "none");
 	$(".main-content #sn").css("display", "none");
@@ -149,17 +148,17 @@ $(window).resize(function() {
 		$("#body_page .container #menu #menu-navbar-close").addClass("show-none");
 
 		$("#body_page .container #menu #home").click(function() {
-			alert($(window).width());
+			
 			// if (width < 768 && width > 400){
-				$(".container #menu #lists").removeClass("show-inline");
-				$(".container #menu #lists").addClass("show-none");
+			$(".container #menu #lists").removeClass("show-inline");
+			$(".container #menu #lists").addClass("show-none");
 			// }
 		});
 		$("#body_page .container #menu #educations").click(function() {
-			alert($(window).width());
+			
 			// if (width < 768 && width > 400){
-				$(".container #menu #lists").removeClass("show-inline");
-				$(".container #menu #lists").addClass("show-none");
+			$(".container #menu #lists").removeClass("show-inline");
+			$(".container #menu #lists").addClass("show-none");
 			// }
 		});
 		$("#body_page .container #menu #experiences").click(function() {

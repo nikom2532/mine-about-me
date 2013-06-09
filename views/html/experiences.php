@@ -3,6 +3,44 @@
 </div>
 <div id="background-experience" class="background-experience edit-default tall50">
 	<div id="experience-391737344" class="editable-item section-item">
+		<div id="experience-345146232" class="editable-item section-item">
+			<div id="experience-345146232-view">
+				<hgroup>
+					<h4>
+						Co-Founder
+					</h4>
+					<p class="tall30">
+						<a id="image" href="http://www.buildthedot.com/" target="_blank" alt="Socket9"></a>
+					</p>
+					<h5 class="tall30">
+						<a href="http://www.buildthedot.com" target="_blank">@ BuildTheDot</a>
+					</h5>
+				</hgroup>
+				<span class="experience-date-locale">
+					<time datetime="2012-12-01">
+						June 2013
+					</time>
+					<time datetime="2013-04-01">
+						– now
+					</time>
+					<br />
+				</span>
+				<p class="description">
+					Software Developer on
+					<br />
+					We are Web Application, Mobile Application, AR Application Software Development and Design Service Provider.
+					<br /><br />
+					We create Web, Web CMS For <u>Web Application</u>.
+					<br />
+					We create Android Application, iOS Application, Windows Applications, BlackBerry Application For <u>Mobile Application</u>.
+					<br />
+					We create <u>AR Application</u>.
+					<br />
+					We are Software Development, and Software Design Service Providers.
+
+				</p>
+			</div>
+		</div>
 		<div id="experience-345146231" class="editable-item section-item">
 			<div id="experience-345146231-view">
 				<hgroup>
