@@ -38,6 +38,22 @@
 				</p>
 			</div>
 		</div>
+		<div id="project-102" class="editable-item section-item tall50">
+			<div id="project-102-view">
+				<hgroup>
+					<h4 class="summary fn org">Arming Metro-Style</h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2013-03-01">
+						May 2013
+					</time></span>
+				<p class="description" id="yui-gen16">
+					About me descriptions style
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/20.Arming-Metro-style.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
 		<div id="project-100" class="editable-item section-item tall50">
 			<div id="project-100-view">
 				<hgroup>
@@ -176,6 +192,28 @@ match with any - Exhibition/gallery - Events - Marketing tools - retail store, r
 				</p>
 			</div>
 		</div>
+		<div id="project-42" class="editable-item section-item tall50">
+			<div id="project-42-view">
+				<hgroup>
+					<h4 class="summary fn org">billBoard AJAX calling</h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2012-06-01">
+						August 2012
+					</time>
+					<time datetime="2012-08-01">
+						– September 2012
+					</time></span>
+				<p class="description" id="yui-gen18">
+					BillBoard Content showing System
+				</p>
+				<p id="image1">	
+					<a id="image" href="./assets/images/projects/18.Billboard1.png" target="_blank" alt=""></a>
+				</p>
+				<p id="image2">	
+					<a id="image" href="./assets/images/projects/18.Billboard2.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
 		<div id="project-41" class="editable-item section-item tall50">
 			<div id="project-41-view">
 				<hgroup>
@@ -192,6 +230,22 @@ match with any - Exhibition/gallery - Events - Marketing tools - retail store, r
 				</p>
 				<p>	
 					<a id="image" href="./assets/images/projects/7.HyroAndroidTrainingSchool2.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-40" class="editable-item section-item tall50">
+			<div id="project-40-view">
+				<hgroup>
+					<h4 class="summary fn org"><a href="http://amaze.pspsolutions.info/" target="_blank">Arming Shake</a></h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2012-05-01">
+						June 2012
+					</time>
+				<p class="description" id="yui-gen19">
+					About me descriptions
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/19.arming-shake.png" target="_blank" alt=""></a>
 				</p>
 			</div>
 		</div>
@@ -257,8 +311,35 @@ match with any - Exhibition/gallery - Events - Marketing tools - retail store, r
 					<br>
 					with Human Computer Interaction Easily.
 				</p>
-				<p>	
-					<a id="image" href="./assets/images/projects/4.PatientInformationManagementSystem.png" target="_blank" alt="Socket9"></a>
+				<p id="image1">	
+					<a id="image" href="./assets/images/projects/4.PatientInformationManagementSystem1.png" target="_blank" alt="Socket9"></a>
+				</p>
+				<p id="image2">	
+					<a id="image" href="./assets/images/projects/4.PatientInformationManagementSystem2.png" target="_blank" alt="Socket9"></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-48" class="editable-item section-item tall50">
+			<div id="project-48-view">
+				<hgroup>
+					<h4 class="summary fn org"><a href="/redir/redirect?url=http%3A%2F%2Fhms%2Enikom2532%2Eco%2Ecc&amp;urlhash=TJsB&amp;trk=prof-project-name-link" target="_blank">Prama Lab</a></h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2011-12-01">
+						February 2012
+					</time>
+					<time datetime="2012-04-01">
+						– April 2012
+					</time></span>
+				<p class="description" id="yui-gen21">
+					to record the Patient Information Management System
+					<br>
+					with Human Computer Interaction Easily.
+				</p>
+				<p id="image1">	
+					<a id="image" href="./assets/images/projects/22.PramaLab1.png" target="_blank" alt="Socket9"></a>
+				</p>
+				<p id="image2">	
+					<a id="image" href="./assets/images/projects/22.PramaLab2.png" target="_blank" alt="Socket9"></a>
 				</p>
 			</div>
 		</div>

@@ -442,12 +442,33 @@ body{
 	width: 484px;
 	height: 363px;
 }
-.main-content #background-projects #project-47 #project-47-view a#image{
-	background-image: url("../images/projects/4.PatientInformationManagementSystem.png");
+.main-content #background-projects #project-47 #project-47-view p#image1 a#image{
+	background-image: url("../images/projects/4.PatientInformationManagementSystem1.png");
 	background-size: 484px auto;
 	display: block;
 	width: 484px;
 	height: 293px;
+}
+.main-content #background-projects #project-47 #project-47-view p#image2 a#image{
+	background-image: url("../images/projects/4.PatientInformationManagementSystem2.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 273px;
+}
+.main-content #background-projects #project-48 #project-48-view p#image1 a#image{
+	background-image: url("../images/projects/22.PramaLab1.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 380px;
+}
+.main-content #background-projects #project-48 #project-48-view p#image2 a#image{
+	background-image: url("../images/projects/22.PramaLab2.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 315px;
 }
 .main-content #background-projects #project-39 #project-39-view a#image{
 	background-image: url("../images/projects/5.UseeUdo1.png");
@@ -463,12 +484,33 @@ body{
 	width: 484px;
 	height: 301px;
 }
+.main-content #background-projects #project-40 #project-40-view a#image{
+	background-image: url("../images/projects/19.arming-shake.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 311px;
+}
 .main-content #background-projects #project-41 #project-41-view a#image{
 	background-image: url("../images/projects/7.HyroAndroidTrainingSchool2.png");
 	background-size: 484px auto;
 	display: block;
 	width: 484px;
 	height: 678px;
+}
+.main-content #background-projects #project-42 #project-42-view p#image1 a#image{
+	background-image: url("../images/projects/18.Billboard1.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 270px;
+}
+.main-content #background-projects #project-42 #project-42-view p#image2 a#image{
+	background-image: url("../images/projects/18.Billboard2.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 266px;
 }
 .main-content #background-projects #project-101 #project-101-view p#image1 a#image{
 	background-image: url("../images/projects/17.Click2Feed-1.png");
@@ -497,6 +539,13 @@ body{
 	display: block;
 	width: 484px;
 	height: 476px;
+}
+.main-content #background-projects #project-102 #project-102-view a#image{
+	background-image: url("../images/projects/20.Arming-Metro-style.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 282px;
 }
 .main-content #background-projects #project-100 #project-100-view a#image{
 	background-image: url("../images/projects/8.HelpDeskApp.png");
@@ -582,6 +631,15 @@ body{
 	width: 484px;
 	height: 806px;
 }
+/* photo border in Project */
+.main-content #background-projects a#image,
+.main-content #background-education a#image,
+.main-content #background-honors a#image,
+.main-content #background-certifications a#image,
+#body_page .container #content .span12.main-content #home .span8 img{
+	border: 10px solid #fff;
+	border-radius: 15px;
+}
 
 /* position for the menu */
 .container #menu{
@@ -612,6 +670,15 @@ body{
 	.container #content{
 		margin-left: 34.914893617021278%;
 	}
+	/* photo border in Project */
+	.main-content #background-projects a#image,
+	.main-content #background-education a#image,
+	.main-content #background-honors a#image,
+	.main-content #background-certifications a#image,
+	#body_page .container #content .span12.main-content #home .span8 img{
+		border: 10px solid #fff;
+		border-radius: 15px;
+	}
 }
 /* Portrait tablet to landscape and desktop */
 @media (min-width: 768px) and (max-width: 979px){
@@ -621,6 +688,16 @@ body{
 	.container #menu #menu-navbar-open,
 	.container #menu #menu-navbar-close{
 		display: none;
+	}
+	
+	/* photo border in Project */
+	.main-content #background-projects a#image,
+	.main-content #background-education a#image,
+	.main-content #background-honors a#image,
+	.main-content #background-certifications a#image,
+	#body_page .container #content .span12.main-content #home .span8 img{
+		border: 10px solid #fff;
+		border-radius: 15px;
 	}
 }
 
@@ -676,6 +753,15 @@ body{
 	.main-content .hit-counter{
 		display: block;
 	}
+	
+	/* photo border in Project */
+	.main-content #background-projects a#image,
+	.main-content #background-education a#image,
+	.main-content #background-honors a#image,
+	.main-content #background-certifications a#image,
+	#body_page .container #content .span12.main-content #home .span8 img{
+		border: 0;
+	}
 }
 /* Landscape phones and down */
 @media (max-width: 480px) {
@@ -714,6 +800,15 @@ body{
 	}
 	#menu .hit-counter{
 		display: none;
+	}
+	
+	/* photo border in Project */
+	.main-content #background-projects a#image,
+	.main-content #background-education a#image,
+	.main-content #background-honors a#image,
+	.main-content #background-certifications a#image,
+	#body_page .container #content .span12.main-content #home .span8 img{
+		border: 0;
 	}
 }
 .show-inline{
