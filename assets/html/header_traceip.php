@@ -3,7 +3,7 @@ require_once("./libs/htmldom/simple_html_dom.php");
 $ip = $_SERVER['REMOTE_ADDR'];
 $html = file_get_contents("http://www.ip-tracker.org/locator/ip-lookup.php?ip=$ip");
 $DOM = new DOMDocument;
-$DOM->loadHTML($html);
+@$DOM->loadHTML($html);
 //get all td
 $items = $DOM->getElementsByTagName('td');
 $Hostname = $items->item(7)->nodeValue;
