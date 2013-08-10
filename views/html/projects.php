@@ -13,6 +13,22 @@
 		<div id="project-blank-form" class="profile-blank-form">
 			<!--  -->
 		</div><div id="project-blank" class="profile-blank"></div>
+		<div id="project-103" class="editable-item section-item tall50">
+			<div id="project-103-view">
+				<hgroup>
+					<h4 class="summary fn org"><a href="http://panitw.cloudapp.net/EISClient2" target="_blank">Executive Information System</a></h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2013-03-01">
+						July 2013
+					</time></span>
+				<p class="description" id="yui-gen16">
+					This is a project when I was the Frontend Developer. The Comptroller General’s Department would like to audit the statistics. My responsibility is to change the iPhone Size to iPad size.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/23.EIS-iPad.jpg" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
 		<div id="project-101" class="editable-item section-item tall50">
 			<div id="project-101-view">
 				<hgroup>

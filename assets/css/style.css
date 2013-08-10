@@ -512,6 +512,13 @@ body{
 	width: 484px;
 	height: 266px;
 }
+.main-content #background-projects #project-103 #project-103-view a#image{
+	background-image: url("../images/projects/23.EIS-iPad.jpg");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 363px;
+}
 .main-content #background-projects #project-101 #project-101-view p#image1 a#image{
 	background-image: url("../images/projects/17.Click2Feed-1.png");
 	background-size: 484px auto;
