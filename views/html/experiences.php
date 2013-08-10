@@ -3,7 +3,37 @@
 </div>
 <div id="background-experience" class="background-experience edit-default tall50">
 	<div id="experience-391737344" class="editable-item section-item">
-		<div id="experience-345146232" class="editable-item section-item">
+		<div id="experience-345146233" class="editable-item section-item">
+			<div id="experience-345146233-view">
+				<hgroup>
+					<h4>
+						Software Development - Freelancer
+					</h4>
+					<p class="tall30">
+						<a id="image" href="http://www.candelazdzign.com" target="_blank" alt="candelazdzign"></a>
+					</p>
+					<h5 class="tall30">
+						<a href="http://www.candelazdzign.com" target="_blank">@ candelazdzign</a>
+					</h5>
+				</hgroup>
+				<span class="experience-date-locale">
+					<time datetime="2012-12-01">
+						August 2013
+					</time>
+					<time datetime="2013-04-01">
+						– now
+					</time>
+					<br />
+				</span>
+				<p class="description">
+					Software Developer on
+					<br />
+					Web Design Service , Graphic Design , Production House , Photography , Creative Idea , Mobile App.
+					<br />
+				</p>
+			</div>
+		</div>
+		<div id="experience-345146232" class="editable-item section-item tall50">
 			<div id="experience-345146232-view">
 				<hgroup>
 					<h4>
@@ -37,7 +67,8 @@
 					We create <u>AR Application</u>.
 					<br />
 					We are Software Development, and Software Design Service Providers.
-
+					<br /><br />
+					<span style="color: rgb(255, 245, 0);"><strong>Portfolio Profile:</strong></span> <a href="http://works.buildthedot.com" target="_blank">http://works.buildthedot.com</a>
 				</p>
 			</div>
 		</div>

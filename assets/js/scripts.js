@@ -1,6 +1,7 @@
 $("#body_page .container #menu #home").click(function() {
 	$(".main-content #home").css("display", "block");
 	$(".main-content #educations").css("display", "none");
+	$(".main-content #experiences").css("display", "none");
 	$(".main-content #projects").css("display", "none");
 	$(".main-content #awards").css("display", "none");
 	$(".main-content #sn").css("display", "none");

@@ -162,6 +162,16 @@ body{
 .container #menu #menu-navbar-close{
 	display: none;
 }
+.main-content #background-experience #experience-345146233 #experience-345146233-view hgroup a#image{
+	
+	/*background-color: #e3e3e3;*/
+	background-color: #ffffff; 
+	background-image: url("../images/experiences/candelaz-logo11.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 194px;
+}
 .main-content #background-experience #experience-345146232 #experience-345146232-view hgroup a#image{
 	background-image: url("../images/experiences/Buildthedot.png");
 	background-size: auto auto;
