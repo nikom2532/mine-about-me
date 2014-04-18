@@ -5,7 +5,7 @@
 	<div id="certifications-200310" class="tall50">
 		<div id="view">
 			<h4 class="">
-				<a href="http://www.phatthana-it.com/" target="_blank">Technic School 2003 Certification</a>
+				<a href="http://www.phatthana-it.com/" target="_blank">Technician Computer School 2003 Certification</a>
 			</h4>
 			<p>
 				<a id="image" href="./assets/images/certifications/1.PattanaTechnicSchool.jpg" target="_blank" alt=""></a>

@@ -133,14 +133,23 @@
 	<div id="education-141156067" class="editable-item section-item tall50">
 		<div id="education-141156067-view">
 			<div class="education ">
-				<h5><span class="degree">System Engineering, </span><span class="major">PC Hardware &amp; Software repairing and Complementary, </span><span>-</span></h5><span class="education-date">
-				<h4 class="summary fn org">Patana Technic School @Central City Bangna (Thailand)</h4>
+				<h5>
+					<span class="degree">System Engineering, </span>
+					<span class="major">PC Hardware &amp; Software repairing and Complementary, </span>
+					<span>-</span>
+				</h5>
+				<p class="tall30">
+					<a id="image" href="http://www.phatthana-it.com" target="_blank" alt="La Salle School Bangkok"></a>
+				</p>
+				<span class="education-date">
+					<h4 class="summary fn org"><a href="http://www.phatthana-it.com" target="_blank">Technician Computer School (โรงเรียนช่างเทคนิคคอมพิวเตอร์) At Central City Bangna (Thailand)</a></h4>
 					<time datetime="2001">
 						2001
 					</time>
 					<time datetime="2002">
 						– 2002
-					</time></span>
+					</time>
+				</span>
 				<p class="notes">
 					To repairing and complementary the Personal Computer..
 				</p>

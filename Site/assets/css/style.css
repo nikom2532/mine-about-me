@@ -249,6 +249,13 @@ body{
 	width: 301px;
 	height: 300px;
 }
+.main-content #background-education #education-141156067 #education-141156067-view a#image{
+	background-image: url("../images/educations/02.Phatthana_IT.gif");
+	background-size: auto auto;
+	display: block;
+	width: 200px;
+	height: 199px;
+}
 .main-content #background-certifications #certifications-200310 #view #image{
 	background-image: url("../images/certifications/1.PattanaTechnicSchool.jpg");
 	background-size: 484px auto;

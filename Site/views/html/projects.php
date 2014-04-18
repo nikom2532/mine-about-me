@@ -288,7 +288,7 @@ match with any - Exhibition/gallery - Events - Marketing tools - retail store, r
 						– April 2013
 					</time></span>
 				<p class="description" id="yui-gen17">
-					Project when I was a backend developer part of  <a href="http://www.socket9.com" target="_blank">SOCKET 9</a>. It is a website that government campaigned to encourage peple to use bike in last mile of transportation in Bangkok, Thailand.
+					Project when I was a backend developer part of  <a href="http://www.socket9.com" target="_blank">SOCKET 9</a>. It is a website that government campaigned to encourage people to use bike in last mile of transportation in Bangkok, Thailand.
 				</p>
 				<p>	
 					<a id="image" href="./assets/images/projects/13.punpunbikeshare.png" target="_blank" alt=""></a>
