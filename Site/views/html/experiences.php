@@ -3,7 +3,7 @@
 </div>
 <div id="background-experience" class="background-experience edit-default tall50">
 	<div id="experience-391737344" class="editable-item section-item">
-		<div id="experience-345146233" class="editable-item section-item">
+		<?php /* ?> <div id="experience-345146233" class="editable-item section-item">
 			<div id="experience-345146233-view">
 				<hgroup>
 					<h4>
@@ -32,7 +32,7 @@
 					<br />
 				</p>
 			</div>
-		</div>
+		</div> <?php */ ?>
 		<div id="experience-345146232" class="editable-item section-item tall50">
 			<div id="experience-345146232-view">
 				<hgroup>
