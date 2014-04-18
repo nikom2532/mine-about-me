@@ -179,7 +179,7 @@
 		<div id="project-100" class="editable-item section-item tall50">
 			<div id="project-100-view">
 				<hgroup>
-					<h4 class="summary fn org">Computer Repairing HelpDesk</h4>
+					<h4 class="summary fn org"><a href="http://www.buildthedot.com/PROJECT_HELPDESK/helpDeskFinal" target="_blank">Computer Repairing HelpDesk</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2013-03-01">
 						March 2013
@@ -358,7 +358,7 @@ match with any - Exhibition/gallery - Events - Marketing tools - retail store, r
 		<div id="project-40" class="editable-item section-item tall50">
 			<div id="project-40-view">
 				<hgroup>
-					<h4 class="summary fn org"><a href="http://amaze.pspsolutions.info/" target="_blank">Arming Shake</a></h4>
+					<h4 class="summary fn org"><a href="http://i-ming.com/nikom2532/aboutme_ver1" target="_blank">Arming Shake</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2012-05-01">
 						June 2012
