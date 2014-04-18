@@ -14,23 +14,17 @@
 			<!--  -->
 		</div><div id="project-blank" class="profile-blank"></div>
 		
-		
-		
-		
-		
-		
-		
 
 		<div id="project-109" class="editable-item section-item tall50">
 			<div id="project-109-view">
 				<hgroup>
-					<h4 class="summary fn org"><a href="http://panitw.cloudapp.net/EISClient2" target="_blank">Executive Information System</a></h4>
+					<h4 class="summary fn org"><a href="http://online.goodjobstore.com" target="_blank">GOODJOB STORE</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2013-03-01">
-						July 2013
+						April 2013 - Present
 					</time></span>
 				<p class="description" id="yui-gen16">
-					This is a project when I was the Frontend Developer. The Comptroller General’s Department would like to audit the statistics. My responsibility is to change the iPhone Size to iPad size.
+					This is a project when I was the Software Developer at Buildthedot. Just customize some feature from the Web Application for the Front-End and Back-End site.
 				</p>
 				<p>	
 					<a id="image" href="./assets/images/projects/29.GOODJOB_STORE.png" target="_blank" alt=""></a>
@@ -40,13 +34,13 @@
 		<div id="project-108" class="editable-item section-item tall50">
 			<div id="project-108-view">
 				<hgroup>
-					<h4 class="summary fn org"><a href="http://panitw.cloudapp.net/EISClient2" target="_blank">Executive Information System</a></h4>
+					<h4 class="summary fn org"><a href="http://panitw.cloudapp.net/EISClient2" target="_blank">RD Smart Tax 2014 (Alpha Phase)</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2013-03-01">
-						July 2013
+						November 2013 - February 2014
 					</time></span>
 				<p class="description" id="yui-gen16">
-					This is a project when I was the Frontend Developer. The Comptroller General’s Department would like to audit the statistics. My responsibility is to change the iPhone Size to iPad size.
+					This is a project when I was the Android Software Developer, Software Analysis, and BI at Buildthedot. This Project is own by <a href="http://www.promptnow.com" target="_blank">PromptNow Co.,Ltd.</a> that outsource to Buildthedot. And the Customer is <a href="http://www.rd.go.th" target="_blank">"The Revenue Department, Kingdom of Thailand"</a> This project is a Mobile Application (iOS and Android Platform) for the Front-End, and Susanoo for the Back-End.
 				</p>
 				<p>	
 					<a id="image" href="./assets/images/projects/28.RDSmartTax.png" target="_blank" alt=""></a>
@@ -56,13 +50,13 @@
 		<div id="project-107" class="editable-item section-item tall50">
 			<div id="project-107-view">
 				<hgroup>
-					<h4 class="summary fn org"><a href="http://panitw.cloudapp.net/EISClient2" target="_blank">Executive Information System</a></h4>
+					<h4 class="summary fn org"><a href="http://www.thaijobhd.com" target="_blank">ThaiJobHD</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2013-03-01">
-						July 2013
+						October 2013 - March 2014
 					</time></span>
 				<p class="description" id="yui-gen16">
-					This is a project when I was the Frontend Developer. The Comptroller General’s Department would like to audit the statistics. My responsibility is to change the iPhone Size to iPad size.
+					This is a project when I was the Software Developer at Buildthedot. Just Make the Web Application for the Front-End and Back-End.
 				</p>
 				<p>	
 					<a id="image" href="./assets/images/projects/27.ThaiJobHD.png" target="_blank" alt=""></a>
@@ -72,13 +66,13 @@
 		<div id="project-106" class="editable-item section-item tall50">
 			<div id="project-106-view">
 				<hgroup>
-					<h4 class="summary fn org"><a href="http://panitw.cloudapp.net/EISClient2" target="_blank">Executive Information System</a></h4>
+					<h4 class="summary fn org"><a href="http://www.mckansys.com" target="_blank">Mckansys Site</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2013-03-01">
-						July 2013
+						January 2013
 					</time></span>
 				<p class="description" id="yui-gen16">
-					This is a project when I was the Frontend Developer. The Comptroller General’s Department would like to audit the statistics. My responsibility is to change the iPhone Size to iPad size.
+					This is a project when I was the Software Developer at Buildthedot. Customize the Wordpress Theme Site.
 				</p>
 				<p>	
 					<a id="image" href="./assets/images/projects/26.MckansysSite.png" target="_blank" alt=""></a>
@@ -88,13 +82,13 @@
 		<div id="project-105" class="editable-item section-item tall50">
 			<div id="project-105-view">
 				<hgroup>
-					<h4 class="summary fn org"><a href="http://panitw.cloudapp.net/EISClient2" target="_blank">Executive Information System</a></h4>
+					<h4 class="summary fn org"><a href="http://portal.mckansys.com/" target="_blank">Mckansys Portal</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2013-03-01">
-						July 2013
+						September 2013 - Present
 					</time></span>
 				<p class="description" id="yui-gen16">
-					This is a project when I was the Frontend Developer. The Comptroller General’s Department would like to audit the statistics. My responsibility is to change the iPhone Size to iPad size.
+					This is a project when I was the Software Developer at Buildthedot. Just Make the Web Application for the Front-End and Back-End.
 				</p>
 				<p>	
 					<a id="image" href="./assets/images/projects/25.MckansysPortral.png" target="_blank" alt=""></a>
@@ -104,13 +98,13 @@
 		<div id="project-104" class="editable-item section-item tall50">
 			<div id="project-104-view">
 				<hgroup>
-					<h4 class="summary fn org"><a href="http://panitw.cloudapp.net/EISClient2" target="_blank">Executive Information System</a></h4>
+					<h4 class="summary fn org"><a href="http://http://nobpcorp.buildthedot.com/" target="_blank">NOBP CORP</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2013-03-01">
-						July 2013
+						August 2013 - January 2014
 					</time></span>
 				<p class="description" id="yui-gen16">
-					This is a project when I was the Frontend Developer. The Comptroller General’s Department would like to audit the statistics. My responsibility is to change the iPhone Size to iPad size.
+					This is a project when I was the Software Developer at Buildthedot. Just Make the Web Application for the Front-End and Back-End.
 				</p>
 				<p>	
 					<a id="image" href="./assets/images/projects/24.NOBPCORP.png" target="_blank" alt=""></a>
@@ -134,7 +128,7 @@
 						July 2013
 					</time></span>
 				<p class="description" id="yui-gen16">
-					This is a project when I was the Frontend Developer. The Comptroller General’s Department would like to audit the statistics. My responsibility is to change the iPhone Size to iPad size.
+					This is a project when I was the Frontend Developer at Buildthedot. The Comptroller General’s Department would like to audit the statistics. My responsibility is to change the iPhone Size to iPad size.
 				</p>
 				<p>	
 					<a id="image" href="./assets/images/projects/23.EIS-iPad.jpg" target="_blank" alt=""></a>
