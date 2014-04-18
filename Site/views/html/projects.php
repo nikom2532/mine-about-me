@@ -13,6 +13,118 @@
 		<div id="project-blank-form" class="profile-blank-form">
 			<!--  -->
 		</div><div id="project-blank" class="profile-blank"></div>
+		
+		
+		
+		
+		
+		
+		
+
+		<div id="project-109" class="editable-item section-item tall50">
+			<div id="project-109-view">
+				<hgroup>
+					<h4 class="summary fn org"><a href="http://panitw.cloudapp.net/EISClient2" target="_blank">Executive Information System</a></h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2013-03-01">
+						July 2013
+					</time></span>
+				<p class="description" id="yui-gen16">
+					This is a project when I was the Frontend Developer. The Comptroller General’s Department would like to audit the statistics. My responsibility is to change the iPhone Size to iPad size.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/29.GOODJOB_STORE.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-108" class="editable-item section-item tall50">
+			<div id="project-108-view">
+				<hgroup>
+					<h4 class="summary fn org"><a href="http://panitw.cloudapp.net/EISClient2" target="_blank">Executive Information System</a></h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2013-03-01">
+						July 2013
+					</time></span>
+				<p class="description" id="yui-gen16">
+					This is a project when I was the Frontend Developer. The Comptroller General’s Department would like to audit the statistics. My responsibility is to change the iPhone Size to iPad size.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/28.RDSmartTax.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-107" class="editable-item section-item tall50">
+			<div id="project-107-view">
+				<hgroup>
+					<h4 class="summary fn org"><a href="http://panitw.cloudapp.net/EISClient2" target="_blank">Executive Information System</a></h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2013-03-01">
+						July 2013
+					</time></span>
+				<p class="description" id="yui-gen16">
+					This is a project when I was the Frontend Developer. The Comptroller General’s Department would like to audit the statistics. My responsibility is to change the iPhone Size to iPad size.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/27.ThaiJobHD.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-106" class="editable-item section-item tall50">
+			<div id="project-106-view">
+				<hgroup>
+					<h4 class="summary fn org"><a href="http://panitw.cloudapp.net/EISClient2" target="_blank">Executive Information System</a></h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2013-03-01">
+						July 2013
+					</time></span>
+				<p class="description" id="yui-gen16">
+					This is a project when I was the Frontend Developer. The Comptroller General’s Department would like to audit the statistics. My responsibility is to change the iPhone Size to iPad size.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/26.MckansysSite.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-105" class="editable-item section-item tall50">
+			<div id="project-105-view">
+				<hgroup>
+					<h4 class="summary fn org"><a href="http://panitw.cloudapp.net/EISClient2" target="_blank">Executive Information System</a></h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2013-03-01">
+						July 2013
+					</time></span>
+				<p class="description" id="yui-gen16">
+					This is a project when I was the Frontend Developer. The Comptroller General’s Department would like to audit the statistics. My responsibility is to change the iPhone Size to iPad size.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/25.MckansysPortral.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-104" class="editable-item section-item tall50">
+			<div id="project-104-view">
+				<hgroup>
+					<h4 class="summary fn org"><a href="http://panitw.cloudapp.net/EISClient2" target="_blank">Executive Information System</a></h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2013-03-01">
+						July 2013
+					</time></span>
+				<p class="description" id="yui-gen16">
+					This is a project when I was the Frontend Developer. The Comptroller General’s Department would like to audit the statistics. My responsibility is to change the iPhone Size to iPad size.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/24.NOBPCORP.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
+		
+		
+		
+		
+		
+		
+		
+		
 		<div id="project-103" class="editable-item section-item tall50">
 			<div id="project-103-view">
 				<hgroup>

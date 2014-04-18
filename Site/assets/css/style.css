@@ -522,6 +522,58 @@ body{
 	width: 484px;
 	height: 266px;
 }
+
+
+
+.main-content #background-projects #project-109 #project-109-view a#image{
+	background-image: url("../images/projects/29.GOODJOB_STORE.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 303px;
+}
+.main-content #background-projects #project-108 #project-108-view a#image{
+	background-image: url("../images/projects/28.RDSmartTax.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 400px;
+}
+.main-content #background-projects #project-107 #project-107-view a#image{
+	background-image: url("../images/projects/27.ThaiJobHD.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 303px;
+}
+.main-content #background-projects #project-106 #project-106-view a#image{
+	background-image: url("../images/projects/26.MckansysSite.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 276px;
+}
+.main-content #background-projects #project-105 #project-105-view a#image{
+	background-image: url("../images/projects/25.MckansysPortral.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 276px;
+}
+.main-content #background-projects #project-104 #project-104-view a#image{
+	background-image: url("../images/projects/24.NOBPCORP.png");
+	background-size: 484px auto;
+	display: block;
+	width: 484px;
+	height: 318px;
+}
+
+
+
+
+
+
+
 .main-content #background-projects #project-103 #project-103-view a#image{
 	background-image: url("../images/projects/23.EIS-iPad.jpg");
 	background-size: 484px auto;
