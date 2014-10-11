@@ -14,14 +14,29 @@
 			<!--  -->
 		</div><div id="project-blank" class="profile-blank"></div>
 		
-
+		<div id="project-110" class="editable-item section-item tall50">
+			<div id="project-110-view">
+				<hgroup>
+					<h4 class="summary fn org"><a href="http://prdsharing.aitproject.com" target="_blank">NNT PRD Sharing</a></h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2013-03-01">
+						May 2014 - July 2014
+					</time></span>
+				<p class="description" id="yui-gen16">
+					This is a project when I was the Software Developer at Advance Innovation Technology Co., Ltd. (AIT Innovation). Just create the Application for The Government Public Relations Department for the Front-End and Back-End site.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/30.nnt_prdsharing.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
 		<div id="project-109" class="editable-item section-item tall50">
 			<div id="project-109-view">
 				<hgroup>
 					<h4 class="summary fn org"><a href="http://online.goodjobstore.com" target="_blank">GOODJOB STORE</a></h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2013-03-01">
-						April 2013 - Present
+						April 2014 - Present
 					</time></span>
 				<p class="description" id="yui-gen16">
 					This is a project when I was the Software Developer at Buildthedot. Just customize some feature from the Web Application for the Front-End and Back-End site.

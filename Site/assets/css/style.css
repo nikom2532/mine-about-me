@@ -568,10 +568,16 @@ body{
 
 
 
-
+.main-content #background-projects #project-110 #project-110-view a#image{
+	background-image: url("../images/projects/30.nnt_prdsharing.png");
+	background-size: 483px auto;
+	display: block;
+	width: 484px;
+	height: 303px;
+}
 .main-content #background-projects #project-109 #project-109-view a#image{
 	background-image: url("../images/projects/29.GOODJOB_STORE.png");
-	background-size: 484px auto;
+	background-size: 483px auto;
 	display: block;
 	width: 484px;
 	height: 303px;
