@@ -33,8 +33,35 @@
 				</p>
 			</div>
 		</div> <?php */ ?>
-		<div id="experience-345146234" class="editable-item section-item tall50">
-			<div id="experience-345146234-view">
+		<div id="experience-345146236" class="editable-item section-item tall50">
+			<div id="experience-345146236-view">
+				<hgroup>
+					<h4>
+						Outsource (Software Engineer)
+					</h4>
+					<p class="tall30">
+						<a id="image" href="http://www.thaiacegroup.com/" target="_blank" alt="TAC Info Co., Ltd. (Thai Ace Group)"></a>
+					</p>
+					<h5 class="tall30">
+						<a href="http://www.thaiacegroup.com/" target="_blank">@ TAC Info Co., Ltd. (Thai Ace Group)</a>
+					</h5>
+				</hgroup>
+				<span class="experience-date-locale">
+					<time datetime="2012-12-01">
+						August 2014
+					</time>
+					<time datetime="2013-04-01">
+						– December 2014
+					</time>
+					<br />
+				</span>
+				<p class="description">
+					Skill: Apache, PHP, Server Web Service (JSON), PostgreSQL, CSS, HTML, JavaScript, jQuery, AJAX, Xubuntu, Redmine, Git Source Control.
+				</p>
+			</div>
+		</div>
+		<div id="experience-345146235" class="editable-item section-item tall50">
+			<div id="experience-345146235-view">
 				<hgroup>
 					<h4>
 						Outsource (Software Engineer)
@@ -60,6 +87,33 @@
 				</p>
 			</div>
 		</div>
+		<div id="experience-345146234" class="editable-item section-item tall50">
+			<div id="experience-345146234-view">
+				<hgroup>
+					<h4>
+						Software Engineer
+					</h4>
+					<p class="tall30">
+						<a id="image" href="http://rznet.com/" target="_blank" alt="Ring Zero Network (Thailand) Co., Ltd."></a>
+					</p>
+					<h5 class="tall30">
+						<a href="http://rznet.com/" target="_blank">@ Ring Zero Network (Thailand) Co., Ltd.</a>
+					</h5>
+				</hgroup>
+				<span class="experience-date-locale">
+					<time datetime="2012-12-01">
+						May 2014
+					</time>
+					<time datetime="2013-04-01">
+						– Present
+					</time>
+					<br />
+				</span>
+				<p class="description">
+					Skill: PHP, Server Web Service (JSON), MySQL, Microsoft SQL Server 2008 R2, CSS, HTML, JavaScript, LINUX Configurations, Windows Configuration, Codeigniter.
+				</p>
+			</div>
+		</div>
 		<div id="experience-345146232" class="editable-item section-item tall50">
 			<div id="experience-345146232-view">
 				<hgroup>
@@ -78,7 +132,7 @@
 						June 2013
 					</time>
 					<time datetime="2013-04-01">
-						– now
+						– Present
 					</time>
 					<br />
 				</span>
