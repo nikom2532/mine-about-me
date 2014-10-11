@@ -162,6 +162,18 @@ body{
 .container #menu #menu-navbar-close{
 	display: none;
 }
+.main-content #background-experience #experience-345146234 #experience-345146234-view hgroup a#image{
+	
+	/*background-color: #e3e3e3;*/
+	background-color: #ffffff; 
+	background-image: url("../images/experiences/ait-innovation.jpg");
+	background-size: 300px auto;
+	display: block;
+	width: 300px;
+	height: 145px;
+}
+
+
 .main-content #background-experience #experience-345146233 #experience-345146233-view hgroup a#image{
 	
 	/*background-color: #e3e3e3;*/
