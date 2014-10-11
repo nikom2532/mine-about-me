@@ -10,10 +10,10 @@
 	Hi, My name is
 </div>
 <div class="myname">
-	Nikom Suwankamol (Arm&#237;ng H&#250;ang)
+	Nikom Suwankamol <br/>(Arm&#237;ng H&#250;ang)
 </div>
 <div>
-	We are Web Application, and Mobile Platforms Developments.
+	We develop and design the Web Application, and the Mobile Application Service Provider.
 </div>
 <div style="margin-top: 30px;"></div>
 <div>
