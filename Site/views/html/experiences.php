@@ -33,6 +33,33 @@
 				</p>
 			</div>
 		</div> <?php */ ?>
+		<div id="experience-345146233" class="editable-item section-item tall50">
+			<div id="experience-345146232-view">
+				<hgroup>
+					<h4>
+						Outsource (Software Engineer)
+					</h4>
+					<p class="tall30">
+						<a id="image" href="http://www.aitinnovation.co.th/" target="_blank" alt="Advance Innovation Technology Co., Ltd. (AIT Innovation)"></a>
+					</p>
+					<h5 class="tall30">
+						<a href="http://www.aitinnovation.co.th/" target="_blank">@ Advance Innovation Technology Co., Ltd. (AIT Innovation)</a>
+					</h5>
+				</hgroup>
+				<span class="experience-date-locale">
+					<time datetime="2012-12-01">
+						May 2014
+					</time>
+					<time datetime="2013-04-01">
+						– July 2014
+					</time>
+					<br />
+				</span>
+				<p class="description">
+					Skill: PHP, Server Web Service (JSON), Microsoft SQL Server 2008 R2, CSS, HTML, JavaScript, Windows Configuration, Codeigniter.
+				</p>
+			</div>
+		</div>
 		<div id="experience-345146232" class="editable-item section-item tall50">
 			<div id="experience-345146232-view">
 				<hgroup>
