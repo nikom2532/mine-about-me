@@ -567,6 +567,13 @@ body{
 }
 
 
+.main-content #background-projects #project-111 #project-111-view a#image{
+	background-image: url("../images/projects/31.taautosales.png");
+	background-size: 483px auto;
+	display: block;
+	width: 484px;
+	height: 162px;
+}
 
 .main-content #background-projects #project-110 #project-110-view a#image{
 	background-image: url("../images/projects/30.nnt_prdsharing.png");

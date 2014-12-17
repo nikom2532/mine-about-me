@@ -1,5 +1,5 @@
 <div class="myname">
-	Projects
+	Projectsdddd
 </div>
 <div id="background-projects-container" class="background-section" data-li-template="projects_section">
 	<div id="background-projects" class="background-projects tall50">
@@ -13,6 +13,23 @@
 		<div id="project-blank-form" class="profile-blank-form">
 			<!--  -->
 		</div><div id="project-blank" class="profile-blank"></div>
+		
+		<div id="project-111" class="editable-item section-item tall50">
+			<div id="project-111-view">
+				<hgroup>
+					<h4 class="summary fn org"><a href="http://prdsharing.aitproject.com" target="_blank">TA Autosales</a></h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2013-03-01">
+						August 2014 - December 2014
+					</time></span>
+				<p class="description" id="yui-gen16">
+					This is a project when I was the Software Developer at TAC INFO Co., Ltd. (AIT Innovation). created the Application for The TA Autosales BackOffice for the Front-End and Back-End site.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/31.taautosales.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
 		
 		<div id="project-110" class="editable-item section-item tall50">
 			<div id="project-110-view">
