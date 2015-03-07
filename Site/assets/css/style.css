@@ -168,6 +168,16 @@ body{
     padding-bottom: 30px;
 }
 
+.main-content #background-experience #experience-345146237 #experience-345146237-view hgroup a#image{
+	
+	/*background-color: #e3e3e3;*/
+	background-color: #ffffff; 
+	background-image: url("../images/experiences/ais.jpg");
+	background-size: 215px auto;
+	display: block;
+	width: 214px;
+	height: 135px;
+}
 .main-content #background-experience #experience-345146236 #experience-345146236-view hgroup a#image{
 	
 	/*background-color: #e3e3e3;*/

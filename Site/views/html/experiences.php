@@ -33,6 +33,37 @@
 				</p>
 			</div>
 		</div> <?php */ ?>
+		<div id="experience-345146237" class="editable-item section-item tall50">
+			<div id="experience-345146237-view">
+				<hgroup>
+					<h4>
+						Outsource (Programmer Analyst (TeleComunication))
+					</h4>
+					<p class="tall30">
+						<a id="image" href="http://www.ais.co.th/" target="_blank" alt="AIS Co., Ltd."></a>
+					</p>
+					<h5 class="tall30">
+						<a href="http://www.mimotech.co.th/" target="_blank">@ MIMO Tech Co., Ltd. [Advance Info Service (AIS) Co., Ltd.] </a><br />
+					</h5>
+					<h5 class="tall30">
+						Agency Outsourcing: <br />
+						<a href="http://www.apartechnologies.com/" target="_blank">Apar Technologies (Thailand) Ltd.</a>
+					</h5>
+				</hgroup>
+				<span class="experience-date-locale">
+					<time datetime="2015-01-20">
+						January, 2015
+					</time>
+					<time datetime="2015-04-19">
+						- April, 2015
+					</time>
+					<br />
+				</span>
+				<p class="description">
+					Skill: NetExpert [Objective Systems Integrators (OSI)], Shell Script, Perl, Oracle, Object-oriented programming, Solaris OS, UNIX
+				</p>
+			</div>
+		</div>
 		<div id="experience-345146236" class="editable-item section-item tall50">
 			<div id="experience-345146236-view">
 				<hgroup>
