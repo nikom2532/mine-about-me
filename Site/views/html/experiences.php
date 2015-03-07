@@ -60,7 +60,7 @@
 					<br />
 				</span>
 				<p class="description">
-					Skill: NetExpert [Objective Systems Integrators (OSI)], Shell Script, Perl, Oracle, Object-oriented programming, Solaris OS, UNIX
+					Skill: NetExpert [Objective Systems Integrators (OSI)], Compile MIB, Shell Script Language, Expect(Tool Command Scripting Language), Perl, Oracle, Object-oriented programming, Solaris OS, UNIX, JAVA, System Analyst, Software Architecture
 				</p>
 			</div>
 		</div>
@@ -87,7 +87,7 @@
 					<br />
 				</span>
 				<p class="description">
-					Skill: Apache, PHP, Server Web Service (JSON), PostgreSQL, CSS, HTML, JavaScript, jQuery, AJAX, Xubuntu, Redmine, Git Source Control.
+					Skill: System Analyst, Software Architecture, Apache, PHP, Server Web Service (JSON), PostgreSQL, CSS, HTML, JavaScript, jQuery, AJAX, Xubuntu, Redmine, Git Source Control.
 				</p>
 			</div>
 		</div>
@@ -114,7 +114,7 @@
 					<br />
 				</span>
 				<p class="description">
-					Skill: PHP, Server Web Service (JSON), Microsoft SQL Server 2008 R2, CSS, HTML, JavaScript, Windows Configuration, Codeigniter.
+					Skill: System Analyst, Software Architecture, PHP, Server Web Service (JSON), Microsoft SQL Server 2008 R2, CSS, HTML, JavaScript, Windows Configuration, Codeigniter.
 				</p>
 			</div>
 		</div>
@@ -141,7 +141,7 @@
 					<br />
 				</span>
 				<p class="description">
-					Skill: PHP, Server Web Service (JSON), MySQL, Microsoft SQL Server 2008 R2, CSS, HTML, JavaScript, LINUX Configurations, Windows Configuration, Codeigniter.
+					Skill: System Analyst, Software Architecture, PHP, Server Web Service (JSON), MySQL, Microsoft SQL Server 2008 R2, CSS, HTML, JavaScript, LINUX Configurations, Windows Configuration, Codeigniter.
 				</p>
 			</div>
 		</div>
@@ -209,7 +209,7 @@
 				<p class="description">
 					Software Developer on
 					<br>
-					Android (a little skill), Android Unit Testing (a little skill), MVC (a little skill), MODX Revolution (a little skill), PHP, HTML, CSS(Desktop, tablet, Mobile view), CSS3, JavaScript, jQuery, json, Joomla, Wordpress, OpenCart, IIS 7.0 Config., MS. Windows Server Config., SVN, VPN
+					System Analyst, Software Architecture, Android (a little skill), Android Unit Testing (a little skill), MVC (a little skill), MODX Revolution (a little skill), PHP, HTML, CSS(Desktop, tablet, Mobile view), CSS3, JavaScript, jQuery, json, Joomla, Wordpress, OpenCart, IIS 7.0 Config., MS. Windows Server Config., SVN, VPN
 				</p>
 			</div>
 		</div>

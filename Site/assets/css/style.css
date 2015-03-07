@@ -576,6 +576,13 @@ body{
 	height: 266px;
 }
 
+.main-content #background-projects #project-112 #project-112-view a#image{
+	background-image: url("../images/projects/32.ais_cfms1.png");
+	background-size: 483px auto;
+	display: block;
+	width: 484px;
+	height: 259px;
+}
 
 .main-content #background-projects #project-111 #project-111-view a#image{
 	background-image: url("../images/projects/31.taautosales.png");

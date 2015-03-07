@@ -14,6 +14,23 @@
 			<!--  -->
 		</div><div id="project-blank" class="profile-blank"></div>
 		
+		<div id="project-112" class="editable-item section-item tall50">
+			<div id="project-112-view">
+				<hgroup>
+					<h4 class="summary fn org">Centralize False Management System</h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2015-01-20">
+						January 2015 - April 2015
+					</time></span>
+				<p class="description" id="yui-gen16">
+					This was a project when I was the Programmer Analyst (TeleComunication) at MIMO Tech Co., Ltd. [Advance Info Service (AIS)] Developed the Signal Alarm Application by using NetExpert (OSI) Software Application for using in the Telecommunication Companies.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/32.ais_cfms1.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
+		
 		<div id="project-111" class="editable-item section-item tall50">
 			<div id="project-111-view">
 				<hgroup>
