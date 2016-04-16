@@ -168,6 +168,15 @@ body{
     padding-bottom: 30px;
 }
 
+.main-content #background-experience #experience-345146238 #experience-345146238-view hgroup a#image{
+	
+	background-color: #ffffff; 
+	background-image: url("../images/experiences/canon.jpg");
+	background-size: 215px auto;
+	display: block;
+	width: 214px;
+	height: 88px;
+}
 .main-content #background-experience #experience-345146237 #experience-345146237-view hgroup a#image{
 	
 	/*background-color: #e3e3e3;*/

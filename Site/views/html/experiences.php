@@ -33,6 +33,38 @@
 				</p>
 			</div>
 		</div> <?php */ ?>
+		
+		<div id="experience-345146238" class="editable-item section-item tall50">
+			<div id="experience-345146238-view">
+				<hgroup>
+					<h4>
+						IT Consultant (Outsource Contract)
+					</h4>
+					<p class="tall30">
+						<a id="image" href="http://www.ais.co.th/" target="_blank" alt="AIS Co., Ltd."></a>
+					</p>
+					<h5 class="tall30">
+						<a href="http://www.canon.co.th/" target="_blank">@ Canon Marketing (Thailand) Co., Ltd.</a><br />
+					</h5>
+					<h5 class="tall30">
+						Agency Outsourcing: <br />
+						<a href="http://www.apartechnologies.com/" target="_blank">Apar Technologies (Thailand) Ltd.</a>
+					</h5>
+				</hgroup>
+				<span class="experience-date-locale">
+					<time datetime="2016-04-01">
+						April, 2016
+					</time>
+					<time datetime="2016-04-02">
+						- Now
+					</time>
+					<br />
+				</span>
+				<p class="description">
+					Skill: Technique Consulting, Coordinate, Software Application Specialist, HTML, CSS, JavaScript, System Analyst, Software Architecture
+				</p>
+			</div>
+		</div>
 		<div id="experience-345146237" class="editable-item section-item tall50">
 			<div id="experience-345146237-view">
 				<hgroup>
@@ -55,7 +87,7 @@
 						January, 2015
 					</time>
 					<time datetime="2015-04-19">
-						- April, 2015
+						- March, 2016
 					</time>
 					<br />
 				</span>
