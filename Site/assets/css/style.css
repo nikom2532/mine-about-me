@@ -290,12 +290,19 @@ body{
 	width: 500px;
 	height: 128px;
 }
+.main-content #background-education #education-45113785 #education-45113785-view a#image{
+	background-image: url("../images/educations/nida-mba-aacsb.jpg");
+	background-size: 398px auto;
+	display: block;
+	width: 398px;
+	height: 190px;
+}
 .main-content #background-education #education-45113784 #education-45113784-view a#image{
-	background-image: url("http://research.kmitl.ac.th/images/KMITL1.gif");
+	background-image: url("../images/educations/kmitl_thai.png");
 	background-size: 484px auto;
 	display: block;
 	width: 484px;
-	height: 153px;
+	height: 484px;
 }
 .main-content #background-education #education-45143993 #education-45143993-view a#image{
 	background-image: url("../images/educations/LasalleCollegeBangkok.jpg");

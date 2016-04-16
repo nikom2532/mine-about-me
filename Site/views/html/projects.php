@@ -1,5 +1,5 @@
 <div class="myname">
-	Projectsdddd
+	Projects
 </div>
 <div id="background-projects-container" class="background-section" data-li-template="projects_section">
 	<div id="background-projects" class="background-projects tall50">

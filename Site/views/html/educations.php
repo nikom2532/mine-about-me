@@ -5,6 +5,30 @@
 	<div id="education-blank-form" class="profile-blank-form">
 		<!---->
 	</div><div id="education-blank" class="profile-blank"></div>
+	<div id="education-45113785" class="editable-item section-item tall50">
+		<div id="education-45113785-view">
+			<div class="education first">
+				<h5>Master of Business Administrator (MBA)<br />in Flexible MBA #29 Section 3</h5>
+				<span class="education-date">
+					<p class="tall30">
+						<a id="image" href="http://mba.nida.ac.th/" target="_blank" alt="Socket9"></a>
+					</p>
+					<h4 class="summary fn org"><a href="http://mba.nida.ac.th/" target="_blank">NIDA Business School (National Institute of Development Administration)</a></h4>
+					<time datetime="2015">
+						2015
+					</time>
+					<time datetime="2016">
+						– Now
+					</time>
+				</span>
+				<p class="notes">
+					be a Master Degree student at NIDA Business School (National Institute of Development Administration)
+					<br>
+					in Master of Business Administrator (MBA) Programme
+				</p>
+			</div>
+		</div>
+	</div>
 	<div id="education-45113784" class="editable-item section-item tall50">
 		<div id="education-45113784-view">
 			<div class="education  first">
