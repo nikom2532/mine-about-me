@@ -36,7 +36,7 @@
 		<div id="project-111" class="editable-item section-item tall50">
 			<div id="project-111-view">
 				<hgroup>
-					<h4 class="summary fn org"><a href="http://prdsharing.aitproject.com" target="_blank">TA Autosales</a></h4>
+					<h4 class="summary fn org">TA Autosales</h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2013-03-01">
 						August 2014 - December 2014
