@@ -17,7 +17,7 @@
 </div>
 <div style="margin-top: 30px;"></div>
 <div>
-	E-mail: <a href="mailto:arming@buildthedot.com">arming@buildthedot.com</a> , <a href="mailto:arming@i-ming.com">arming@i-ming.com</a>
+	E-mail: <a href="mailto:arming@i-ming.com">arming@i-ming.com</a> , <a href="mailto:nikom2532@gmail.com">nikom2532@gmail.com</a>
 </div>
 <div>
 	Telephone: +66 8 5506 5953
