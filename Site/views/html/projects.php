@@ -14,6 +14,23 @@
 			<!--  -->
 		</div><div id="project-blank" class="profile-blank"></div>
 		
+		<div id="project-113" class="editable-item section-item tall50">
+			<div id="project-113-view">
+				<hgroup>
+					<h4 class="summary fn org">E-Correspondence by Cigna Insurance Co., Ltd.</h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2016-04-01">
+						April 2016 - June 2017
+					</time></span>
+				<p class="description" id="yui-gen16">
+					This was a project when I was the Consultant at Canon Marketing (Thailand) Co., Ltd. Developed the PlanetPress Connect Application for using in the Insurance Company.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/33.PlanetPressDesigner.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
+		
 		<div id="project-112" class="editable-item section-item tall50">
 			<div id="project-112-view">
 				<hgroup>
