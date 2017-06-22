@@ -17,7 +17,8 @@
 		<div id="project-113" class="editable-item section-item tall50">
 			<div id="project-113-view">
 				<hgroup>
-					<h4 class="summary fn org">E-Correspondence by Cigna Insurance Co., Ltd.</h4>
+					<h4 class="summary fn org" style="text-indent: 2em;">E-Correspondence (Phase 1,2,3) by Cigna Insurance Co., Ltd.</h4>
+					<h4 class="summary fn org" style="text-indent: 2em;">Other Canon Projects with PDF Modifications, PDF Encryption, PDF with CA (Certificate Authority)</h4>
 				</hgroup><span class="projects-date">
 					<time datetime="2016-04-01">
 						April 2016 - June 2017
