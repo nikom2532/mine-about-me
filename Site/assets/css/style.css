@@ -168,6 +168,32 @@ body{
     padding-bottom: 30px;
 }
 
+
+
+
+
+
+.main-content #background-experience #experience-345146241 #experience-345146241-view hgroup a#image{
+	
+	background-color: #ffffff; 
+	background-image: url("../images/experiences/ThaiLifeInsurance.png");
+	background-size: 215px auto;
+	display: block;
+	width: 225px;
+	height: 225px;
+}
+
+
+
+.main-content #background-experience #experience-345146240 #experience-345146240-view hgroup a#image{
+	
+	background-color: #ffffff; 
+	background-image: url("../images/experiences/B3TECHNOLOGY.png");
+	background-size: 215px auto;
+	display: block;
+	width: 215px;
+	height: 225px;
+}
 .main-content #background-experience #experience-345146239 #experience-345146239-view hgroup a#image{
 	
 	background-color: #ffffff; 
@@ -599,6 +625,23 @@ body{
 	display: block;
 	width: 484px;
 	height: 266px;
+}
+
+
+.main-content #background-projects #project-116 #project-view a#image{
+	background-image: url("../images/projects/36.SFDC_ServiceCloud.png");
+	background-size: 483px auto;
+	display: block;
+	width: 483px;
+	height: 271px;
+}
+
+.main-content #background-projects #project-115 #project-view a#image{
+	background-image: url("../images/projects/35.SFDC_ExperienceCloud.png");
+	background-size: 483px auto;
+	display: block;
+	width: 483px;
+	height: 255px;
 }
 
 .main-content #background-projects #project-114 #project-114-view a#image{

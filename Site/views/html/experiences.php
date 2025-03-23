@@ -3,36 +3,78 @@
 </div>
 <div id="background-experience" class="background-experience edit-default tall50">
 	<div id="experience-391737344" class="editable-item section-item">
-		<?php /* ?> <div id="experience-345146233" class="editable-item section-item">
-			<div id="experience-345146233-view">
+		<div id="experience-345146241" class="editable-item section-item tall50">
+			<div id="experience-345146241-view">
 				<hgroup>
 					<h4>
-						Software Development - Freelancer
+						Salesforce Functional Consultant (Business Analyst & QA)
 					</h4>
 					<p class="tall30">
-						<a id="image" href="http://www.candelazdzign.com" target="_blank" alt="candelazdzign"></a>
+						<a id="image" href="http://www.thailife.com/" target="_blank" alt="Thai Life Insurance PCL."></a>
 					</p>
 					<h5 class="tall30">
-						<a href="http://www.candelazdzign.com" target="_blank">@ candelazdzign</a>
+						<a href="http://www.thailife.com/" target="_blank">@ Thai Life Insurance PCL.</a><br />
+					</h5>
+					<h5 class="tall30">
+						Agency Outsourcing: <br />
+						<a href="https://www.albatross-consulting.co.th/" target="_blank">@ Albatross Consulting Co., Ltd.</a>
 					</h5>
 				</hgroup>
 				<span class="experience-date-locale">
-					<time datetime="2012-12-01">
-						August 2013
+					<time datetime="2017-10-01">
+						November 2024
 					</time>
-					<time datetime="2013-04-01">
-						– now
+					<time datetime="2023-03-31">
+						- April 2025
 					</time>
-					<br />
+					<br /><br />
 				</span>
 				<p class="description">
-					Software Developer on
-					<br />
-					Web Design Service , Graphic Design , Production House , Photography , Creative Idea , Mobile App.
-					<br />
+					Role: Business Analyst, QA 
+					<br /><br />
+					Skill: 
+					<br />User Get Requirements
+					<br />Documents and Data Mapping
+					<br />Assign and Corporate with Venders, System Analyst, Software Developer
+					<br />Audit and correcting with Vender, System Analyst, Software Developer’s Documents
+					<br />Test Case Scenarios, SIT, UAT
 				</p>
 			</div>
-		</div> <?php */ ?>
+		</div><div id="experience-345146240" class="editable-item section-item tall50">
+			<div id="experience-345146240-view">
+				<hgroup>
+					<h4>
+						Business Analyst
+					</h4>
+					<p class="tall30">
+						<a id="image" href="http://www.b3tech.co.th/" target="_blank" alt="B3 Technology Co., Ltd."></a>
+					</p>
+					<h5 class="tall30">
+						<a href="http://www.b3tech.co.th/" target="_blank">@ B3 Technology Co., Ltd.</a><br />
+					</h5>
+				</hgroup>
+				<span class="experience-date-locale">
+					<time datetime="2017-10-01">
+						April 2023
+					</time>
+					<time datetime="2023-03-31">
+						- September 2024
+					</time>
+					<br /><br />
+				</span>
+				<p class="description">
+					Role: Business Analyst
+					<br /><br />
+					Skill: 
+					<br />User Get Requirements/Design Solution
+					<br />Documents
+					<br />Functional Config in Salesforce (Flows Triggers, Workflows rules, etc)
+					<br />Report in Salesforce
+					<br />Unit Test/UAT
+					<br />Custom Code (APEX Batch, APEX Trigger)
+				</p>
+			</div>
+		</div>
 		<div id="experience-345146239" class="editable-item section-item tall50">
 			<div id="experience-345146239-view">
 				<hgroup>
@@ -69,6 +111,36 @@
 				</p>
 			</div>
 		</div>
+		<?php /* ?> <div id="experience-345146233" class="editable-item section-item">
+			<div id="experience-345146233-view">
+				<hgroup>
+					<h4>
+						Software Development - Freelancer
+					</h4>
+					<p class="tall30">
+						<a id="image" href="http://www.candelazdzign.com" target="_blank" alt="candelazdzign"></a>
+					</p>
+					<h5 class="tall30">
+						<a href="http://www.candelazdzign.com" target="_blank">@ candelazdzign</a>
+					</h5>
+				</hgroup>
+				<span class="experience-date-locale">
+					<time datetime="2012-12-01">
+						August 2013
+					</time>
+					<time datetime="2013-04-01">
+						– now
+					</time>
+					<br />
+				</span>
+				<p class="description">
+					Software Developer on
+					<br />
+					Web Design Service , Graphic Design , Production House , Photography , Creative Idea , Mobile App.
+					<br />
+				</p>
+			</div>
+		</div> <?php */ ?>
 		<div id="experience-345146238" class="editable-item section-item tall50">
 			<div id="experience-345146238-view">
 				<hgroup>

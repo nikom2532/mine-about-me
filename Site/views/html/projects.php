@@ -13,7 +13,42 @@
 		<div id="project-blank-form" class="profile-blank-form">
 			<!--  -->
 		</div><div id="project-blank" class="profile-blank"></div>
-		
+
+		<div id="project-116" class="editable-item section-item tall50">
+			<div id="project-view">
+				<hgroup>
+					<h4 class="summary fn org" style="text-indent: 2em;">Change Request: Salesforce.com NonVoice Contact Center (Corporate Customer)</h4>
+					<h4 class="summary fn org" style="text-indent: 2em;">Change Request: Salesforce.com Merge Claim Departments</h4>
+					<h4 class="summary fn org" style="text-indent: 2em;">Change Request: Salesforce.com New Customer Tier</h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2023-04-01">
+						November 2024 - April 2025
+					</time></span>
+				<p class="description" id="yui-gen16">
+					This was a project when I was Outsource Contract at Thai Life Insurance PCL. Developed By using Salesforce. 
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/36.SFDC_ServiceCloud.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
+		<div id="project-115" class="editable-item section-item tall50">
+			<div id="project-view">
+				<hgroup>
+					<h4 class="summary fn org" style="text-indent: 2em;">Project: Salesforce Experience Site: Agent Dashboard Phase 1</h4>
+					<h4 class="summary fn org" style="text-indent: 2em;">Project: Salesforce Experience Site: Agent Dashboard Phase 2-3</h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2023-04-01">
+						April 2023 - September 2024
+					</time></span>
+				<p class="description" id="yui-gen16">
+					This was a project when I was the employee at B3 Technology Co., Ltd. Developed By using Salesforce Experience Site. 
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/35.SFDC_ExperienceCloud.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
 		<div id="project-114" class="editable-item section-item tall50">
 			<div id="project-114-view">
 				<hgroup>

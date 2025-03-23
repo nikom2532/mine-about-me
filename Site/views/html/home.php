@@ -1,7 +1,7 @@
 <div style="width: 50%; margin-left: auto; margin-right: auto;">
 	<div class="row-fluid">
 		<div class="span8" >
-			<img src="./assets/images/SSL10858[4-2].JPG" />
+			<img src="./assets/images/20250320173000.jpg" />
 		</div>
 	</div>
 </div>
