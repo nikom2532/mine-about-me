@@ -14,6 +14,24 @@
 			<!--  -->
 		</div><div id="project-blank" class="profile-blank"></div>
 		
+		<div id="project-114" class="editable-item section-item tall50">
+			<div id="project-114-view">
+				<hgroup>
+					<h4 class="summary fn org" style="text-indent: 2em;">Salesforce Case Managements for Service Cloud</h4>
+					<h4 class="summary fn org" style="text-indent: 2em;">Salesforce Sales Cloud</h4>
+				</hgroup><span class="projects-date">
+					<time datetime="2016-04-01">
+						October 2017 - March 2023
+					</time></span>
+				<p class="description" id="yui-gen16">
+					This was a project when I was the employee at OfficeMate Thai Co., Ltd. Developed By using Salesforce Sales and Service Cloud.
+				</p>
+				<p>	
+					<a id="image" href="./assets/images/projects/34.SFDC_Service1.png" target="_blank" alt=""></a>
+				</p>
+			</div>
+		</div>
+
 		<div id="project-113" class="editable-item section-item tall50">
 			<div id="project-113-view">
 				<hgroup>

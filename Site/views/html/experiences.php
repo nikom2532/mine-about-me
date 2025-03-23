@@ -33,7 +33,42 @@
 				</p>
 			</div>
 		</div> <?php */ ?>
-		
+		<div id="experience-345146239" class="editable-item section-item tall50">
+			<div id="experience-345146239-view">
+				<hgroup>
+					<h4>
+						Salesforce Administrator (BA + No Code + QA + Support)
+					</h4>
+					<p class="tall30">
+						<a id="image" href="http://www.ofm.co.th/" target="_blank" alt="AIS Co., Ltd."></a>
+					</p>
+					<h5 class="tall30">
+						<a href="http://www.ofm.co.th/" target="_blank">@ OfficeMate Thai Co., Ltd.</a><br />
+					</h5>
+				</hgroup>
+				<span class="experience-date-locale">
+					<time datetime="2017-10-01">
+						October, 2017
+					</time>
+					<time datetime="2023-03-31">
+						- March 2023
+					</time>
+					<br /><br />
+				</span>
+				<p class="description">
+					Role: Business Analyst, Salesforce BA Functional, Salesforce Administrator, Salesforce Support (Salesforce Sales Cloud and Service Cloud)
+					<br /><br />
+					Skill: 
+					<br />Object/Field/Page Layout/Profile/Role/
+					<br />Flow Builder/Process Builder/Approval Process/Case
+					<br />Entielements/Validation Rule/Formula Concept
+					<br />SOQL/Report/Dashboard/Page Lightning
+					<br />APEX/Batch/Visualforce Page/Lightning Component
+					<br />Support IT Dev for REST API/Database Integration
+					<br />Get Requirements/Design Solution/QA (Test Case Scenario)/UAT with Users/SFDC Deployment/2nd Tier Support Users
+				</p>
+			</div>
+		</div>
 		<div id="experience-345146238" class="editable-item section-item tall50">
 			<div id="experience-345146238-view">
 				<hgroup>
@@ -56,9 +91,9 @@
 						April, 2016
 					</time>
 					<time datetime="2016-04-02">
-						- Now
+						- June 2017
 					</time>
-					<br />
+					<br /><br />
 				</span>
 				<p class="description">
 					Skill: Technique Consulting, Coordinate, Software Application Specialist, HTML, CSS, JavaScript, System Analyst, Software Architecture
@@ -89,7 +124,7 @@
 					<time datetime="2015-04-19">
 						- March, 2016
 					</time>
-					<br />
+					<br /><br />
 				</span>
 				<p class="description">
 					Skill: NetExpert [Objective Systems Integrators (OSI)], Compile MIB, Shell Script Language, Expect(Tool Command Scripting Language), Perl, Oracle, Object-oriented programming, Solaris OS, UNIX, JAVA, System Analyst, Software Architecture
@@ -108,6 +143,10 @@
 					<h5 class="tall30">
 						<a href="http://www.thaiacegroup.com/" target="_blank">@ TAC Info Co., Ltd. (Thai Ace Group)</a>
 					</h5>
+					<h5 class="tall30">
+						Agency Outsourcing: <br />
+						<a href="http://www.rznet.com/" target="_blank">Ring Zero Thailand (Network) Co., Ltd.</a>
+					</h5>
 				</hgroup>
 				<span class="experience-date-locale">
 					<time datetime="2012-12-01">
@@ -116,7 +155,7 @@
 					<time datetime="2013-04-01">
 						– December 2014
 					</time>
-					<br />
+					<br /><br />
 				</span>
 				<p class="description">
 					Skill: System Analyst, Software Architecture, Apache, PHP, Server Web Service (JSON), PostgreSQL, CSS, HTML, JavaScript, jQuery, AJAX, Xubuntu, Redmine, Git Source Control.
@@ -135,6 +174,10 @@
 					<h5 class="tall30">
 						<a href="http://www.aitinnovation.co.th/" target="_blank">@ Advance Innovation Technology Co., Ltd. (AIT Innovation)</a>
 					</h5>
+					<h5 class="tall30">
+						Agency Outsourcing: <br />
+						<a href="http://www.rznet.com/" target="_blank">Ring Zero Thailand (Network) Co., Ltd.</a>
+					</h5>
 				</hgroup>
 				<span class="experience-date-locale">
 					<time datetime="2012-12-01">
@@ -143,7 +186,7 @@
 					<time datetime="2013-04-01">
 						– July 2014
 					</time>
-					<br />
+					<br /><br />
 				</span>
 				<p class="description">
 					Skill: System Analyst, Software Architecture, PHP, Server Web Service (JSON), Microsoft SQL Server 2008 R2, CSS, HTML, JavaScript, Windows Configuration, Codeigniter.
@@ -168,9 +211,9 @@
 						May 2014
 					</time>
 					<time datetime="2013-04-01">
-						– Present
+						– December 2014
 					</time>
-					<br />
+					<br /><br />
 				</span>
 				<p class="description">
 					Skill: System Analyst, Software Architecture, PHP, Server Web Service (JSON), MySQL, Microsoft SQL Server 2008 R2, CSS, HTML, JavaScript, LINUX Configurations, Windows Configuration, Codeigniter.
@@ -195,9 +238,9 @@
 						June 2013
 					</time>
 					<time datetime="2013-04-01">
-						– Present
+						– April 2014
 					</time>
-					<br />
+					<br /><br />
 				</span>
 				<p class="description">
 					Software Developer on
@@ -212,7 +255,7 @@
 					<br />
 					We are Software Development, and Software Design Service Providers.
 					<br /><br />
-					<span style="color: rgb(255, 245, 0);"><strong>Portfolio Profile:</strong></span> <a href="http://works.buildthedot.com" target="_blank">http://works.buildthedot.com</a>
+					<span style="color: rgb(255, 245, 0);"><strong>Portfolio Profile:</strong></span> <a href="http://web.i-ming.com/2" target="_blank">http://works.buildthedot.com</a>
 				</p>
 			</div>
 		</div>
@@ -237,7 +280,9 @@
 					</time>
 					<time>
 						(5 months)
-					</time><span class="locality">31 Phyathai building, Room 217, Phyathai road.  Phyathai, Ratchathewi, Bangkok 1</span></span>
+					</time>
+					<br /><br />
+					<span class="locality">31 Phyathai building, Room 217, Phyathai road.  Phyathai, Ratchathewi, Bangkok 1</span></span>
 				<p class="description">
 					Software Developer on
 					<br>
@@ -265,7 +310,9 @@
 					</time>
 					<time>
 						(2 months)
-					</time><span class="locality">Bangkok, Thailand</span>
+					</time>
+					<br /><br />
+					<span class="locality">Bangkok, Thailand</span>
 				</span>
 				<p class="description">
 					MODx Revolution Developer, Web Front-end Developer - Outsource from Socket 9
@@ -289,7 +336,9 @@
 					</time>
 					<time>
 						(6 months)
-					</time><span class="locality">Bangkok, Thailand</span></span>
+					</time>
+					<br /><br />
+					<span class="locality">Bangkok, Thailand</span></span>
 				<dl class="education-associated">
 					<dt data-trk-code="prof-exp-project-open" data-trk-code-alt="prof-exp-project-close">
 						1 project
@@ -326,7 +375,9 @@
 					</time>
 					<time>
 						(2 months)
-					</time><span class="locality">Zhuhai, GuangDong, China</span></span>
+					</time>
+					<br /><br />
+					<span class="locality">Zhuhai, GuangDong, China</span></span>
 				<p class="description">
 					did not do everyday/everynight
 					<br>
@@ -364,7 +415,9 @@
 					</time>
 					<time>
 						(1 month)
-					</time><span class="locality">Zhuhai, Guangdong, China</span></span>
+					</time>
+					<br /><br />
+					<span class="locality">Zhuhai, Guangdong, China</span></span>
 				<p class="description">
 					Wordpress Theme Customization‏
 					<br>
@@ -407,7 +460,9 @@
 					</time>
 					<time>
 						(3 months)
-					</time><span class="locality">Pahonyothin Road, Bangkok, Thailand</span></span>
+					</time>
+					<br /><br />
+					<span class="locality">Pahonyothin Road, Bangkok, Thailand</span></span>
 				<p class="description">
 					Summer 2011 Internship
 				</p>
@@ -451,7 +506,9 @@
 					</time>
 					<time>
 						(3 months)
-					</time><span class="locality">Central Bangna</span></span>
+					</time>
+					<br /><br />
+					<span class="locality">Central Bangna</span></span>
 				<p class="description">
 					PHP programming, IT Support
 				</p>
@@ -465,7 +522,8 @@
 						<a id="image" href="http://www.thaitelephone.com/" target="_blank" alt="SCB (Siam Commercial Bank)"></a>
 					</p>
 					<h5><a href="http://www.thaitelephone.com/">@ ThaiTelephone.com</a></h5>
-				</hgroup><span class="experience-date-locale">
+				</hgroup>
+				<span class="experience-date-locale">
 					<time datetime="2010-03-01">
 						March 2010
 					</time>
@@ -474,7 +532,9 @@
 					</time>
 					<time>
 						(3 months)
-					</time></span>
+					</time>
+				</span>
+				<br /><br />
 				<p class="description">
 					PHP programming, IT Support
 				</p>
