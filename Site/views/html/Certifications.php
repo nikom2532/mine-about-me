@@ -2,6 +2,16 @@
 	Certifications
 </div>
 <div id="background-certifications" class="background-certifications">
+	<div id="certifications-202311" class="tall50">
+		<div id="view">
+			<h4 class="">
+				<a href="http://www.Salesforce.com/" target="_blank">Certified Salesforce Administrator</a>
+			</h4>
+			<p>
+				<a id="image" href="./assets/images/certifications/11.Cert3789698_Administrator_20231105.jpg" target="_blank" alt=""></a>
+			</p>
+		</div>
+	</div>
 	<div id="certifications-200310" class="tall50">
 		<div id="view">
 			<h4 class="">

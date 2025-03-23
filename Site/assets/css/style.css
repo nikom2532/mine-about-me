@@ -353,6 +353,14 @@ body{
 	width: 200px;
 	height: 199px;
 }
+
+.main-content #background-certifications #certifications-202311 #view #image{
+	background-image: url("../images/certifications/11.Cert3789698_Administrator_20231105.jpg");
+	background-size: 624px auto;
+	display: block;
+	width: 624px;
+	height: 351px;
+}
 .main-content #background-certifications #certifications-200310 #view #image{
 	background-image: url("../images/certifications/1.PattanaTechnicSchool.jpg");
 	background-size: 484px auto;

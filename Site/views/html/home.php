@@ -10,10 +10,18 @@
 	Hi, My name is
 </div>
 <div class="myname">
-	Nikom Suwankamol <br/>(Arm&#237;ng H&#250;ang)
+	Nikom Suwankamol (Arm&#237;ng H&#250;ang)
 </div>
 <div>
-	We develop and design the Web Application, and the Mobile Application Service Provider.
+	<?php 
+	// From 2011
+	// We develop and design the Web Application, and the Mobile Application Service Provider. 
+	?>
+	I am working in IT Job, let find me and hire me for Permanance Job or Outsource Contract Job as you want.
+	<br />
+</div>
+<div class="myname">
+	<a href="https://drive.google.com/file/d/1YS01xdAMw_i2YgAmnt0ogZ4piYoTw-ZE/view?usp=sharing" target="_blank" alt="Nikom Suwankamol CV">Please see my CV here</a>
 </div>
 <div style="margin-top: 30px;"></div>
 <div>
