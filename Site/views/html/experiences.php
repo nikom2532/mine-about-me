@@ -10,8 +10,11 @@
 						Salesforce Functional Consultant (Business Analyst & QA)
 					</h4>
 					<p class="tall30">
-						<a id="image" href="http://www.albatross-consulting.co.th/" target="_blank" alt="Albatross Consulting Co., Ltd."></a>
+						<a id="image" href="http://www.thailife.com/" target="_blank" alt="Thai Life Insurance PCL."></a>
 					</p>
+					<h5 class="tall30">
+						<a href="http://www.thailife.com/" target="_blank">@ Thai Life Insurance PCL.</a><br />
+					</h5>
 					<h5 class="tall30">
 						Agency Outsourcing: <br />
 						<a href="https://www.albatross-consulting.co.th/" target="_blank">@ Albatross Consulting Co., Ltd.</a>
