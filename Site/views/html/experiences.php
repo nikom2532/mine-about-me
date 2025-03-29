@@ -9,15 +9,21 @@
 					<h4>
 						Salesforce Functional Consultant (Business Analyst & QA)
 					</h4>
+					<?php /* 
 					<p class="tall30">
-						<a id="image" href="http://www.thailife.com/" target="_blank" alt="Thai Life Insurance PCL."></a>
+						<a id="image" href="https://www.thailife.com/" target="_blank" alt="Thai Life Insurance PCL."></a>
+					</p> */
+					?>
+					<p class="tall30">
+						<a id="image" href="https://www.albatross-consulting.co.th.com/" target="_blank" alt="Albatross Consulting Co, Ltd."></a>
 					</p>
-					<h5 class="tall30">
-						<a href="http://www.thailife.com/" target="_blank">@ Thai Life Insurance PCL.</a><br />
-					</h5>
 					<h5 class="tall30">
 						Agency Outsourcing: <br />
 						<a href="https://www.albatross-consulting.co.th/" target="_blank">@ Albatross Consulting Co., Ltd.</a>
+					</h5>
+					<h5 class="tall30">
+						Sub-Contract: <br />
+						<a href="https://www.thailife.com/" target="_blank">@ Thai Life Insurance PCL.</a><br />
 					</h5>
 				</hgroup>
 				<span class="experience-date-locale">
@@ -31,8 +37,16 @@
 				</span>
 				<p class="description">
 					Role: Business Analyst, QA 
+					<br />Job Type: Sub-Contract
+					<br />Industry Type of customer: Life Insurance
 					<br /><br />
-					Skill: 
+					Project:
+					<br />Change Request: Salesforce.com NonVoice Contact Center (Corporate
+					Customer)
+					<br />Change Request: Salesforce.com Merge Claim Departments
+					<br />Change Request: Salesforce.com New Customer Tier
+					<br /><br />
+					Job Description:
 					<br />User Get Requirements
 					<br />Documents and Data Mapping
 					<br />Assign and Corporate with Venders, System Analyst, Software Developer
@@ -47,10 +61,14 @@
 						Business Analyst
 					</h4>
 					<p class="tall30">
-						<a id="image" href="http://www.b3tech.co.th/" target="_blank" alt="B3 Technology Co., Ltd."></a>
+						<a id="image" href="https://www.b3tech.co.th/" target="_blank" alt="B3 Technology Co., Ltd."></a>
 					</p>
 					<h5 class="tall30">
-						<a href="http://www.b3tech.co.th/" target="_blank">@ B3 Technology Co., Ltd.</a><br />
+						<a href="https://www.b3tech.co.th/" target="_blank">@ B3 Technology Co., Ltd.</a><br />
+					</h5>
+					<h5 class="tall30">
+						Customer's Project: 
+						<a href="https://www.rabbitlife.co.th/" target="_blank">@ Rabbit Life Insurance PCL.</a><br />
 					</h5>
 				</hgroup>
 				<span class="experience-date-locale">
@@ -64,6 +82,10 @@
 				</span>
 				<p class="description">
 					Role: Business Analyst
+					<br /><br />
+					Project:
+					<br />Life Insurance - Agent Dashboard Phase 1
+					<br />Life Insurance - Agent Dashboard Phase 2-3
 					<br /><br />
 					Skill: 
 					<br />User Get Requirements/Design Solution
@@ -82,10 +104,10 @@
 						Salesforce Administrator (BA + No Code + QA + Support)
 					</h4>
 					<p class="tall30">
-						<a id="image" href="http://www.ofm.co.th/" target="_blank" alt="AIS Co., Ltd."></a>
+						<a id="image" href="https://www.ofm.co.th/" target="_blank" alt="AIS Co., Ltd."></a>
 					</p>
 					<h5 class="tall30">
-						<a href="http://www.ofm.co.th/" target="_blank">@ OfficeMate Thai Co., Ltd.</a><br />
+						<a href="https://www.ofm.co.th/" target="_blank">@ OfficeMate Thai Co., Ltd.</a><br />
 					</h5>
 				</hgroup>
 				<span class="experience-date-locale">
@@ -118,10 +140,10 @@
 						Software Development - Freelancer
 					</h4>
 					<p class="tall30">
-						<a id="image" href="http://www.candelazdzign.com" target="_blank" alt="candelazdzign"></a>
+						<a id="image" href="https://www.candelazdzign.com" target="_blank" alt="candelazdzign"></a>
 					</p>
 					<h5 class="tall30">
-						<a href="http://www.candelazdzign.com" target="_blank">@ candelazdzign</a>
+						<a href="https://www.candelazdzign.com" target="_blank">@ candelazdzign</a>
 					</h5>
 				</hgroup>
 				<span class="experience-date-locale">
@@ -148,14 +170,14 @@
 						IT Consultant (Outsource Contract)
 					</h4>
 					<p class="tall30">
-						<a id="image" href="http://www.ais.co.th/" target="_blank" alt="AIS Co., Ltd."></a>
+						<a id="image" href="https://www.ais.co.th/" target="_blank" alt="AIS Co., Ltd."></a>
 					</p>
 					<h5 class="tall30">
-						<a href="http://www.canon.co.th/" target="_blank">@ Canon Marketing (Thailand) Co., Ltd.</a><br />
+						<a href="https://www.canon.co.th/" target="_blank">@ Canon Marketing (Thailand) Co., Ltd.</a><br />
 					</h5>
 					<h5 class="tall30">
 						Agency Outsourcing: <br />
-						<a href="http://www.apartechnologies.com/" target="_blank">Apar Technologies (Thailand) Ltd.</a>
+						<a href="https://www.apartechnologies.com/" target="_blank">Apar Technologies (Thailand) Ltd.</a>
 					</h5>
 				</hgroup>
 				<span class="experience-date-locale">
@@ -179,14 +201,14 @@
 						Outsource (Programmer Analyst (TeleComunication))
 					</h4>
 					<p class="tall30">
-						<a id="image" href="http://www.ais.co.th/" target="_blank" alt="AIS Co., Ltd."></a>
+						<a id="image" href="https://www.ais.co.th/" target="_blank" alt="AIS Co., Ltd."></a>
 					</p>
 					<h5 class="tall30">
-						<a href="http://www.mimotech.co.th/" target="_blank">@ MIMO Tech Co., Ltd. [Advance Info Service (AIS) Co., Ltd.] </a><br />
+						<a href="https://www.mimotech.co.th/" target="_blank">@ MIMO Tech Co., Ltd. [Advance Info Service (AIS) Co., Ltd.] </a><br />
 					</h5>
 					<h5 class="tall30">
 						Agency Outsourcing: <br />
-						<a href="http://www.apartechnologies.com/" target="_blank">Apar Technologies (Thailand) Ltd.</a>
+						<a href="https://www.apartechnologies.com/" target="_blank">Apar Technologies (Thailand) Ltd.</a>
 					</h5>
 				</hgroup>
 				<span class="experience-date-locale">
@@ -210,14 +232,14 @@
 						Outsource (Software Engineer)
 					</h4>
 					<p class="tall30">
-						<a id="image" href="http://www.thaiacegroup.com/" target="_blank" alt="TAC Info Co., Ltd. (Thai Ace Group)"></a>
+						<a id="image" href="https://www.thaiacegroup.com/" target="_blank" alt="TAC Info Co., Ltd. (Thai Ace Group)"></a>
 					</p>
 					<h5 class="tall30">
-						<a href="http://www.thaiacegroup.com/" target="_blank">@ TAC Info Co., Ltd. (Thai Ace Group)</a>
+						<a href="https://www.thaiacegroup.com/" target="_blank">@ TAC Info Co., Ltd. (Thai Ace Group)</a>
 					</h5>
 					<h5 class="tall30">
 						Agency Outsourcing: <br />
-						<a href="http://www.rznet.com/" target="_blank">Ring Zero Thailand (Network) Co., Ltd.</a>
+						<a href="https://www.rznet.com/" target="_blank">Ring Zero Thailand (Network) Co., Ltd.</a>
 					</h5>
 				</hgroup>
 				<span class="experience-date-locale">
@@ -241,14 +263,14 @@
 						Outsource (Software Engineer)
 					</h4>
 					<p class="tall30">
-						<a id="image" href="http://www.aitinnovation.co.th/" target="_blank" alt="Advance Innovation Technology Co., Ltd. (AIT Innovation)"></a>
+						<a id="image" href="https://www.aitinnovation.co.th/" target="_blank" alt="Advance Innovation Technology Co., Ltd. (AIT Innovation)"></a>
 					</p>
 					<h5 class="tall30">
-						<a href="http://www.aitinnovation.co.th/" target="_blank">@ Advance Innovation Technology Co., Ltd. (AIT Innovation)</a>
+						<a href="https://www.aitinnovation.co.th/" target="_blank">@ Advance Innovation Technology Co., Ltd. (AIT Innovation)</a>
 					</h5>
 					<h5 class="tall30">
 						Agency Outsourcing: <br />
-						<a href="http://www.rznet.com/" target="_blank">Ring Zero Thailand (Network) Co., Ltd.</a>
+						<a href="https://www.rznet.com/" target="_blank">Ring Zero Thailand (Network) Co., Ltd.</a>
 					</h5>
 				</hgroup>
 				<span class="experience-date-locale">
@@ -272,10 +294,10 @@
 						Software Engineer
 					</h4>
 					<p class="tall30">
-						<a id="image" href="http://rznet.com/" target="_blank" alt="Ring Zero Network (Thailand) Co., Ltd."></a>
+						<a id="image" href="https://rznet.com/" target="_blank" alt="Ring Zero Network (Thailand) Co., Ltd."></a>
 					</p>
 					<h5 class="tall30">
-						<a href="http://rznet.com/" target="_blank">@ Ring Zero Network (Thailand) Co., Ltd.</a>
+						<a href="https://rznet.com/" target="_blank">@ Ring Zero Network (Thailand) Co., Ltd.</a>
 					</h5>
 				</hgroup>
 				<span class="experience-date-locale">
@@ -299,10 +321,10 @@
 						Co-Founder
 					</h4>
 					<p class="tall30">
-						<a id="image" href="http://www.buildthedot.com/" target="_blank" alt="Socket9"></a>
+						<a id="image" href="https://www.buildthedot.com/" target="_blank" alt="Socket9"></a>
 					</p>
 					<h5 class="tall30">
-						<a href="http://www.buildthedot.com" target="_blank">@ BuildTheDot</a>
+						<a href="https://www.buildthedot.com" target="_blank">@ BuildTheDot</a>
 					</h5>
 				</hgroup>
 				<span class="experience-date-locale">
@@ -327,7 +349,7 @@
 					<br />
 					We are Software Development, and Software Design Service Providers.
 					<br /><br />
-					<span style="color: rgb(255, 245, 0);"><strong>Portfolio Profile:</strong></span> <a href="http://web.i-ming.com/2" target="_blank">http://works.buildthedot.com</a>
+					<span style="color: rgb(255, 245, 0);"><strong>Portfolio Profile:</strong></span> <a href="https://web.i-ming.com/2" target="_blank">https://works.buildthedot.com</a>
 				</p>
 			</div>
 		</div>
@@ -338,10 +360,10 @@
 						Software Developer
 					</h4>
 					<p class="tall30">
-						<a id="image" href="http://www.socket9.com/" target="_blank" alt="Socket9"></a>
+						<a id="image" href="https://www.socket9.com/" target="_blank" alt="Socket9"></a>
 					</p>
 					<h5 class="tall30">
-						<a href="http://www.socket9.com" target="_blank">@ Socket 9 Co., Ltd.</a>
+						<a href="https://www.socket9.com" target="_blank">@ Socket 9 Co., Ltd.</a>
 					</h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2012-12-01">
@@ -367,10 +389,10 @@
 				<hgroup>
 					<h4>Junior MODx Revolution Developer (Outsource)</h4>
 					<p class="tall30">
-						<a id="image" href="http://www.monogon.co/" target="_blank" alt="Monogon"></a>
+						<a id="image" href="https://www.monogon.co/" target="_blank" alt="Monogon"></a>
 					</p>
 					<h5 class="">
-						<span data-tracking="mcp_profile_sum" class="miniprofile-container /companies/2816900?miniprofile=" data-li-url="/companies/2816900?miniprofile="><strong><a href="http://www.monogon.co/" target="_blank">@ Monogon</a></strong></span>
+						<span data-tracking="mcp_profile_sum" class="miniprofile-container /companies/2816900?miniprofile=" data-li-url="/companies/2816900?miniprofile="><strong><a href="https://www.monogon.co/" target="_blank">@ Monogon</a></strong></span>
 					</h5>
 				</hgroup>
 				<span class="experience-date-locale">
@@ -396,9 +418,9 @@
 				<hgroup>
 					<h4>PHP Developer</h4>
 					<p class="tall30">
-						<a id="image" href="http://www.hyroasia.com/" target="_blank" alt="Monogon"></a>
+						<a id="image" href="https://www.hyroasia.com/" target="_blank" alt="Monogon"></a>
 					</p>
-					<h5><a href="http://www.hyroasia.com">@ Hyro Asia Limited</a></h5>
+					<h5><a href="https://www.hyroasia.com">@ Hyro Asia Limited</a></h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2012-06-01">
 						June 2012
@@ -473,10 +495,10 @@
 						Wordpress Theme Customization‏'s Web Developer
 					</h4>
 					<p class="tall30">
-						<a id="image" href="http://pspsolutions.net/" target="_blank" alt="自由人网巴"></a>
+						<a id="image" href="https://pspsolutions.net/" target="_blank" alt="自由人网巴"></a>
 					</p>
 					<h5>
-						<a href="http://pspsolutions.net/">@ P.S.P. Solutions Co., Ltd.</a>
+						<a href="https://pspsolutions.net/">@ P.S.P. Solutions Co., Ltd.</a>
 					</h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2012-05-01">
@@ -493,7 +515,7 @@
 				<p class="description">
 					Wordpress Theme Customization‏
 					<br>
-					http://amaze.pspsolutions.info/
+					https://amaze.pspsolutions.info/
 				</p>
 				<dl class="education-associated">
 					<dt data-trk-code="prof-exp-project-open" data-trk-code-alt="prof-exp-project-close">
@@ -505,7 +527,7 @@
 								<h6>Amaze School Web Application</h6>
 								<p>
 									<span>Wordpress Theme Customization‏
-										http://amaze.pspsolutions.info/
+										https://amaze.pspsolutions.info/
 
 										Wordpress Theme Customization‏'s Project</span><a data-li-trk-code="prof-exp-project-more" href="#background-projects">View</a>
 								</p>
@@ -520,9 +542,9 @@
 				<hgroup>
 					<h4>IT Process and Risk management (Trainee)</h4>
 					<p class="tall30">
-						<a id="image" href="http://www.scb.co.th/" target="_blank" alt="SCB (Siam Commercial Bank)"></a>
+						<a id="image" href="https://www.scb.co.th/" target="_blank" alt="SCB (Siam Commercial Bank)"></a>
 					</p>
-					<h5><a href="http://www.scb.co.th/">@ Siam Commercial Bank PCL</a></h5>
+					<h5><a href="https://www.scb.co.th/">@ Siam Commercial Bank PCL</a></h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2011-03-01">
 						March 2011
@@ -566,9 +588,9 @@
 				<hgroup>
 					<h4>Web Developer (Trainee)</h4>
 					<p class="tall30">
-						<a id="image" href="http://www.thaifly.com/" target="_blank" alt="SCB (Siam Commercial Bank)"></a>
+						<a id="image" href="https://www.thaifly.com/" target="_blank" alt="SCB (Siam Commercial Bank)"></a>
 					</p>
-					<h5><a href="http://www.thaifly.com" target="_blank">@ ThaiFly.com</a></h5>
+					<h5><a href="https://www.thaifly.com" target="_blank">@ ThaiFly.com</a></h5>
 				</hgroup><span class="experience-date-locale">
 					<time datetime="2010-03-01">
 						March 2010
@@ -591,9 +613,9 @@
 				<hgroup>
 					<h4>Web Developer (Trainee)</h4>
 					<p class="tall50">
-						<a id="image" href="http://www.thaitelephone.com/" target="_blank" alt="SCB (Siam Commercial Bank)"></a>
+						<a id="image" href="https://www.thaitelephone.com/" target="_blank" alt="SCB (Siam Commercial Bank)"></a>
 					</p>
-					<h5><a href="http://www.thaitelephone.com/">@ ThaiTelephone.com</a></h5>
+					<h5><a href="https://www.thaitelephone.com/">@ ThaiTelephone.com</a></h5>
 				</hgroup>
 				<span class="experience-date-locale">
 					<time datetime="2010-03-01">

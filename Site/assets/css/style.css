@@ -172,11 +172,11 @@ body{
 
 
 
-
 .main-content #background-experience #experience-345146241 #experience-345146241-view hgroup a#image{
 	
 	background-color: #ffffff; 
-	background-image: url("../images/experiences/ThaiLifeInsurance.png");
+	/*	background-image: url("../images/experiences/ThaiLifeInsurance.png");*/
+	background-image: url("../images/experiences/Albatross.jpg");
 	background-size: 215px auto;
 	display: block;
 	width: 225px;
